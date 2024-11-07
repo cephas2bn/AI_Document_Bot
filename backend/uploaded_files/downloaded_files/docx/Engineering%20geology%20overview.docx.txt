@@ -1,0 +1,66 @@
+Engineering geology
+From Wikipedia, the free encyclopedia
+Engineering geology is the application of the geologic sciences to engineering practice for the purpose of assuring that the geologic factors affecting the location, design, construction, operation and maintenance of engineering works are recognized and adequately provided for. Engineering geologists investigate and provide geologic and geotechnical recommendations, analysis, and design associated with human development. The realm of the engineering geologist is essentially in the area of earth-structure interactions, or investigation of how the earth or earth processes impact human made structures and human activities.
+Engineering geologic studies may be performed during the planning, environmental impact analysis, civil or structural engineering design, value engineering and construction phases of public and private works projects, and during post-construction and forensic phases of projects. Works completed by engineering geologists include; geologic hazards, geotechnical, material properties, landslide and slope stability, erosion, flooding, dewatering, and seismic investigations, etc. Engineering geologic studies are performed by a geologist or engineering geologist that is educated, trained and has obtained experience related to the recognition and interpretation of natural processes, the understanding of how these processes impact man-made structures (and vice versa), and knowledge of methods by which to mitigate for hazards resulting from adverse natural or man-made conditions. The principal objective of the engineering geologist is the protection of life and property against damage caused by geologic conditions.
+Engineering geologic practice is also closely related to the practice of geological engineering, geotechnical engineering, soils engineering, environmental geology and economic geology. If there is a difference in the content of the disciplines described, it mainly lies in the training or experience of the practitioner.
+History
+Although the science of geology has been around since the 18th century, at least in its modern form, the science and practice of engineering geology didn't begin as a recognized discipline until the late 19th and early 20th centuries. The first book entitled Engineering Geology was published in 1880 by William Penning. In the early 20th century Charles Berkey, an American trained geologist who was considered the first American engineering geologist, worked on a number of water supply projects for New York City, then later worked on the Hoover dam and a multitude of other engineering projects. The first American engineering geology text book was written in 1914 by Ries and Watson. In 1925, Karl Terzaghi, an Austrian trained engineer and geologist, published the first text in Soil Mechanics (in German). Terzaghi is known as the father of soil mechanics, but also had great interest in geology; Terzaghi considered soil mechanics to be a sub-discipline of engineering geology. In 1929, Terzaghi, along with Redlich and Kampe, published their own Engineering Geology text (also in German).
+The need for geologist on engineering works gained world wide attention in 1928 with the failure of the St. Francis dam in California and the loss of 426 lives. More engineering failures which occurred the following years also prompted the requirement for engineering geologists to work on large engineering projects.
+In 1951, one of the earliest definitions of the "Engineering geologist" or "Professional Engineering Geologist" was provided by the Executive Committee of the Division on Engineering Geology of the Geological Society of America.
+The Practice
+One of the most important roles of the engineering geologist is the interpretation of landforms and earth processes to identify potential geologic and related man-made hazards that may impact civil structures and human development. Nearly all engineering geologists are initially trained and educated in geology, primarily during their undergraduate education. This background in geology provides the engineering geologist with an understanding of how the earth works, which is crucial in mitigating for earth related hazards. Most engineering geologists also have graduate degrees where they have gained specialized education and training in soil mechanics, rock mechanics, geotechnics, groundwater, hydrology, and civil design. These two aspects of the engineering geologists' education provides them with a unique ability to understand and mitigate for hazards associated with earth-structure interactions.
+Scope of Studies
+Engineering geologic studies may be performed:
+for residential, commercial and industrial developments;
+for governmental and military installations;
+for public works such as a power plant, wind turbine, transmission line, sewage treatment plant, water treatment plant, pipeline (aqueduct, sewer, outfall), tunnel, trenchless construction, canal, dam, reservoir, building, railroad, transit, highway, bridge, seismic retrofit, airport and park;
+for mine and quarry excavations, mine tailing dam, mine reclamation and mine tunneling;
+for wetland and habitat restoration programs;
+for coastal engineering, sand replenishment, bluff or sea cliff stability, harbor, pier and waterfront development;
+for offshore outfall, drilling platform and sub-sea pipeline, sub-sea cable; and
+for other types of facilities.
+Geohazards and adverse geo-conditions
+Typical geologic hazards or other adverse conditions evaluated and mitigated by an engineering geologist include:
+fault rupture on seismically active faults ;
+seismic and earthquake hazards (ground shaking, liquefaction, lurching, lateral spreading, tsunami and seiche events);
+landslide, mudflow, rockfall, debris flow, and avalanche hazards ;
+unstable slopes and slope stability;
+erosion;
+slaking and heave of geologic formations;
+ground subsidence (such as due to ground water withdrawal, sinkhole collapse, cave collapse, decomposition of organic soils, and tectonic movement);
+volcanic hazards (volcanic eruptions, hot springs, pyroclastic flows, debris flow, debris avalanche, gas emissions, volcanic earthquakes);
+non-rippable or marginally rippable rock requiring heavy ripping or blasting;
+weak and collapsible soils, foundation bearing failures;
+shallow ground water/seepage; and
+other types of geologic constraints.
+An engineering geologist or geophysicist may be called upon to evaluate the excavatability (i.e. rippability) of earth (rock) materials to assess the need for pre-blasting during earthwork construction, as well as associated impacts due to vibration during blasting on projects.
+Soil and Rock Mechanics
+Main articles: Soil mechanics and Rock mechanics
+Soil mechanics is a discipline that applies principles of engineering mechanics, e.g. kinematics, dynamics, fluid mechanics, and mechanics of material, to predict the mechanical behavior of soils. Rock mechanics is the theoretical and applied science of the mechanical behaviour of rock and rock masses; it is that branch of mechanics concerned with the response of rock and rock masses to the force fields of their physical environment. The fundamental processes are all related to the behaviour of porous media. Together, soil and rock mechanics are the basis for solving many engineering geologic problems.
+Methods and reporting
+The methods used by engineering geologists in their studies include
+geologic field mapping of geologic structures, geologic formations, soil units and hazards;
+the review of geologic literature, geologic maps, geotechnical reports, engineering plans, environmental reports, stereoscopic aerial photographs, remote sensing data, Global Positioning System (GPS) data, topographic maps and satellite imagery;
+the excavation, sampling and logging of earth/rock materials in drilled borings, backhoe test pits and trenches, fault trenching, and bulldozer pits;
+geophysical surveys (such as seismic refraction traverses, resistivity surveys, ground penetrating radar (GPR) surveys, magnetometer surveys, electromagnetic surveys, high-resolution sub-bottom profiling, and other geophysical methods);
+deformation monitoring as the systematic measurement and tracking of the alteration in the shape or dimensions of an object as a result of the application of stress to it manually or with an automatic deformation monitoring system; and
+other methods.
+The field work is typically culminated in analysis of the data and the preparation of an engineering geologic report, geotechnical report, fault hazard or seismic hazard report, geophysical report, ground water resource report or hydrogeologic report. The engineering geologic report is often prepared in conjunction with a geotechnical report, but commonly provide geotechnical analysis and design recommendations independent of a geotechnical report. An engineering geologic report describes the objectives, methodology, references cited, tests performed, findings and recommendations for development. Engineering geologists also provide geologic data on topograpic maps, aerial photographs, geologic maps, Geographic Information System (GIS) maps, or other map bases.
+See also
+Earthquake engineering
+Geoprofessions
+Geotechnics
+Geotechnical engineering
+Geotechnical investigation
+Important publications in engineering geology
+Mining engineering
+Petroleum engineering
+Hydrogeology
+References: Engineering Geology
+Bates and Jackson, 1980, Glossary of Geology: American Geological Institute.
+Kiersh, 1991, The Heritage of Engineering Geology: The First Hundred Years: Geological Society of America; Centennial Special Volume 3
+Legget, Robert F., editor, 1982, Geology under cities: Geological Society of America; Reviews in Engineering Geology, volume V, 131 pages; contains nine articles by separate authors for these cities: Washington, DC; Boston; Chicago; Edmonton; Kansas City; New Orleans; New York City; Toronto; and Twin Cities, Minnesota.
+Legget, Robert F., and Karrow, Paul F., 1983, Handbook of geology in civil engineering: McGraw-Hill Book Company, 1,340 pages, 50 chapters, five appendices, 771 illustrations. ISBN 0-07-037061-3
+Price, David George, Engineering Geology: Principles and Practice, Springer, 2008 ISBN 3-540-29249-7
+Prof. D. Venkat Reddy, NIT-Karnataka, Engineering Geology, Vikas Publishers, 2010 ISBN-978-81259-19032
+Bulletin of Engineering Geology and the Environment

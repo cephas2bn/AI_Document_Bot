@@ -1,0 +1,434 @@
+STUDENT GUIDE
+GEOLOGICAL ENGINEERING
+University of British Columbia
+2021-2022
+Introduction
+The purpose of this guide is to give you information about the structure and course requirements in
+the Geological Engineering program. You should use this guide to help you plan your degree
+program. However, as our program evolves, curriculum changes will be made and this guide may
+become outdated. The official program is the one posted online in the UBC Calendar, which can be
+accessed here through the link below:
+2021 - 2022 Geological Engineering entry in the UBC Calendar.
+Our program is structured to include a set of core course requirements that all students must fulfill
+to graduate. In addition, there are a number of electives that allow you to tailor the program to your
+individual interests. This guide will help you select those electives. For additional information, you
+can also consult the Geological Engineering website: http://www.geoeng.ubc.ca/.
+Covid-19
+Based on current guidance from provincial and regional public health authorities, UBC is planning
+for a return to on-campus activity for Winter Session, Term 1, in September. At present, this means
+that all courses and labs will be delivered in person and not online.
+For additional updates regarding UBC’s Covid-19 planning and response, click here.
+Administrative Structure of the Program
+Geological Engineering is an interdisciplinary program that is housed in the Department of Earth,
+Ocean and Atmospheric Sciences, but is under the jurisdiction of the Faculty of Applied Science
+with oversight provided by the Geological Engineering Board of Study. The undergraduate program
+leads to a BASc or "Engineering" degree. This degree can be obtained with or without participation
+in the Co-op program. All graduates from the program will receive the designation “BASc in
+Geological Engineering” on their degree, and are eligible for registering as a P.Eng. after meeting
+the professional experience, law and ethics requirements set out by the governing body in the
+jurisdiction you wish to register in (e.g. Engineers and Geoscientists British Columbia).
+Geological Engineering Program Guide 2021 – 2022
+Getting Help
+Degree Navigator
+There are several sources of help and advising for the program. Degree Navigator is an easy to use
+tool that will allow you to track your program, the course requirements you have fulfilled, and those
+still required for graduation. Details on how to use Degree Navigator can be found at:
+http://students.engineering.ubc.ca/how-use-degree-navigator. Tip: When using Degree Navigator,
+choose “Audit – UBC Report” as the view to visualize your degree in. Remember, Degree Navigator
+is a tool and not the official record of whether you have fulfilled your degree requirements. It is
+generally correct but might not be programmed for every option, for example, when it comes to
+acceptable technical electives. If you have any questions regarding your Degree Navigator, please
+contact the Director of Geological Engineering (see Advising).
+Course Registration – Standard Time Tables (STT)
+Most students will register through a Standard Time Table (STT) that allows automatic registration
+in several core courses organized so that the times for lectures and labs are free of scheduling
+conflicts. However, please note that not all core courses are included in the STT and students should
+make sure that there are not other required courses that they still need to register for separately. For
+example, EOSC 213, MATH 253 and STAT 251 are all core to the 2nd year program but are not
+included in the STT. Students must register for these separately. You can click here for the complete
+list of courses required for your year.
+Also note that registering for a STT assumes that the student has all prerequisites for the courses
+listed in the STT. Students should check this if they haven’t completed all core courses from the
+previous year. If you have any questions regarding your Degree Navigator, please contact the
+Director of Geological Engineering (see Advising).
+Course Registration – Individual Courses/Non-STT
+For students who need to register for non-STT courses, for example technical electives, or
+because they are not eligible for a STT, course registration must be carried out through the
+host department offering the course. The following are the procedures for the courses most
+common to the Geological Engineering program:
+EOSC courses: Please contact our Senior Program Assistant, the kind and most helpful
+Ian Ayeras (iayeras@eoas.ubc.ca, 604-822-3146, ESB 2020).
+CIVL courses: Please complete the Civil Engineering online course request form:
+https://www.civil.ubc.ca/webform/course-request-registration-form
+Note that Civil generally does not process requests for Technical Electives
+until they have finished registering those involving core/required courses.
+This might not be until one or two weeks before the start of term. Further
+information can be found on their FAQ (click here).
+2
+Geological Engineering Program Guide 2021 – 2022
+MINE courses: Please contact the Mining main office: https://mining.ubc.ca/contact/
+Complementary These are a special category of courses that are Canadian Engineering
+Studies courses: Accreditation Board requirements that are common to all engineering
+programs. They include the “Humanities and Social Sciences Electives”
+and the “Impact of Engineering on Society, Sustainability and
+Environmental Stewardship” elective. Requests for course eligibility that
+differ from those provided on the Engineering Academic Services website
+(click here) should be directed to Engineering Academic Services.
+First Year The 1st-year program falls under the jurisdiction of Engineering Academic
+requirements Services. For any 1st-year courses that still need to be completed or are not
+courses: appearing correctly in Degree Navigator, please contact Engineering
+Academic Services.
+Advising:
+For questions regarding the program, advising, or approval of courses and technical electives, please
+contact the Director of Geological Engineering, Prof. Erik Eberhardt (erik@eoas.ubc.ca). You
+can also drop by his office at: EOS-South 251.
+For questions related to transfer credits, yet-to-be-completed first year requirements or program
+requirements listed as “complementary studies” electives, contact Engineering Academic Services
+in the lobby of the Kaiser Building (https://academicservices.engineering.ubc.ca/).
+For questions related to Co-Op, Go Global, Coordinated International Exchange, etc., contact the
+respective offices for these.
+For the student perspective on courses and other student experiences, talk to senior GeoRox
+students in the program. They are a great resource!
+Program Requirements
+We are always looking for ways to improve the Geological Engineering program, resulting in
+periodic changes to the courses needed to fulfill the degree requirements. This can sometimes get a
+bit confusing in years where new requirements have been introduced. The rule is that you must
+complete the 2nd, 3rd or 4th year of your program as it appears in that year’s UBC Calendar when you
+received standing for the year you are in. For example, if you receive 3rd year standing in 2021/22,
+you must complete the 3rd year program as it appears in the 2021/22 calendar. If you received 3rd
+year standing in 2020/21 but are completing part of 3rd year in 2021/22 (for example due to Co-Op
+or Exchange), you must complete your 3rd year program as it appeared in the 2020/21 calendar.
+Your Degree Navigator should be programmed for this and is a useful tool to help you track which
+courses you need to complete. However, errors do sometimes occur in Degree Navigator and the
+official record of what courses you need to complete is the UBC Calendar. Click here to access
+UBC’s archive of past calendars. If you have any questions regarding this, or would like permission
+3
+Geological Engineering Program Guide 2021 – 2022
+to substitute an older program requirement with a newer option, please contact the Director of
+Geological Engineering (see Advising).
+Note: The last major change to the Geological Engineering program was in 2018/19 when CIVL
+231 was dropped from 2nd year and the credit load for 4th year was reduced from 42 to 39 credits.
+Students who entered the program in 2018 or later should not be affected by these changes. Students
+who entered the program before 2018 and still require CIVL 231 should contact the Geological
+Engineering Program Director
+Field Schools and Time Tabling
+There are two field-school course requirements in the program: EOSC 223 Field Techniques, and
+one of either EOSC 328 Field Geology or EOSC 428 Field Techniques in Groundwater Hydrology.
+These field schools run after final exams in April. Note that if you need to take a field school at the
+end of your fourth year, grades will be provided in time for spring convocation.
+Tailoring the Program to Your Interests
+The graduation requirements for the program are provided in the UBC Calendar as well in your
+Degree Navigator. These are produced at the end of the Student Guide in Table 1 for 2021/22. If
+there are any discrepancies, please note that the online UBC Calendar is the official record of the
+courses required for completing the program relative to the year you receive standing in each year
+of your program (see note above on Program Requirements). As you will see, in second year all
+courses are core and there are no technical electives. The second year courses serve as the foundation
+for your third and fourth year courses. In third and fourth year you can select from a wider range of
+courses and technical electives.
+It is by choosing your electives that you can tailor the program to your interests. In Table 2 at the
+end of this document we have provided a list of pre-approved technical elective courses.
+Note that this pre-approval only applies to the course qualifying as an acceptable technical elective;
+course registration is at the discretion of the host department offering the course and is subject to
+the course not being full or that you meet any prerequisites. To register for an elective you are
+unable to register for yourself, please see instructions above under Course Registration – Individual
+Courses/Non-STT. Note that some instructors are willing to waive prerequisites for students outside
+the department offering the course if the student has an equivalent course from their program of
+study. However, this is at the discretion of the instructor.
+Also note that the list in Table 2 is not comprehensive and there may be new courses or other courses
+you are interested in that are equally acceptable. Please seek the formal approval of the Geological
+Engineering Director via email before you enroll in a technical elective course if it is not listed here,
+to ensure that it meets program requirements.
+4
+Geological Engineering Program Guide 2021 – 2022
+Example Program Streams
+You will graduate as a Geological Engineer as long as you satisfy the requirements of the program
+as outlined in the UBC calendar. As a guide to help you specialize, we describe three areas of interest
+in Geological Engineering: i) Geotechnical, ii) Environmental, and iii) Natural Resources. You
+may choose to follow one of these, or to mix and match courses to sample a little from each.
+Geotechnical interest:
+Broadly speaking, this is the application of engineering and geological understanding to the needs
+of civil, mining, and energy projects (site investigations, engineering design, project planning,
+construction, environmental protection, etc.). Technical electives you will want to consider include
+those that provide additional soil and rock mechanics (e.g., MINE 403), geological field mapping
+skills (e.g., EOSC 328 instead of EOSC 428), and specifics regarding geotechnical practice in
+different industrial settings (e.g., block cave mining via MINE 485 or mine waste management via
+MINE 455). You will gain skills relevant to the design of foundations, tunnels, hydroelectric dams,
+open pit and underground mines, natural hazard mitigation works, environmental protection works,
+highway/railway/pipeline routes, slope stabilization, forestry, and many other important projects.
+You will be able to find employment in consulting companies, construction, mining and energy
+production firms, as well as government. These jobs seek to balance the needs of society while
+working to ensure public safety and minimizing impacts on the environment.
+Environmental interest:
+An essential component of engineering design is recognizing and mitigating/minimizing the impacts
+that engineering projects can have on the natural environment. The technical electives you will want
+to consider for this specialization are similar to those for Geotechnical interest; the two are closely
+related and are equally important for careers in Geological Engineering. However, to specialize more
+you may want to consider additional courses related hydrogeochemistry and groundwater
+remediation (e.g., EOSC 430, 431), hydrogeological field investigations (e.g., EOSC 428 instead of
+EOSC 328), water resource engineering (e.g., CIVL 415, 416), and the design of landfills and
+environmental cleanup (e.g., CIVL 405, 406, 408). Your employment prospects will also be similar
+to those of your Geotechnical focused colleagues, including consulting and mining/energy
+companies who have specialized environmental groups.
+Natural Resources interest:
+This area of interest trains Professional Engineers for work in the mineral exploration or energy
+development industries. You will still obtain the same engineering skills to allow you to work in
+functions described under Geotechnical and Environmental interests, but you will focus more on
+geology and mineral deposits (e.g., EOSC 331, 424), and geological mapping (e.g., EOSC 328
+instead of EOSC 428). You will be able to find employment with companies involved directly in
+resource exploration, development and production, or with companies providing services such as
+mineral resource consulting.
+Mix and Match interest:
+If your interests are broad and you would like exposure in two or all three areas, you can mix and
+match electives as your interests dictate.
+5
+Geological Engineering Program Guide 2021 – 2022
+Degree Planning & Degree Navigator
+Table 1 below, is the program curriculum for 2021/22 (as outlined in the UBC Calendar). Where
+possible, we have tried to avoid course conflicts, particularly with core courses. However, as our
+program contains courses from many departments, it is impossible to ensure that all elective courses
+will fit into your schedule. We therefore encourage you to look at 3rd and 4th year courses together,
+and plan your electives far in advance so that you acquire the proper prerequisites for the electives
+you are most interested in. You may also find it easier to take a fourth year course in third year so
+that you can fit a technical elective into your timetable in fourth year.
+Remember: It is your responsibility to check that your program can be completed according to
+your preferred time for graduation. It is also your responsibility to check that your courses will fit
+together into a credible time table and that you will have the required pre-requisites for courses that
+you want to take in the future. If you have any questions, please contact the Geological Engineering
+Director to arrange a meeting.
+Hint #1: Make a list of courses you wish to take, and then check the course schedules. You will see
+right away where potential conflicts with lecture times and labs occur. Then, check that all your pre-
+requisites are okay.
+Hint #2: Make sure to check out Degree Navigator. Degree Navigator is an interactive advising
+tool designed to help you make informed decisions regarding your academic program. It will show
+the courses you have taken and the courses and degree requirements you still need to take.
+Technical Electives
+There are two types of technical electives: i) constrained electives where you must choose a course
+from a set list of courses, and ii) unconstrained technical electives where you are free to choose
+any approved course that’s related to Geological Engineering (in the broadest sense). Most of the
+electives in the Geological Engineering Program are unconstrained to give you maximum flexibility
+to tailor your program towards your interests. In the case of your “Earth Sciences Technical
+Elective” in third year, you are free to choose any 300/400 level science course offered in the
+Department of Earth, Ocean and Atmospheric Sciences; EOSC courses offered to Art’s students
+might not be eligible. Courses that are not eligible will state this in the calendar course description.
+In Table 2, you will find a list of some of the courses that have been pre-approved as unconstrained
+technical electives. Note constrained technical electives may also be used to satisfy an unconstrained
+technical elective requirement. For example, in 3rd year you have the following constrained elective:
+Select one of: EOSC 328 (Field Geology) (3)
+EOSC 428 (Field Techniques in Groundwater Hydrology) (3)
+You may select EOSC 328 to satisfy this constrained elective and then choose EOSC 428 to satisfy
+an unconstrained technical elective (or alternatively, your 300/400 level Earth Sciences Technical
+Elective).
+6
+Geological Engineering Program Guide 2021 – 2022
+Note 1: Technical electives MUST be 300 or 400 level courses. 100 and 200 level courses are not
+eligible as technical electives.
+Note 2: The course level of the technical electives DO NOT have to match your standing or year
+relative to the program requirements listed in the UBC Calendar. For example, the technical
+electives requirement listed under the 3rd year program do not need to be restricted to 300 level
+courses, and those listed under the 4th year program do not need to be restricted to 400 level courses.
+In both cases, you may take any approved 300/400 level technical to meet either the 3rd or 4th year
+technical electives requirements.
+Complementary Studies
+Complementary Studies are a special set of unconstrained electives that are required for all Applied
+Science students. A set of minimum requirements are identified related to “Professional
+Development”, “Communications”, “Impact of Technology on Society”, “Engineering Economics”
+and “Humanities and Social Sciences”. Students are referred to the Engineering Academic Services
+website for a listing of eligible courses to meet these requirement:
+https://academicservices.engineering.ubc.ca/degree-planning/course-planning/
+Engineering Design Project
+All students with fourth year standing will be required to take EOSC 445 Engineering Design
+Project. This two-term course is our capstone design experience and will involve team work, design,
+analysis, and communication (presentation and report writing). EOSC 445 complements three other
+design-focused courses: EOSC 433 Geological Engineering Practice I Rock Engineering; EOSC
+434 Geological Engineering Practice II Soil Engineering; and EOSC 429 Groundwater
+Contamination.
+Because EOSC 445 is a 6 credit course that spans both Term 1 and 2, it MUST be taken
+consecutively in the same school year; students should not plan a co-op work term or international
+exchange in their final year when they would be taking this course.
+Applied Science Co-Op
+Co-Op offers an excellent opportunity to gain some valuable practical experience. Approximately
+40% of Geological Engineering students take the Co-Op option. In most years, the job market for
+Geological Engineering is relatively strong. However, all engineering disciplines can experience
+difficulties in finding work placements when the B.C. or Canadian economy is down. Remember,
+Co-Op is not a job placement service. It has also been our experience that students receive better
+work experiences by going through Co-Op than seeking their own summer jobs. This is of course
+your choice. However, many of the companies that hire preferentially from our program state that
+they can give a student a richer work experience when it involves an 8-month Co-Op placement
+compared to a 4-month summer job.
+7
+Geological Engineering Program Guide 2021 – 2022
+The 3rd year of the Geological Engineering Program is designed to be especially flexible to facilitate
+Co-Op experiences. For Co-Op, students have the option of a 16-month continuous work period
+(divided between two different company placements), or a combination of shorter 8- and 4-month
+placements to meet the minimum Co-Op requirements. Common schedules include:
+Schedule A FALL (Sept – Dec) WINTER (Jan – April) SUMMER (May – Aug)
+YEAR 2 study study work‐term 1
+YEAR 3 work‐term 2 work‐term 3 work‐term 4
+YEAR 4 study study work‐term 5
+YEAR 5 study study graduation
+Schedule B FALL (Sept – Dec) WINTER (Jan – April) SUMMER (May – Aug)
+YEAR 2 study study work‐term 1
+YEAR 3 study study work‐term 2
+YEAR 4 work‐term 3 work‐term 4 work‐term 5
+YEAR 5 study study graduation
+Alternative 1 FALL (Sept – Dec) WINTER (Jan – April) SUMMER (May – Aug)
+YEAR 2 study study work‐term 1
+YEAR 3 study work‐term 2 work‐term 3
+YEAR 4 work‐term 4 study work‐term 5
+YEAR 5 study study graduation
+Alternative 2 FALL (Sept – Dec) WINTER (Jan – April) SUMMER (May – Aug)
+YEAR 2 study study work‐term 1
+YEAR 3 work‐term 2 study work‐term 3
+YEAR 4 study work‐term 4 work‐term 5
+YEAR 5 study study graduation
+Geological Engineering students interested in Co-Op can find more information, including
+application requirements and procedures, through the Applied Science Co-Op website.
+Coordinated International Experience and International Exchange
+The 3rd year of the Geological Engineering Program is designed to be especially flexible to facilitate
+an international exchange experience. Term 2 of 3rd year only has two core courses and the
+remaining courses are technical electives. This makes taking an international exchange straight
+forward, whether through the Applied Science Coordinated International Experience (CIE) or
+UBC’s GoGlobal. Both work best when you take courses at the host university to meet your
+unconstrained technical elective requirements.
+8
+Geological Engineering Program Guide 2021 – 2022
+Table 1. Geological Engineering Curriculum
+The Geological Engineering Program for each year as they appear in the 2021/22 UBC Calendar:
+2nd Year
+Code Course Name Credits
+APSC 201 Technical Communication 3
+CIVL 210 Soil Mechanics I 4
+CIVL 215 Fluid Mechanics I 4
+CIVL 230 Solid Mechanics 4
+EOSC 210 Earth Science for Engineers 3
+EOSC 213 Computational Methods in Geological Engineering 3
+EOSC 220 Introductory Mineralogy 3
+EOSC 221 Introductory Petrology 3
+EOSC 223* Field Techniques 3
+EOSC 240 Site Investigation 3
+MATH 253 Multivariable Calculus 3
+STAT 251 Elementary Statistics 3
+Total Credits 39
+* Includes one-week field school at the end of Term 2.
+3rd Year
+Code Course Name Credits
+CIVL 311 Soil Mechanics II 4
+CIVL 316 Hydrology and Open Channel Flow 4
+EOSC 323 Structural Geology I 3
+EOSC 329 Groundwater Hydrology 3
+EOSC 330 Principles of Geomorphology 3
+EOSC 350 Environmental, Geotechnical, and Exploration Geophysics I 3
+MINE 303 Rock Mechanics Fundamentals 4
+Select one of:
+EOSC 328* Field Geology
+3
+EOSC 428* Field Techniques in Groundwater Hydrology
+Earth Sciences Technical Elective:
+300/400 EOSC course from EOAS 3
+Complementary Studies:
+Impact of Engineering on Society, Sustainability and Environment 3
+Humanities 3
+Unconstrained Technical Electives:
+Any 300/400 courses relevant to Geological Engineering 6
+Total Credits 42
+* Taught at the end of Term 2 after final exams.
+9
+Geological Engineering Program Guide 2021 – 2022
+4th Year
+Code Course Name Credits
+CIVL 402 Professionalism and Law in Civil Engineering 3
+CIVL 410 Foundation Engineering I 3
+CIVL 411 Foundation Engineering II 3
+EOSC 429 Groundwater Contamination 3
+EOSC 433 Geological Engineering Practice I - Rock Engineering 3
+EOSC 434 Geological Engineering Practice II - Soil Engineering 3
+EOSC 445 Engineering Design Project 6
+Select one of (Engineering Economics):
+CIVL 403, MINE 396, CHBE 459, MECH 431, MTRL 455, 3
+ELEC 481, CPEN 481
+Unconstrained Technical Electives:
+Any 300/400 course relevant to Geological Engineering 12
+Total Credits 39
+Table 2. List of Pre-Approved Technical Electives
+Note: The courses listed here are “pre‐approved” with respect to qualifying as being eligible to be
+counted towards the technical elective requirements in Geological Engineering. Approval to
+register for these classes is at the discretion of the host department who may need to limit
+numbers due to classroom size. It is also your responsibility to check that you have the necessary
+pre‐requisites for the courses listed here. In some cases, professors may be willing to waive the
+pre‐requisites, but you will need to check with them or through their department to make this
+request. Also note that not all classes are taught every year. Please consult the UBC Calendar to
+confirm which classes are being offered in the current year.
+S = Summer Term 1, 2
+W = Winter Term 1, 2
+APSC 402 Living Language: Science and Society W 1
+461 Global Engineering Leadership S 1
+462 Global Engineering Leadership Practicum S 2
+CIVL 305 Introduction to Environmental Engineering Applications W 2
+315 Fluid Mechanics II (4 credits) W 1
+320 Civil Engineering Materials W 1
+340 Transportation Engineering I W 2
+406 Water Treatment and Waste Management W 1
+10
+Geological Engineering Program Guide 2021 – 2022
+407 Environmental Laboratory Analysis W 1
+408 Geo‐Environmental Engineering W 2
+413 Design of Earth Dams and Containment Structures W 2
+415 Water Resource Engineering W 2
+416 Environmental Hydraulics W 1
+417 Coastal Engineering W 1
+418 Engineering Hydrology W 1
+EOSC 320 Sedimentology W 2
+321 Igneous Petrology W 1
+322 Metamorphic Petrology W 2
+326 Earth and Life Through Time W1 or S1
+331 Introduction to Mineral Deposits W 1
+332 Tectonic Evolution of North America W 2
+340 Global Climate Change W1 or W2
+352 Geophysical Continuum Dynamics W 2
+353 Seismology W 2
+410 Geoscientific Data Analysis and Empirical Modelling W 1
+420 Volcanology W 1
+421 Advanced Sedimentology W 1
+422 Structural Geology II W 2
+424 Advanced Mineral Deposits W 2
+430 Aqueous Geochemistry W 1
+431 Groundwater Remediation W 2
+442 Climate Measurement and Analysis (1 credit) W1 or W2
+454 Applied Geophysics W 2
+FRST 385 Watershed Hydrology W 1
+443 Remote Sensing for Ecosystem Management W 2
+GEOG 310 Environment and Sustainability W1 W2 S1
+312 Climate Change: Science and Society W 2
+314 Analysing Environmental Problems W 2
+316 Geography of Natural Hazards W 1
+318 Sustainability in a Changing Environment W2 or S1
+319 Environmental Impact Assessment W 1
+410 Environment and Society W1 W2 S2
+412 Water Management: Theory, Policy, and Practice W1 or W2
+497 The Arctic W 1
+GEOS 305 Introduction to Hydrology W 2
+11
+Geological Engineering Program Guide 2021 – 2022
+308 Quaternary and Applied Geomorphology W 1
+309 Geographical Sciences Field Course W 2
+370 Advanced Geographic Information Science W1 or W2
+373 Introductory Remote Sensing W 2
+405 Fluvial Geomorphology W 2
+406 Watershed Geomorphology W 1
+408 The Changing Cryosphere W 2
+IGEN 450 Pipeline Engineering W 1
+451 Pipeline Systems and Infrastructure W 2
+MINE 302 Underground Mining and Design (4 credits) W 2
+304 Rock Fragmentation W 2
+310 Surface Mining and Design (4 credits) W 1
+380 Mine Waste Management W 2
+395 Mineral Deposit Modeling W 1
+403 Rock Mechanics Design W 2
+406 Mine Project Valuation and Risk Assessment W 2
+420 Applied Geostatistics W 2
+455 Mine Water Management W 2
+470 Indigenous Peoples and Mining in Canada W 1
+480 Mine Waste Management W 2
+485 Cave Mining Systems: Design and Planning W 2
+486 Mining and the Environment W 2
+12

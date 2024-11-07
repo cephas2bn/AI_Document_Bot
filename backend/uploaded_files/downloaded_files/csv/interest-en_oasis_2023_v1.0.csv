@@ -1,0 +1,901 @@
+OaSIS Code,OaSIS Label ,Holland Codes - 1,Holland Codes - 2,Holland Codes - 3
+10.0,Legislators,E,S,C
+11.0,Senior government managers and officials,E,C,I
+12.0,"Senior managers - financial, communications and other business services",E,C,i
+13.0,"Senior managers - health, education, social and community services and membership organizations",E,C,S
+14.0,"Senior managers - trade, broadcasting and other services",E,C,I
+15.0,"Senior managers - construction, transportation, production and utilities",E,C,i
+10010.0,Financial managers,E,C,I
+10011.0,Human resources managers,E,S,C
+10012.0,Purchasing managers,E,C,I
+10019.0,Other administrative services managers,E,C,s
+10020.01,Insurance managers,E,C,I
+10020.02,Real estate service managers,E,C,i
+10020.03,Mortgage broker managers,E,C,I
+10020.04,Securities manager,E,C,I
+10021.01,Banking and other investment managers,E,C,S
+10021.02,Credit managers,E,C,S
+10022.01,Advertising managers,E,A,C
+10022.02,Marketing managers,E,C,a
+10022.03,Public relation managers,E,S,A
+10022.04,E-business managers,E,S,A
+10029.0,Other business services managers,E,C,S
+10030.0,Telecommunication carriers managers,E,C,S
+11100.01,Financial auditors,C,E,I
+11100.02,Accountants,C,E,I
+11101.01,Financial analysts,I,E,C
+11101.02,Investment analysts,I,E,C
+11102.0,Financial advisors,E,C,S
+11103.01,Securities agents and investment dealers,E,C,S
+11103.02,Brokers,E,I,C
+11109.01,Financial examiners and inspectors,E,C,I
+11109.02,Financial investigators,E,I,C
+11109.03,Financial Underwriters,E,I,C
+11109.04,Trust officers,C,E,I
+11109.05,Mortgage brokers ,E,C,S
+11200.0,Human resources professionals,E,S,C
+11201.0,Professional occupations in business management consulting,I,E,C
+11202.0,"Professional occupations in marketing, advertising and public relations",E,C,A
+12010.0,"Supervisors, general office and administrative support workers",E,C,s
+12011.0,"Supervisors, finance and insurance office workers",E,C,s
+12012.0,"Supervisors, library, correspondence and related information workers",E,C,s
+12013.0,"Supervisors, supply chain, tracking and scheduling coordination occupations",E,C,s
+12100.0,Executive assistants,C,E,I
+12101.0,Human resources and recruitment officers,E,C,s
+12102.0,Procurement and purchasing agents and officers,C,E,I
+12103.0,Conference and event planners,E,C,s
+12104.01,Excise tax revenue officers,C,I,e
+12104.02,Government benefits services officers,S,C,E
+12110.01,Court reporters,C,E,
+12110.02,Medical transcriptionists,C,r,
+12111.0,Health information management occupations,C,i,
+12112.0,Records management technicians,C,,
+12113.0,Statistical officers and related research support occupations,C,I,
+12200.0,Accounting technicians and bookkeepers,C,i,
+12201.01,Insurance adjusters,E,C,I
+12201.02,Insurance claims examiners,C,E,I
+12202.0,Insurance underwriters,C,E,I
+12203.01,Assessors,E,C,R
+12203.02,Business valuators,I,C,
+12203.03,Appraisers,E,C,R
+13100.0,Administrative officers,E,C,
+13101.0,Property administrators,E,C,
+13102.0,Payroll administrators,C,E,
+13110.0,Administrative assistants,C,e,
+13111.0,Legal administrative assistants,C,e,i
+13112.0,Medical administrative assistants,C,S,E
+13200.01,Custom brokers,E,C,
+13200.02,Ship brokers,E,C,
+13201.01,Production logistics coordinators,E,C,
+13201.02,Transportation logistics coordinators,E,C,
+14100.01,General office support workers,C,E,r
+14100.02,File clerks,C,r,E
+14101.01,Receptionists,C,S,E
+14101.02,Hospital admitting clerks,C,S,E
+14101.03,Switchboard and answering service operators,C,E,s
+14101.04,Telephone operators,C,S,R
+14102.0,Personnel clerks,C,e,s
+14103.0,Court clerks and related court services occupations,C,E,S
+14110.01,Survey interviewers,C,E,s
+14110.02,Statistical clerks,C,I,
+14111.0,Data entry clerks,C,R,
+14112.01,Desktop publishing operators,A,I,C
+14112.02,Typesetting input and output operators,R,C,a
+14200.0,Accounting and related clerks,C,E,i
+14201.01,Bank clerks,C,E,
+14201.02,Insurance clerks,C,e,s
+14201.03,Other financial clerks,C,e,
+14202.0,Collection clerks,C,E,i
+14300.0,Library assistants and clerks,C,R,S
+14301.01,Classified advertising clerks,C,E,S
+14301.02,Correspondence clerks,C,e,
+14301.03,Proofreaders and editorial assistants ,C,A,
+14301.04,Readers and press clippers,C,i,
+14301.05,Regulatory clerks,C,e,s
+14400.0,Shippers and receivers,C,R,E
+14401.0,Storekeepers and partspersons,C,R,E
+14402.0,Production logistics workers,C,E,
+14403.01,Purchasing control workers,C,E,
+14403.02,Inventory control workers,C,R,E
+14404.01,Dispatchers,C,S,E
+14405.0,Transportation route and crew schedulers,C,E,R
+20010.0,Engineering managers,E,R,I
+20011.01,Architecture and urban planning managers,E,R,I
+20011.02,Science Managers,E,I,
+20012.0,Computer and information systems managers,E,C,i
+21100.01,Physicists,I,R,
+21100.02,Astronomers,I,R,a
+21101.0,Chemists,I,R,c
+21102.01,Geoscientists,I,R,
+21102.02,Oceanographers,I,R,
+21103.0,Meteorologists and climatologists,I,R,
+21109.01,Metallurgists,I,R,
+21109.02,Materials scientists,I,R,
+21109.03,Soil scientists,I,R,
+21109.04,Astronauts,I,R,e
+21110.01,Biologists,I,R,
+21110.02,Microbiologists and cell and molecular biologists,I,R,
+21111.0,Forestry professionals,E,I,R
+21112.0,"Agricultural representatives, consultants and specialists",S,R,I
+21120.0,Public and environmental health and safety professionals,I,C,E
+21200.0,Architects,A,I,E
+21201.0,Landscape architects,A,I,R
+21202.0,Urban and land use planners,I,E,A
+21203.0,Land surveyors,R,C,I
+21210.01,Mathematicians,I,C,a
+21210.02,Statisticians,I,C,e
+21210.03,Actuaries,I,C,E
+21211.0,Data scientists,I,C,e
+21220.0,Cybersecurity specialists,C,I,R
+21221.0,Business system specialists,I,C,E
+21222.0,Information systems specialists,I,C,E
+21223.01,Database analysts,I,C,e
+21223.02,Data administrators,C,I,E
+21230.0,Computer systems developers and programmers,I,C,E
+21231.0,Software engineers and designers,I,R,C
+21232.0,Software developers and programmers,I,C,r
+21233.0,Web designers,I,A,c
+21234.0,Web developers and programmers,I,C,r
+21300.0,Civil engineers,R,I,C
+21301.0,Mechanical engineers,I,R,C
+21310.0,Electrical and electronics engineers,I,R,E
+21311.01,Computer and telecommunications hardware engineers,I,R,C
+21311.02,Network system and data communication engineers,I,C,e
+21320.0,Chemical engineers,I,R,E
+21321.0,Industrial and manufacturing engineers,I,R,E
+21322.0,Metallurgical and materials engineers,I,R,E
+21330.0,Mining engineers,I,R,E
+21331.0,Geological engineers,I,R,E
+21332.0,Petroleum engineers,I,R,E
+21390.0,Aerospace engineers,I,R,E
+21399.01,Agricultural and bio-resource engineers,I,R,E
+21399.02,Biomedical engineers,I,R,E
+21399.03,Engineering physicists and engineering scientists,I,R,E
+21399.04,Marine and naval engineers,I,R,E
+21399.05,Textile engineers,R,I,E
+22100.01,Chemical technologists,I,R,C
+22100.02,Chemical technicians,R,I,C
+22101.01,Geological and mineral technologists,I,R,C
+22101.02,Geological and mineral technicians,R,I,C
+22110.01,Biological technologists,I,R,C
+22110.02,Biological technicians,R,I,C
+22111.01,Fish and fish products inspectors,R,C,I
+22111.02,Fruit and vegetables inspectors,R,C,I
+22111.03,Grain inspectors,R,C,I
+22111.04,Meat inspectors,R,C,I
+22111.05,Plant protection inspectors,R,C,I
+22112.0,Forestry technologists and technicians,R,I,E
+22113.0,Conservation and fishery officers,R,I,E
+22114.01,Arborists and tree service technicians,R,I,e
+22114.02,Golf course superintendents,E,R,c
+22114.03,Horticulturists,E,R,C
+22114.04,Landscape designers and landscape architectural technicians and technologists,R,C,A
+22114.05,Landscape gardeners,R,C,
+22114.06,Landscapers,R,C,E
+22114.07,Lawn care specialists,R,C,E
+22210.0,Architectural technologists and technicians,R,C,A
+22211.0,Industrial designers,A,E,R
+22212.01,Drafting technologists,R,C,A
+22212.02,Drafting technicians,R,C,a
+22213.01,Land survey technologists,R,C,I
+22213.02,Land survey technicians,R,C,i
+22214.01,Cartographic technologists and technicians,R,I,C
+22214.02,Photogrammetric technologists and technicians,C,R,I
+22214.03,Aerial survey and remote sensing technologists and technicians,R,I,C
+22214.04,Geographic information system (GIS) technologists and technicians,I,R,C
+22214.05,Meteorological technologists and technicians,C,I,R
+22220.01,Computer and network operators,R,I,C
+22220.02,Web technicians,R,I,C
+22221.0,User support technicians,R,I,S
+22222.0,Information systems testing technicians,I,C,R
+22230.0,Non-destructive testers and inspectors,R,I,C
+22231.01,Motor Vehicle defects investigators,R,C,I
+22231.02,Railway accident investigation officers,I,R,C
+22231.03,Airworthiness inspectors,R,C,I
+22231.04,"Inspectors, weights and measures",C,R,I
+22231.05,Oil and gas drilling rig inspectors ,C,R,I
+22232.0,Occupational health and safety specialists,C,R,I
+22233.0,Construction inspectors,R,C,I
+22300.01,Civil engineering technologists,R,C,I
+22300.02,Civil engineering technicians,R,C,I
+22301.01,Mechanical engineering technologists,R,I,C
+22301.02,Mechanical engineering technicians,R,C,I
+22302.01,Industrial engineering and manufacturing technologists,I,R,C
+22302.02,Industrial engineering and manufacturing technicians,R,I,C
+22303.0,Construction estimators,C,E,I
+22310.01,Electrical and electronics engineering technologists,I,R,C
+22310.02,Electrical and electronics engineering technicians,R,I,C
+22311.0,Electronic service technicians (household and business equipment),R,C,I
+22312.0,Industrial instrument technicians and mechanics,I,R,C
+22313.01,Aircraft instrument mechanics and technicians,R,I,C
+22313.02,Aircraft electrical mechanics and technicians,R,I,C
+22313.03,Avionics mechanics and technicians,R,C,I
+22313.04,Avionics inspectors,R,C,I
+30010.0,Managers in health care,E,C,S
+31100.01,Anesthesiologists,I,R,S
+31100.02,"Internists, general",I,S,R
+31100.03,"Pediatricians, general",I,S,R
+31100.04,Psychiatrists,I,S,c
+31100.05,Allergists and immunologists,I,S,R
+31100.06,Hospitalists,S,I,E
+31100.07,Neurologists,I,S,R
+31100.08,Nuclear medicine physicians,I,S,R
+31100.09,Dermatologists,I,S,R
+31100.1,Physical medicine and rehabilitation physicians,I,S,R
+31100.11,Preventive medicine physicians,S,I,R
+31100.12,Radiologists,I,R,S
+31100.13,Other specialists in clinical medicine,I,S,R
+31100.14,"Specialists in laboratory medicine, including pathologists",I,R,S
+31101.01,General surgery,I,R,S
+31101.02,Obstetricians and gynecologists,I,S,R
+31101.03,Ophthalmologists,I,S,R
+31101.04,Urologists,I,S,R
+31101.05,Other specialists in surgery,I,R,S
+31102.0,General practitioners and family physicians,I,S,R
+31103.0,Veterinarians,I,R,E
+31110.01,"Dentists, General",I,R,S
+31110.02,Oral and Maxillofacial Surgeons,R,S,I
+31110.03,Orthodontists,I,R,S
+31110.04,Prosthodontists,I,R,S
+31111.0,Optometrists,I,S,R
+31112.01,Audiologists,I,S,R
+31112.02,Speech language pathologists,S,I,e
+31120.01,Community pharmacists and hospital pharmacists,C,S,I
+31120.02,Industrial pharmacists,I,E,C
+31121.0,Dietitians and nutritionists,I,S,E
+31200.0,Psychologists,I,S,A
+31201.0,Chiropractors,S,I,R
+31202.0,Physiotherapists,S,I,R
+31203.0,Occupational therapists,S,I,C
+31204.01,Recreational therapists,S,I,C
+31204.02,Kinesiologists and exercise therapists,S,I,R
+31209.01,Doctors of Podiatric Medicine,I,S,R
+31209.02,Chiropodists and diploma or first-degree trained podiatrists,I,S,R
+31209.03,Doctors of naturopathics medicine,I,S,e
+31209.04,Doctors of osteopathic medicine,I,S,R
+31300.0,Nursing coordinators and supervisors,E,S,C
+31301.01,General duty registered nurses,S,I,C
+31301.02,Occupational health nurses,S,E,C
+31301.03,Community Health Nurses,S,E,C
+31301.04,Registered psychiatric nurses,S,I,C
+31301.05,Nursing researchers and consultants,I,E,S
+31301.06,Clinical nurses,E,S,C
+31302.0,Nurse practitioners,S,I,R
+31303.01,Physician Assistants,S,I,R
+31303.02,Midwives,S,R,I
+31303.03,Genetic counsellors,S,I,r
+31303.04,Orthoptists,I,S,R
+31303.05,Pathologist assistants,R,C,I
+32100.0,Opticians,R,S,C
+32101.01,Licensed practical nurses,S,R,I
+32101.02,Operating room technicians,R,S,C
+32102.0,Paramedical occupations,S,I,R
+32103.01,Respiratory therapists,S,I,R
+32103.02,Clinical perfusionists,R,S,C
+32103.03,Cardiopulmonary  technologists,R,I,S
+32104.0,Animal health technologists and veterinary technicians,R,I,C
+32109.01,Hearing instrument practitioners,S,R,I
+32109.02,Communicative disorders assistants and speech-language pathology assistants,S,C,r
+32109.03,Ophthalmic technologists and technicians,C,R,I
+32109.04,Physical Rehabilitation therapists,S,R,i
+32109.05,Physiotherapy assistants and occupational therapy assistants,S,R,C
+32110.0,Denturists,R,C,I
+32111.01,Dental hygienists,S,R,c
+32111.02,Dental therapists,S,R,i
+32112.0,Dental technologists and technicians,R,I,C
+32120.0,Medical laboratory technologists,I,R,C
+32121.01,Radiological technologists,R,S,C
+32121.02,Nuclear medicine technologists,I,R,S
+32121.03,Radiation therapists,S,R,C
+32121.04,Magnetic Resonance Technologist,R,C,S
+32122.0,Medical sonographers,I,S,R
+32123.01,Cardiology technologists,R,I,S
+32123.02,Electrophysiological technologists,R,I,S
+32124.0,Pharmacy technicians,C,R,I
+32129.01,Dietary technicians,S,I,R
+32129.02,Ocularists,R,S,I
+32129.03,Prosthetists and orthotists,R,S,I
+32129.04,Prosthetic and orthotic technicians,R,C,s
+32200.01,Traditional Chinese medicine practitioners,S,I,C
+32200.02,Acupuncturists,S,R,I
+32201.0,Massage therapists,S,R,
+32209.01,Herbalists,S,I,e
+32209.02,Osteopathic manual practitioners,S,R,I
+32209.03,Homeopaths,S,E,I
+32209.04,Reflexologists,S,R,I
+32209.05,Holistic nutritionists,S,R,I
+32209.06,Naturotherapists,S,R,i
+33100.01,Dental assistants,C,R,S
+33100.02,Dental Laboratory Assistants,R,C,i
+33101.0,Medical laboratory assistants and related technical occupations,R,C,I
+33102.0,"Nurse aides, orderlies and patient service associates",S,C,R
+33103.0,Pharmacy technical assistants and pharmacy assistants,C,R,
+33109.01,Audiometric technicians,S,I,R
+33109.02,Orthopedic technologists,S,R,C
+33109.03,Rehabilitation aides,S,R,C
+33109.04,Ophthalmic assistants,C,S,R
+33109.05,Optical/ophthalmic laboratory technicians and assistants,R,C,
+33109.06,Sterile processing technicians,R,C,
+33109.07,Blood donor clinic assistants,C,S,R
+33109.08,Morgue attendants,R,C,
+40010.0,Government managers - health and social policy development and program administration,E,C,I
+40011.0,"Government managers - economic analysis, policy development and program administration",E,C,I
+40012.0,Government managers - education policy development and program administration,E,C,I
+40019.0,Other managers in public administration,E,C,I
+40020.01,Faculty administrators,E,C,S
+40020.02,Registrars,E,C,s
+40020.03,Administrator of vocational training schools,E,C,S
+40021.01,School principals,E,S,C
+40021.02,Administrators of elementary and secondary education,E,S,C
+40030.0,"Managers in social, community and correctional services",E,S,C
+40040.0,Commissioned police officers and related occupations in public protection services,E,S,C
+40041.0,Fire chiefs and senior firefighting officers,E,R,S
+40042.0,Commissioned officers of the Canadian Armed Forces,E,C,I
+41100.0,Judges,E,C,I
+41101.0,Lawyers and Quebec notaries,E,I,C
+41200.0,University professors and lecturers,I,E,S
+41201.01,Post-secondary teaching assistants,C,I,s
+41201.02,Post-secondary research assistants,I,C,
+41210.0,College and other vocational instructors,S,E,I
+41220.0,Secondary school teachers,S,E,I
+41221.0,Elementary school and kindergarten teachers,S,E,C
+41300.0,Social workers,S,I,E
+41301.0,Therapists in counselling and related specialized therapies,S,I,E
+41302.0,Religious leaders,S,E,C
+41310.01,Police investigators,E,I,C
+41310.02,Coroners and medical examiners,I,R,c
+41311.0,Probation and parole officers,S,E,C
+41320.0,Educational counsellors,S,I,E
+41321.0,Career development practitioners and career counsellors (except education),S,I,E
+41400.01,Ergonomists,I,C,S
+41400.02,Occupational or industrial hygienists,I,C,E
+41400.03,Patent agents,E,C,S
+41400.04,Science policy and program officers,I,E,C
+41400.05,Technology transfer officers,C,I,e
+41401.0,Economists and economic policy researchers and analysts,I,C,E
+41402.0,Business development officers and market researchers and analysts,I,E,C
+41403.01,Social policy researchers,I,C,S
+41403.02,Home economists,S,E,I
+41403.03,Housing policy analysts,I,E,C
+41403.04,Immigration and citizenship consultants,C,I,E
+41403.05,International aid and development project officers,E,S,C
+41403.06,Social survey researchers,I,C,e
+41403.07,Social service planners,I,C,e
+41404.0,"Health policy researchers, consultants and program officers",I,C,E
+41405.0,"Education policy researchers, consultants and program officers",I,C,E
+41406.01,"Recreation, sports and fitness consultants",E,S,c
+41406.02,"Recreation, sports and fitness policy analysts",I,C,E
+41406.03,"Recreation, sports and fitness program supervisors",E,S,C
+41407.0,Program officers unique to government,E,I,C
+41409.01,Anthropologists,I,R,a
+41409.02,Archaeologists,I,R,a
+41409.03,Geographers,I,R,E
+41409.04,Historians,I,,
+41409.05,Linguists,I,C,e
+41409.06,Political scientists,I,S,e
+41409.07,Psychometricians,I,C,S
+41409.08,Sociologists,I,S,C
+41409.09,Other social science professionals,I,C,S
+42100.0,Police officers (except commissioned),E,R,S
+42101.0,Firefighters,R,S,e
+42102.0,Specialized members of the Canadian Armed Forces,R,C,s
+42200.01,Paralegals,C,I,
+42200.02,Independent paralegals,E,I,C
+42200.03,Notaries public,C,S,e
+42200.04,Trademark agents,E,C,I
+42200.05,Justice of the peace,E,C,s
+42201.0,Social and community service workers,S,C,E
+42202.01,Early childhood educators,S,E,i
+42202.02,Early childhood educator assistants,S,R,a
+42203.0,Instructors of persons with disabilities,S,R,i
+42204.0,Religion workers,S,E,
+43100.0,Elementary and secondary school teacher assistants,S,R,i
+43109.01,Driving instructors,S,R,e
+43109.02,Driver's license examiners,E,C,I
+43109.03,Sewing instructors,S,A,R
+43109.04,Modelling instructors,S,A,E
+43200.0,Sheriffs and bailiffs,C,E,R
+43201.0,Correctional service officers,E,C,R
+43202.01,Animal control officer,R,S,C
+43202.02,By-law enforcement officers,E,C,I
+43202.03,Commercial transport inspectors,R,C,I
+43202.04,Garbage collection inspectors,C,I,e
+43202.05,Liquor licence inspectors,E,C,I
+43202.06,Parking control officers,C,E,I
+43202.07,Taxi inspectors,R,C,I
+43202.08,Zoning inspectors,C,I,E
+43203.01,Border services and customs officers,C,E,R
+43203.02,Immigration officers,C,E,I
+43204.0,Operations Members of the Canadian Armed Forces,R,C,e
+44100.01,Home child care providers,S,R,c
+44100.02,Foster parents,S,R,e
+44101.0,"Home support workers, caregivers and related occupations",S,R,
+44200.0,Primary combat members of the Canadian Armed Forces,R,e,
+45100.01,Student monitors,S,E,c
+45100.02,Crossing guards,S,c,
+50010.0,"Library, archive, museum and art gallery managers",E,C,s
+50011.0,"Managers - publishing, motion pictures, broadcasting and performing arts",E,C,A
+50012.0,"Recreation, sports and fitness program and service directors",E,S,
+51100.0,Librarians,C,R,E
+51101.01,Conservators,R,A,I
+51101.02,Curators,E,I,A
+51102.0,Archivists,C,I,a
+51110.0,Editors,A,E,C
+51111.01,"Novelists, playwrights, script writers, poets and other creative writers ",A,I,E
+51111.02,Content writers (non-technical),A,I,E
+51111.03,Copywriters,E,A,C
+51112.0,Technical writers,A,I,C
+51113.0,Journalists,A,E,I
+51114.01,Translators and translator-revisers,C,I,A
+51114.02,Terminologists,C,I,e
+51114.03,Interpreters,S,I,A
+51114.04,Sign language Interpreters,S,I,A
+51120.01,"Film, radio, television and video game producers",E,A,S
+51120.02,Directors,E,A,S
+51120.03,Choreographers,A,S,E
+51120.04,Art directors,A,E,i
+51120.05,Film editors,A,E,I
+51120.06,Record producers,E,A,c
+51120.07,Directors of photography,E,A,R
+51121.01,Conductors,A,E,S
+51121.02,Composers,A,E,R
+51121.03,Arrangers,A,E,R
+51122.01,Musicians,A,E,s
+51122.02,Singers,A,E,s
+51122.03,Teachers of music or voice,S,A,E
+52100.01,Library Technicians,C,S,E
+52100.02,Public archive technicians,C,R,E
+52110.0,Film and video camera operators,R,A,i
+52111.0,Graphic arts technicians,A,R,C
+52112.0,Broadcast technicians,R,C,I
+52113.0,Audio and video recording technicians,R,C,i
+52114.0,Announcers and other broadcasters,E,A,s
+52119.01,Floor managers,E,A,s
+52119.02,Key grips,E,R,c
+52119.03,Gaffers and lighting technicians,R,i,
+52119.04,Stunt co-ordinators and special effects technicians,R,A,
+52119.05,Make-up artists,A,R,
+52119.06,Costumiers,E,A,i
+52119.07,Settings shop foremen and property masters,A,R,e
+52120.01,Graphic designers,A,R,E
+52120.02,Illustrators,A,R,E
+52121.0,Interior designers and interior decorators,A,E,r
+53100.01,Conservation and restoration technicians,R,A,
+53100.02,Preparators and picture framers,R,A,c
+53100.03,Museum interpreters,S,E,
+53100.04,"Curatorial assistants, museum extension officers, museology technicians and museum registrars and cataloguers",R,C,I
+53100.05,Taxidermists,R,A,c
+53110.0,Photographers,A,R,i
+53111.01,Camera crane operators,R,C,I
+53111.02,Motion picture projectionists,R,C,I
+53111.03,Props persons and set builders,R,C,a
+53111.04,Scripts assistants,C,e,r
+53111.05,Grips and riggers,R,C,
+53111.06,Dressers,R,s,
+53111.07,Production assistants,C,R,i
+53120.01,Dancers,A,R,
+53120.02,Dance teachers,S,A,E
+53121.01,Actors and comedians,A,E,
+53121.02,Acting teachers,S,A,
+53121.03,Circus and other performers,A,E,r
+53122.01,Painters,A,R,i
+53122.02,Sculptors,A,R,i
+53122.03,Art instructors and teachers,A,S,R
+53123.01,Theatre designers,A,R,E
+53123.02,Fashion designers,A,E,R
+53123.03,Exhibit designers,A,R,e
+53124.01,Carvers,A,R,
+53124.02,Glass blowers,R,A,
+53124.03,Metal art workers,R,A,
+53124.04,Potters,R,A,
+53124.05,Stained glass artists,A,R,
+53124.06,Instrument makers,R,A,i
+53124.07,Weavers,R,A,
+53124.08,Craft instructors,S,A,E
+53124.09,Artistic floral arrangers,A,R,e
+53125.0,"Patternmakers - textile, leather and fur products",R,A,C
+53200.0,Athletes,R,e,
+53201.01,Coaches,S,E,I
+53201.02,Sports scouts,E,I,S
+53202.0,Sports officials and referees,E,C,S
+54100.01,Program leaders and instructors in recreation and sport,S,E,C
+54100.02,Fitness appraisers,S,I,c
+55109.01,Buskers,A,E,R
+55109.02,Magicians and illusionists,A,R,e
+55109.03,Fashion Models,A,E,
+55109.04,Influencers,E,a,
+60010.0,Corporate sales managers,E,C,I
+60020.0,Retail and wholesale trade managers,E,C,I
+60030.0,Restaurant and food service managers,E,C,I
+60031.0,Accommodation service managers,E,C,I
+60040.0,Managers in customer and personal services,E,C,I
+62010.0,Retail sales supervisors,E,C,S
+62020.0,Food service supervisors,E,C,S
+62021.0,Executive housekeepers,E,C,R
+62022.0,"Accommodation, travel, tourism and related services supervisors",E,C,S
+62023.01,Customer service representatives supervisors - financial services,E,C,S
+62023.02,Customer service representatives supervisors (except financial services),E,C,S
+62024.0,Cleaning supervisors,E,C,S
+62029.0,Other services supervisors,E,C,S
+62100.0,Technical sales specialists - wholesale trade,E,C,I
+62101.0,Retail and wholesale buyers,E,C,I
+62200.01,Head Chefs,E,R,A
+62200.02,Sous-Chefs,E,R,A
+62200.03,Specialist chefs,E,R,A
+62201.01,Funeral directors,E,C,s
+62201.02,Embalmers,R,C,A
+62202.01,Jewellers and related workers,R,A,C
+62202.02,Watch repairers,R,C,I
+63100.0,Insurance agents and brokers,E,C,S
+63101.0,Real estate agents and salespersons,E,C,I
+63102.0,Financial sales representatives,E,C,S
+63200.0,Cooks,R,C,E
+63201.0,Butchers - retail and wholesale,R,C,e
+63202.0,Bakers,R,C,e
+63210.01,Hairstylists,A,E,S
+63210.02,Barbers,R,E,S
+63211.01,Estheticians,S,R,E
+63211.02,Cosmeticians,S,R,A
+63211.03,Electrologists,S,R,E
+63211.04,Manicurists and pedicurist,R,E,A
+63211.05,Scalp treatment specialists,R,E,S
+63211.06,Tattoo artists,A,R,E
+63211.07,Hair replacement technicians (non-medical),R,S,A
+63220.01,Shoemakers,R,C,A
+63220.02,Shoe repairers,R,C,E
+63221.0,Upholsterers,R,C,E
+64100.01,Retail salespersons,E,C,s
+64100.02,Visual merchandisers,A,E,R
+64101.0,Sales and account representatives - wholesale trade (non-technical),E,C,s
+64200.01,"Tailors, Dressmakers and Alterationists",R,A,E
+64200.02,Furriers,R,A,E
+64200.03,Milliners,R,A,E
+64201.01,Image consultants,S,A,E
+64201.02,Wedding consultants,E,S,A
+64201.03,Weight loss consultants,S,E,C
+64300.0,Maîtres d'hôtel and hosts/hostesses,E,S,c
+64301.0,Bartenders,E,R,S
+64310.0,Travel counsellors,E,S,C
+64311.01,Flight attendants,E,S,C
+64311.02,"Flight pursers, customer service directors and passenger service directors",E,C,s
+64311.03,Ship pursers,E,C,s
+64312.01,"Airline passenger, baggage and ticket agents",C,E,s
+64312.02,Airline cargo and freight agents,C,E,R
+64312.03,Airline reservation agents,C,E,s
+64313.01,Ticket agents and related clerks (except airline),C,E,s
+64313.02,Cargo service representatives (except airline),C,E,s
+64314.0,Hotel front desk clerks,C,E,s
+64320.01,Tour guides,S,E,c
+64320.02,Travel guides,E,C,s
+64321.0,Casino workers,C,E,r
+64322.0,Outdoor sport and recreational guides,S,E,R
+64400.0,Customer services representatives - financial institutions,C,E,S
+64401.0,Postal services representatives,C,R,S
+64409.0,Other customer and information services representatives,E,C,S
+64410.01,Security guards,R,C,E
+64410.02,Armoured car guards,R,C,E
+64410.03,Corporate security officers,R,C,E
+64410.04,Private investigators,E,C,R
+64410.05,Retail loss prevention officers,E,C,I
+65100.0,Cashiers,C,E,R
+65101.0,Automotive and watercraft service station attendants,R,C,e
+65102.0,"Store shelf stockers, clerks and order fillers",C,R,e
+65109.01,Demonstrators and direct distributors,E,C,
+65109.02,Door-to-door salespersons and street vendors,E,C,
+65109.03,Telephone solicitors and telemarketers,E,C,
+65200.0,Food and beverage servers,S,E,C
+65201.01,Food counter attendants and food preparers,R,C,S
+65201.02,Kitchen helpers,R,C,
+65201.03,Food service helpers,R,C,S
+65201.04,Dishwashers,R,c,
+65202.0,Meat cutters and fishmongers - retail and wholesale,R,C,e
+65210.01,Guest service attendants and baggage porters,R,C,e
+65210.02,Ship and train service attendants,R,S,E
+65210.03,Facilities workers,R,c,
+65211.01,Amusement attraction operators,E,R,C
+65211.02,"Attendants in amusement, recreation and sport",E,R,C
+65220.0,Pet groomers and animal care workers,R,E,C
+65229.0,Other support occupations in personal services,E,c,r
+65310.01,Light duty cleaners,R,C,
+65310.02,Housekeepers,R,C,s
+65311.01,Carpet and upholstery cleaners,R,C,
+65311.02,Chimney cleaners and sandblasters,R,c,
+65311.03,Furnace and ventilation system cleaners,R,c,
+65311.04,Vehicle cleaners,R,c,
+65311.05,Window cleaners,R,c,
+65312.0,"Janitors, caretakers and heavy-duty cleaners",R,C,e
+65320.01,Dry cleaning and laundry machine operators,R,C,
+65320.02,Dry cleaning and laundry inspectors and assemblers,R,C,I
+65320.03,"Ironing, pressing and finishing workers",R,c,
+65329.01,Beauty salon attendants,R,e,
+65329.02,Door attendants,R,C,
+65329.03,Funeral home attendants,S,E,R
+65329.04,Laundromat attendants,R,C,e
+65329.05,Parking lot attendants and car jockeys,R,C,E
+65329.06,Ticket takers and ushers,S,C,E
+65329.07,Other elemental service workers,R,E,C
+70010.0,Construction managers,E,R,C
+70011.0,Home building and renovation managers,E,R,C
+70012.01,Facility operation managers,E,C,R
+70012.02,Maintenance managers,E,C,R
+70020.01,"Transportation managers, operations",E,C,I
+70020.02,"Transportation managers, freight traffic",E,C,I
+70021.0,Postal and courier services managers,E,C,i
+72010.0,"Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations",E,R,C
+72011.0,"Contractors and supervisors, electrical trades and telecommunications occupations",E,C,R
+72012.0,"Contractors and supervisors, pipefitting trades",E,R,C
+72013.0,"Contractors and supervisors, carpentry trades",E,R,C
+72014.0,"Contractors and supervisors, other construction trades, installers, repairers and servicers",E,C,R
+72020.0,"Contractors and supervisors, mechanic trades",E,C,R
+72021.0,"Contractors and supervisors, heavy equipment operator crews",E,C,R
+72022.0,"Supervisors, printing and related occupations",E,C,R
+72023.0,"Supervisors, railway transport operations",E,C,i
+72024.0,"Supervisors, motor transport and other ground transit operators",E,C,i
+72025.0,"Supervisors, mail and message distribution occupations",E,C,i
+72100.01,Machinists,R,C,
+72100.02,Machining and tooling inspectors,R,C,i
+72101.01,Tool and die makers,R,C,i
+72101.02,Metal mould makers and patternmakers,R,C,i
+72102.0,Sheet metal workers,R,C,i
+72103.0,Boilermakers,R,C,i
+72104.0,Structural metal and platework fabricators and fitters,R,C,i
+72105.0,Ironworkers,R,C,i
+72106.01,Welders,R,C,i
+72106.02,"Welding, brazing and soldering machine  operators",R,C,i
+72200.0,Electricians (except industrial and power system),R,I,C
+72201.0,Industrial electricians,R,I,C
+72202.0,Power system electricians,R,C,I
+72203.0,Electrical power line and cable workers,R,I,C
+72204.0,Telecommunications line and cable installers and repairers,R,I,C
+72205.01,Telephone installers and repairers,R,I,C
+72205.02,Switch network installers and repairers,R,I,C
+72205.03,Telecommunications service testers,R,I,C
+72205.04,Telecommunications equipment technicians,R,I,C
+72205.05,Television cable service technicians,R,I,C
+72300.0,Plumbers,R,C,I
+72301.01,Steamfitters and pipefitters,R,C,I
+72301.02,Sprinkler system installers,R,C,I
+72302.0,Gas fitters,R,C,I
+72310.0,Carpenters,R,C,I
+72311.0,Cabinetmakers,R,C,i
+72320.0,Bricklayers,R,C,
+72321.0,Insulators,R,C,i
+72400.01,Construction millwrights and industrialmechanics,R,C,I
+72400.02,Textile machinery mechanics and repairers,R,I,C
+72401.0,Heavy-duty equipment mechanics,R,C,I
+72402.0,"Heating, refrigeration and air conditioning mechanics",R,C,I
+72403.0,Railway carmen/women,R,C,I
+72404.01,Aircraft mechanics,R,C,I
+72404.02,Aircraft inspectors,R,C,I
+72405.0,Machine fitters,R,C,I
+72406.0,Elevator constructors and mechanics,R,C,I
+72410.01,Automotive service technicians,R,I,C
+72410.02,"Mechanical repairers, motor vehicle manufacturing",R,I,C
+72410.03,Transport truck and trailer mechanics,R,I,C
+72411.0,"Auto body collision, refinishing and glass technicians and damage repair estimators",R,C,I
+72420.0,Oil and solid fuel heating mechanics,R,I,C
+72421.01,Small electrical appliance servicers and repairers,R,I,C
+72421.02,Major appliance repairers/technicians,R,I,C
+72422.0,Electrical mechanics,R,I,C
+72423.01,"Motorcycle, all-terrain vehicle and other related mechanics",R,I,C
+72423.02,Recreation vehicle technicians,R,I,C
+72429.0,Other small engine and small equipment repairers,R,C,I
+72500.0,Crane operators,R,C,i
+72501.0,Water well drillers,R,I,C
+72600.01,Air pilots,R,C,I
+72600.02,Flight engineers,R,C,I
+72600.03,Flying instructors,S,R,I
+72601.01,Air traffic controllers,E,C,I
+72601.02,Flight dispatchers,E,C,I
+72601.03,Flight service specialists,E,C,I
+72602.0,"Deck officers, water transport",R,E,C
+72603.0,"Engineer officers, water transport",R,E,C
+72604.01,Railway traffic controllers,C,R,E
+72604.02,Marine traffic regulators,C,R,E
+72999.01,Gunsmiths,R,C,I
+72999.02,Locksmiths,R,C,i
+72999.03,Safe and vault servicers,R,C,I
+72999.04,Saw fitters,R,C,I
+72999.05,Die setters,R,C,I
+72999.06,Commercial divers,R,I,C
+73100.0,Concrete finishers,R,I,c
+73101.0,Tilesetters,R,C,i
+73102.01,Plasterers,R,C,
+73102.02,Drywall installers and finishers,R,C,
+73102.03,Lathers,R,C,
+73110.01,Roofers,R,C,
+73110.02,Shinglers,R,C,
+73111.0,Glaziers,R,C,i
+73112.0,Painters and decorators (except interior decorators),R,C,a
+73113.0,Floor covering installers,R,C,
+73200.0,Residential and commercial installers and servicers,R,C,i
+73201.0,General building maintenance workers and building superintendents,R,C,I
+73202.0,Pest controllers and fumigators,R,C,i
+73209.0,Other repairers and servicers,R,C,I
+73300.01,Long-haul transport truck drivers,R,C,E
+73300.02,Short-haul and local transport truck drivers,R,C,e
+73301.01,Bus and streetcar drivers,R,C,E
+73301.02,School bus drivers,R,C,s
+73301.03,Subway train and light rail transit operators,R,C,
+73310.01,Railway locomotive engineers,R,C,e
+73310.02,Yard locomotive engineers,R,C,e
+73311.01,Railway conductors,E,R,C
+73311.02,Brakemen,R,C,i
+73400.0,Heavy equipment operators,R,C,i
+73401.0,Printing press operators,R,C,i
+73402.01,"Drillers - surface mining, quarrying and construction",R,I,C
+73402.02,"Blasters - surface mining, quarrying and construction",R,I,C
+74100.01,Mail sorters,C,R,
+74100.02,Mailroom clerks,C,R,
+74101.0,Letter carriers,R,C,s
+74102.0,Couriers and messengers,R,C,
+74200.01,Railway yard  workers,R,C,i
+74200.02,Railway track maintenance workers,R,C,
+74201.01,Engine room crew - water transport,R,C,i
+74201.02,"Deck crew, water transport",R,C,i
+74202.0,Air transport ramp attendants,R,C,
+74203.0,Automotive and heavy truck and equipment parts installers and servicers,R,C,
+74204.01,Waterworks maintenance workers,R,C,i
+74204.02,Gas maintenance workers,R,C,I
+74205.0,Public works maintenance equipment operators and related workers,R,C,
+75100.0,Longshore workers,R,C,
+75101.01,Material handlers (manual),R,C,
+75101.02,Material handlers (equipment operators),R,C,
+75110.0,Construction trades helpers and labourers,R,c,
+75119.0,Other trades helpers and labourers,R,c,
+75200.01,Taxi and limousine drivers,R,E,s
+75200.02,Chauffeurs,R,E,C
+75201.0,Delivery service drivers and door-to-door distributors,R,E,C
+75210.01,Lock equipment operators,R,C,
+75210.02,Cable ferry operators,R,C,e
+75210.03,Ferry terminal workers,R,C,e
+75210.04,Boat operators,R,C,E
+75211.01,Railway labourers,R,c,
+75211.02,Motor transport labourers,R,c,
+75212.0,Public works and maintenance labourers,R,C,
+80010.0,Managers in natural resources production and fishing,E,C,I
+80020.0,Managers in agriculture,E,R,C
+80021.0,Managers in horticulture,E,R,C
+80022.0,Managers in aquaculture,E,R,C
+82010.0,"Supervisors, logging and forestry",E,R,C
+82020.0,"Supervisors, mining and quarrying",E,R,C
+82021.0,"Contractors and supervisors, oil and gas drilling and services",E,R,C
+82030.01,Agricultural service contractors,E,R,C
+82030.02,Farm supervisors,E,R,C
+82031.0,"Contractors and supervisors, landscaping, grounds maintenance and horticulture services",E,R,C
+83100.0,Underground production and development miners,R,I,
+83101.01,Oil and gas well drillers and well servicers,R,E,C
+83101.02,"Oil and gas well loggers, testers and related workers",R,C,i
+83110.0,Logging machinery operators,R,I,C
+83120.0,Fishing masters and officers,R,E,I
+83121.0,Fishermen/women,R,E,I
+84100.0,Underground mine service and support workers,R,c,
+84101.01,Oil and gas well drilling workers,R,C,I
+84101.02,Oil and gas well service operators,R,c,i
+84110.0,Chain saw and skidder operators,R,,
+84111.0,Silviculture and forestry workers,R,c,i
+84120.01,Specialized livestock workers,R,,
+84120.02,farm machinery operators,R,,
+84121.0,Fishing vessel deckhands,R,,
+85100.0,Livestock labourers,R,,
+85101.0,Harvesting labourers,R,,
+85102.0,Aquaculture and marine harvest labourers,R,c,
+85103.0,Nursery and greenhouse labourers,R,c,
+85104.0,Trappers and hunters,R,I,e
+85110.0,Mine labourers,R,c,
+85111.0,"Oil and gas drilling, servicing and related labourers",R,,
+85120.0,Logging and forestry labourers,R,,
+85121.0,Landscaping and grounds maintenance labourers,R,,
+90010.0,Manufacturing managers,E,C,I
+90011.01,Water supply managers,E,C,I
+90011.02,Electrical power distribution managers,E,C,I
+90011.03,Natural gas and petroleum supply managers.,E,C,I
+90011.04,Water pollution control managers,E,C,I
+90011.05,Waste systems managers,E,C,I
+92010.0,"Supervisors, mineral and metal processing",E,R,C
+92011.0,"Supervisors, petroleum, gas and chemical processing and utilities",E,R,C
+92012.0,"Supervisors, food and beverage processing",E,R,C
+92013.0,"Supervisors, plastic and rubber products manufacturing",E,R,C
+92014.0,"Supervisors, forest products processing",E,R,C
+92015.0,"Supervisors, textile, fabric, fur and leather products processing and manufacturing",E,R,C
+92020.0,"Supervisors, motor vehicle assembling",E,R,C
+92021.0,"Supervisors, electronics and electrical products manufacturing",E,R,C
+92022.0,"Supervisors, furniture and fixtures manufacturing",E,R,C
+92023.0,"Supervisors, other products manufacturing and assembly",E,R,C
+92024.0,"Supervisors, other products manufacturing and assembly",E,R,C
+92100.01,Power engineers,R,I,C
+92100.02,Power systems operators,R,I,C
+92101.01,Water treatment plant operators,R,I,C
+92101.02,Liquid waste plant operators,R,I,C
+93100.0,"Central control and process operators, mineral and metal processing",R,I,C
+93101.0,"Central control and process operators, petroleum, gas and chemical processing",R,I,C
+93102.0,"Pulping, papermaking and coating control operators",R,I,C
+93200.01,Aircraft assemblers,R,C,
+93200.02,Aircraft assembly inspectors,R,C,I
+94100.0,"Machine operators, mineral and metal processing",R,C,i
+94101.01,Mouldmakers and coremakers,R,C,
+94101.02,Metal casters,R,C,
+94101.03,Foundry furnace operators,R,C,
+94102.01,Glass process control operators,R,C,I
+94102.02,Glass forming machine operators,R,C,A
+94102.03,Glass finishing machine operators,R,C,A
+94102.04,Glass cutters,R,C,
+94103.01,Concrete products forming and finiching machine operators and workers,R,C,
+94103.02,Clay products forming and finishing machine operators,R,C,A
+94103.03,Stone forming and finishing workers,R,C,A
+94104.0,"Inspectors and testers, mineral and metal processing",R,C,I
+94105.01,Metalworking machine operators,R,C,
+94105.02,Forging machine operators,R,C,
+94106.0,Machining tool operators,R,C,
+94107.0,Machine operators of other metal products,R,C,
+94110.0,Chemical plant machine operators,R,C,i
+94111.01,Mixing machine operators - plastic processing,R,C,i
+94111.02,Calendering process operators - plastic processing ,R,C,i
+94111.03,Extruding process operators - plastic processing,R,C,i
+94111.04,Moulding process operators - plastic processing,R,C,i
+94112.01,Rubber processing machine operators,R,C,i
+94112.02,"Assemblers, rubber products",R,C,
+94112.03,Rubber products inspectors,R,C,I
+94120.0,Sawmill machine operators,R,C,i
+94121.0,"Pulp mill, papermaking and finishing machine operators",R,C,i
+94122.0,Paper converting machine operators,R,C,
+94123.01,Lumber graders,R,C,i
+94123.02,Other wood processing inspectors and graders,R,C,I
+94124.0,Woodworking machine operators,R,C,
+94129.0,Other wood processing machine operators,R,C,
+94130.01,"Textile fibre, yarn, hide and pelt processing machine operators",R,C,i
+94130.02,"Textile, hide and pelt dyeing and finishing machine operators",R,C,i
+94131.0,"Weavers, knitters and other fabric making occupations",R,C,i
+94132.0,Industrial sewing machine operators,R,C,
+94133.0,"Inspectors and graders, textile, fabric, fur and leather products manufacturing",R,C,I
+94140.01,"Process control operators, food and beverage processing",R,C,i
+94140.02,"Machine operators, food and beverage processing",R,C,i
+94141.01,Industrial butchers,R,C,
+94141.02,Industrial meat cutters,R,C,
+94141.03,Poultry preparers,R,C,
+94142.01,Fish and seafood plant machine operators,R,C,
+94142.02,Fish and seafood plant cutters and cleaners,R,C,
+94143.0,"Testers and graders, food and beverage processing",R,C,I
+94150.0,Plateless printing equipment operators,R,C,
+94151.01,"Graphic arts camera operators, scanner operators, film strippers and assemblers",R,C,i
+94151.02,Etchers and engravers,R,C,i
+94151.03,"Prepress technicians, platemakers, proofmakers, and pre-flight/file-preparation operators",R,C,i
+94152.0,Binding and finishing machine operators,R,C,
+94153.0,Photographic and film processors,R,C,i
+94200.01,Motor vehicle assemblers,R,C,
+94200.02,Motor vehicle inspectors and testers,R,C,I
+94201.01,Electronics assemblers and fabricators,R,C,
+94201.02,Electronics inspectors and testers,R,I,C
+94202.01,"Assemblers, electrical appliance, apparatus and equipment manufacturing",R,C,
+94202.02,"Inspectors and testers, electrical appliance,  apparatus and equipment manufacturing",R,I,C
+94203.01,"Assemblers, industrial electrical motors and transformers",R,C,
+94203.02,"Electrical fitters and wirers, industrial electrical motors and transformers",R,C,i
+94203.03,"Inspectors, industrial electrical motors and transformers       ",R,I,C
+94204.01,Mechanical assemblers,R,C,
+94204.02,Mechanical inspectors,C,R,I
+94205.01,Machine operators in electrical apparatus manufacturing,R,C,
+94205.02,Inspectors and testers in electrical apparatus manufacturing,R,I,C
+94210.01,Furniture and fixture assemblers,R,A,
+94210.02,Furniture finishers,R,A,I
+94210.03,Furniture refinishers,R,A,
+94210.04,Furniture and fixture inspectors,R,C,I
+94211.01,Other wood products assemblers,R,C,
+94211.02,Other wood products inspectors,R,C,I
+94212.01,Plastic products assemblers and finishers,R,C,
+94212.02,Plastic products inspectors,R,C,I
+94213.01,Industrial painters and coaters,R,C,
+94213.02,Industrial metal finishing process operators,R,C,
+94219.01,Product assemblers and finishers,R,C,
+94219.02,Product inspectors,R,C,I
+95100.0,Labourers in mineral and metal processing,R,C,
+95101.0,Labourers in metal fabrication,R,C,
+95102.0,Labourers in chemical products processing and utilities,R,C,
+95103.0,"Labourers in wood, pulp and paper processing",R,C,
+95104.0,Labourers in rubber and plastic products manufacturing,R,C,
+95105.01,Labourers in textile processing,R,C,
+95105.02,Fabric cutters,R,C,
+95105.03,Fur cutters,R,C,
+95105.04,Leather cutters,R,C,
+95106.0,Labourers in food and beverage processing,R,C,
+95107.0,Labourers in fish and seafood processing,R,C,
+95109.0,"Other labourers in processing, manufacturing and utilities",R,C,

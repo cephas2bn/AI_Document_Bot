@@ -1,0 +1,59 @@
+
+
+
+Courses Geological Engineering
+
+
+
+
+
+Course Descriptions - Undergraduate Calendar 2023-2024
+University of Waterloo Home |
+    Undergraduate Calendar |
+    Course Description Index |
+    Contact Us |
+    Privacy
+
+
+
+
+
+
+
+
+
+
+
+G E O L O G I C A L   E N G I N E E R I N G
+GEOE 100s
+GEOE 100 LAB,LEC,TST,TUT 0.80Course ID: 005226Environmental and Geological Engineering ConceptsAn introduction to the fundamental methods, principles and skills of environmental and geological engineering. Fundamentals of technical communication, the engineering design process and problem solving. Completion of a pre-design study and report for an environmental engineering project. Independent and team work. Fundamentals of engineering computation units, data collection, measurement, and error analysis. Field surveying (automatic level, engineer's transit, differential global positioning system (GPS), total station). Laboratory on engineering graphics auto-computer assisted diagnosis (AutoCAD) and computational software (Excel, Matlab). Aspects of the engineering profession (code of ethics, negligence, misconduct, role of the Professional Engineers Ontario (PEO), etc.), diversity in the workplace, and professional development. Preparation for the University of Waterloo co-operative education program (Co-operative Education and Career Action (CECA), résumé writing, job search and interview skills). [Offered: F] Prereq: 1A Geological Engineering(Cross-listed with ENVE 100) 
+GEOE 115 LEC,TUT 0.25Course ID: 014946Linear AlgebraLinear systems of equations, matrices and determinants. Introduction to the eigenvalue problem. Applications. [Offered: F] Prereq: Level at least 1A Geological Engineering. Antireq: MATH 106, 114, 115, 136, 146(Cross-listed with CIVE 115, ENVE 115) 
+GEOE 121 LAB,LEC,TST 0.50Course ID: 010660Computational MethodsIntroduction to computer programming, examples of efficient numerical algorithms for basic scientific computations. Programming and problem solving concepts introduced in the course will be incorporated into group projects involving civil, environmental, or geological engineering applications. The language of instruction will be Matlab. [Offered as: CIVE 121 (W), ENVE 121 (S), GEOE 121 (S)] Prereq: Level at least 1B Geological Engineering. Antireq: CHE 121, ECE 150, MTE 121/GENE 121, SYDE 121(Cross-listed with ENVE 121, CIVE 121) 
+GEOE 123 LAB,LEC,TUT 0.50Course ID: 015969Electrical Circuits and InstrumentationCharge, current, and voltage. Voltage and current sources, resistors, capacitors, and inductors. Ohm's Law, Kirchhoff's Laws, nodal analysis, instrumentation amplifier circuits, impedance. Function and characteristics of basic electrical transducers. Resolution, precision, and accuracy. Basics of data acquisition. [Note: Normally labs are held alternate weeks. Offered: AE 123 (S), CIVE 123 (W), ENVE 123 (S), GEOE 123 (S)] Prereq: Level at least 1B Geological Engineering. Antireq: GENE 123, ME 123(Cross-listed with ENVE 123, CIVE 123, AE 123) 
+GEOE 153 LAB,LEC,TST,TUT 0.50Course ID: 011496Earth EngineeringThis course studies earth materials and processes from an engineering point of view through case histories and problem sets. The course develops a geological knowledge for applications to any physical environment and provides an appreciation of the impact of engineering work on the environment. Topics include mineral and rock identification, the rock cycle, structural geology and tectonics, geology of Canada, effects of water, ice and wind. Students are also introduced to the concept of geologic time, topographic and geologic maps, and the basic principles and tools used to determine geologic history. [Offered as: CIVE 153 (W), ENVE 153 (S), GEOE 153 (S)] Prereq: Level at least 1B Geological Engineering(Cross-listed with ENVE 153, CIVE 153) 
+GEOE 200s
+GEOE 221 LEC,TST,TUT 0.50Course ID: 004214Advanced CalculusCalculus of functions of several variables. Differentiation; partial derivatives of implicit and explicit functions, applications including optimizations. Integration; multiple integrals in various co-ordinate systems with applications. Vector calculus; vector fields, line integrals, surface integrals, and applications. Numerical integration and differentiation. [Offered: F] Prereq: MATH 118; Level at least 2A Geological Engineering.  Antireq: MATH 217, ENVE 225(Cross-listed with CIVE 221) 
+GEOE 223 LEC,TST,TUT 0.50Course ID: 005236Differential Equations and Balance LawsAn introduction to ordinary differential equations with applications to mass and energy balance problems in engineering. Standard methods of solution of first and second order linear equations with constant coefficients. Numerical methods for solving ordinary differential equations. Partial differential equations. [Offered: W] Prereq: 2A Geological Engineering. Antireq: CIVE 222, MATH 218(Cross-listed with ENVE 223) 
+GEOE 224 LEC,TST,TUT 0.50Course ID: 005237Probability and StatisticsRole of probability in engineering and decision-making under uncertainty. Basic probability concepts. Probability distributions. Functions of random variables. Data analysis. Confidence intervals and hypothesis testing. Introduction to regression analysis. Introduction to design of experiments and statistical quality control. [Offered: W] Prereq: MATH 116; Level at least 2A Geological Engineering. Antireq: CHE 220, CIVE 224(Cross-listed with ENVE 224) 
+GEOE 280 LAB,LEC,TST,TUT 0.50Course ID: 014964Fluid MechanicsAn introduction to fluid mechanics. Fluid properties. Review of fluid statics. Buoyancy. Bernoulli equation. The momentum equation and applications. Laminar and turbulent flow. Dimensionless numbers. Closed conduit flow including friction losses. Pipe network analysis including energy losses and efficiencies. Four lab sessions. [Offered: W] Prereq: CIVE 105; Level at least 2A Geological Engineering. Antireq: CIVE 280(Cross-listed with ENVE 280) 
+GEOE 298 SEM 0.00Course ID: 009264SeminarGeneral seminar. [Offered: W] Prereq: 2A Geological Engineering 
+GEOE 299 SEM 0.00Course ID: 009265SeminarGeneral seminar. [Offered: F] Prereq: 2B Geological Engineering 
+GEOE 300s
+GEOE 353 LAB,LEC,TST,TUT 0.50Course ID: 004233Geotechnical Engineering 1An introduction to geologic processes. Subsurface exploration. Classification systems. Weight-volume relationships. Soil mechanics principles including state of stress, ground water flow, consolidation and shear strength. Four lab sessions. [Offered as: CIVE 353 (W), GEOE 353 (S)] Prereq: GEOE 153 or ENVE 153 or (EARTH 121, 121L); (Level at least 3A Environmental or Geological Engineering) or (Level at least 3A Earth Science/Hydrogeology Specialization)(Cross-listed with CIVE 353) 
+GEOE 354 LEC,TST,TUT 0.50Course ID: 004234Geotechnical Engineering 2Foundation engineering. Earth pressure theories. Retaining walls. Anchors. Shallow and deep foundations. Braced trenches and excavations. Slope stability. [Offered: F] Prereq: GEOE 353; Level at least 3B Environmental or Geological Engineering(Cross-listed with CIVE 354) 
+GEOE 391 LEC,TST,TUT 0.50Course ID: 005249Law and Ethics for Environmental and Geological EngineersPhilosophy of environmental controls; introduction to national and international regulatory structures relevant to industrial planning, emissions control, environmental impact assessment, occupational health; stance of government, industry and community pressure groups. Contract law. Professional ethics, including the social responsibility of engineers, conflicts of interest. [Offered: W] Prereq: 4B Geological Engineering(Cross-listed with ENVE 391) 
+GEOE 392 LEC,TST,TUT 0.50Course ID: 014962Economics and Life Cycle Cost AnalysisProject financing, life-cycle cost analysis, time value of money, sensitivity analyses, tax, financial implications of infrastructure projects, quantitative decision-making, financial aspects of a business plan. [Offered: S] Prereq: MATH 116; Level at least 3A Geological Engineering. Antireq: MSCI 261, SYDE 262(Cross-listed with CIVE 392, AE 392, ENVE 392) 
+GEOE 398 SEM 0.00Course ID: 009266SeminarGeneral seminar. [Offered: S] Prereq: 3A Geological Engineering 
+GEOE 399 SEM 0.00Course ID: 009267SeminarGeneral seminar. [Offered: W] Prereq: 3B Geological Engineering 
+GEOE 400s
+GEOE 400 LEC,PRJ 0.50Course ID: 005820Geological Engineering Design Project 1Students undertake an independent geological engineering design project during the last two terms of their plan. The purpose of the project is to demonstrate students' abilities to practise in a geological engineering capacity in their chosen area of expertise, using knowledge gained from their academic and employment experiences. The first part of the project (GEOE 400) will include problem identification, generation and selection of solutions, and time management. Incorporation of technical, ecological, social, political, and economic issues in the solution for the project will be required. A basic requirement of the proposed solution is that it must be compatible with the principles of sustainability. Requirements include proposal, progress report, and a final report containing recommendations for part two of the project, GENE 401. [Offered: F] Prereq: 4A Geological Engineering 
+GEOE 401 PRJ 0.50Course ID: 005821Geological Engineering Design Project 2A continuation of GEOE 400. The final design of the major geological engineering project proposed in GEOE 400 will be undertaken. The purpose of this phase of the project is to carry out a detailed technical design of the solution proposed in GEOE 400. Requirements of this part of the two-term project include a symposium presentation and a final report. [Offered: W] Prereq: 4B Geological Engineering 
+GEOE 495 LEC,TUT 0.50Course ID: 015982Design Intensive Special Topics in Geological EngineeringA special topics course on design intensive advanced topics in geological engineering is offered from time to time, when resources are available. For the current offering, inquire at the Department.Instructor Consent Required 
+GEOE 497 LEC,TUT 0.50Course ID: 015983Special Topics in Geological EngineeringA special topics course on advanced topics in geological engineering is offered from time to time, when resources are available. For the current offering, inquire at the Department.Instructor Consent Required 
+GEOE 498 SEM 0.00Course ID: 009268SeminarGeneral seminar. [Offered: F] Prereq: 4A Geological Engineering 
+GEOE 499 SEM 0.00Course ID: 009269SeminarGeneral seminar. [Offered: W] Prereq: 4B Geological Engineering 
+GEOE 500s
+GEOE 554 LEC,TST,TUT 0.50Course ID: 004252Geotechnical Engineering 3Simulation of geotechnical consulting practice. Students are required to complete several projects, based on actual case studies, which require problem identification, evaluation of geotechnical data, analysis, design, and report preparations. [Offered: W] Prereq: CIVE 353, 354; Level at least 4A Environmental or Geological Engineering(Cross-listed with CIVE 554) 
+
+
+

@@ -1,0 +1,109 @@
+Publication information
+_________________________
+
+GEOLOGICAL SURVEY OF CANADA
+OPEN FILE 6550
+
+
+Geochemistry database for carbonaceous and sulphidic metasediment horizons of the western Neoarchean Kidd-Munro Assemblage, Abitibi Subprovince, Ontario
+J.B. Chapman, J.M. Peter, and D. Layton-Matthews
+
+©Her Majesty the Queen in Right of Canada 2010
+
+Open files are products that have not gone through the GSC formal publication process.
+
+
+Recommended citation
+_________________________
+
+Chapman, J.B., Peter, J.M., Layton-Matthews, D., 2010. Geochemistry database for carbonaceous and sulphidic metasediment horizons of the western Neoarchean Kidd-Munro Assemblage, Abitibi Subprovince, Ontario; Geological Survey of Canada, Open File 6550, 1 DVD. 
+
+
+Contents
+_________________________
+
+Directory structure:
+autorun.exe, autorun.dat, autorun.inf (files for automatically opening the open file)
+licence_agreement_e.txt (end-user agreement in English)
+Readme.txt (English version of this file)
+of_6550.pdf (open file)
+Appendices\OpenFile6550-Appendix1.pdf (Wholerock sample element abundance distribution plots)
+Appendices\OpenFile6550-Appendix2.pdf (Core box and whole rock geochemmistry subsample photographs, and polished section photomicrographs)
+Index\OpenFile_6550.pdx, Index\OpenFile6550\index.idx, Index\OpenFile6550\index1.idx (index files)
+Tables\OpenFile6550-Tables1&2.xls (Table 1. Summary of sample metadata information, including DDH location, sampling depth, sample descriptions, and geochemical method key.)
+
+Adobe®, Acrobat®, and Reader® are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+
+Microsoft®, and Excel® are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
+
+
+System requirements
+_________________________
+
+PC with 486 or greater processor, or Mac® with OS® X v. 10.2.2 or later; Adobe® Reader® v. 5.0 or later; Microsoft® Excel® v. 97-2003 or later.
+
+
+Authors contact information
+_________________________
+
+John B. Chapman 
+Geological Survey of Canada
+601 Booth Street
+Ottawa, Ontario K1A 0E8 
+Email John.Chapman@NRCan-RNCan.gc.ca
+
+Jan M. Peter
+Geological Survey of Canada
+601 Booth Street
+Ottawa, Ontario K1A 0E8 
+
+Daniel Layton-Matthews
+Geological Sciences and Geological Engineering 
+Queen's University 
+Kingston, Ontario K7L 3N6
+
+
+
+
+Purchasing Locations
+_________________________
+
+Geological Survey of Canada Bookstore (Ottawa)
+180 - 615 Booth Street
+Ottawa, Ontario 
+K1A 0E9
+Tel.: 613-995-4342
+Tel.: 888-252-4301 (toll-free Canada and U.S.A.)
+Fax: 613-943-0646
+E-mail: gscbookstore@nrcan.gc.ca
+Web: http://gsc.nrcan.gc.ca/bookstore/index_e.php
+
+Geological Survey of Canada Bookstore (Vancouver)
+625 Robson Street
+Vancouver, British Columbia 
+V6B 5J3
+Tel.: 604-666-0529
+Fax: 604-666-1337
+E-mail: gscvan@gsc.nrcan.gc.ca
+Web: http://gsc.nrcan.gc.ca/org/vancouver/bookstore/index_e.php
+
+Geological Survey of Canada Bookstore (Québec)
+409, rue de la Couronne
+Québec, Québec
+G1K 9A9
+Tel.: 418-654-2677
+Fax: 418-654-2660
+E-mail: cqcq_librairie@nrcan.gc.ca
+Web: http://www.cgcq.rncan.gc.ca/bibliotheque/
+
+Geological Survey of Canada Bookstore (Atlantic)
+1 Challenger Drive
+P.O. Box 1006
+Dartmouth, Nova Scotia 
+B2Y 4A2
+Tel.: 902-426-4386
+Fax: 902-426-4848
+E-mail: Jennifer.Bates@nrcan-rncan.g.ca
+Web: http://gsc.nrcan.gc.ca/pubprod/pubprod_e.php
+
+

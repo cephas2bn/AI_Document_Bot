@@ -1,0 +1,171 @@
+GEOL 3321 (15964) – GEOLOGY FOR ENGINEERS
+Fall 2021
+
+Note: This syllabus is preliminary as of July 16, 2021 and subject to change.
+
+Instructor:
+Dr. Diane Doser (lecture) Geology 307, 747-5851, email: doser@ utep.edu
+
+Class Meeting Times
+Mon., Weds.  9:30-10:20  Room 123 Geology
+Office Hours: 10:30-11:30 MW or by appointment (zoom or in person, whatever is easiest for you!)
+
+Teaching assistants (laboratories):  
+TBD
+
+Text 
+NO text is required for the lecture part of course.  Course materials (e.g., copies of lecture power points, links to videos, study guides, handouts) will be available at the Blackboard lecture site and lab assignments will be available at the Blackboard laboratory site.  
+
+General class structure:
+I will post lecture power points, handouts and videos on Blackboard at least 3 days prior to the week they will be covered in class. 
+Most Monday mornings I will provide an overview lecture. We may also begin a group activity that day.
+Most Tuesday mornings I will email you a short quiz over lecture material that must be submitted to Blackboard by Wednesday at 9 AM (see course outline for details).
+Most Wednesday mornings there will be a group problem solving activity to complete by the end of class.
+
+There will be in-class exams on September 15, October 13, November 3, December 1 but no final exam.  There will also be quizzes and assignments in your laboratories and a laboratory project.
+
+NOTE THAT LABORATORIES START THE FIRST WEEK OF CLASS!  YOU MUST BE ENROLLED IN A LABORATORY SECTION AS WELL AS LECTURE.  
+
+Goals for Knowledge – at the end of this course you should:
+-be able to converse with a geologist/geophysicist 
+-be able to read geologic/geophysical reports 
+-know basic rock and soil types and the properties of these rocks/soils that an engineer may be concerned with 
+-understand surface geologic processes and how they affect engineering studies 
+-understand internal geologic processes (e.g. faults, earthquakes, volcanoes) and how they affect engineering studies 
+-know how geophysics is used in engineering site investigation 
+
+Goals for Skills – at the end of this class you should:
+-know how to read topographic and geologic maps 
+-locate yourself on a map 
+-be able to construct topographic and geologic cross sections 
+-be able to predict properties of a rock by how it appears in hand sample/outcrop 
+-conduct simple geophysical surveys 
+-communicate geology to colleagues and the general public (throughout the course through written assignments)
+
+How will we determine if you have reached these goals?
+-in-class quizzes (11 given throughout the semester-see course outline)
+-four in-class exams 
+-Wednesday lecture activities (11 total)
+-laboratory activities (see laboratory syllabus for specific details)
+-final laboratory project
+(see grading details that follow)
+
+				Course Outline 
+
+Week 1 – August 22 
+NOTE: THERE WILL BE A LAB THIS WEEK!
+Engineering and Geology, Earth’s Interior, Plate Tectonics 
+Quiz 1 – plate tectonics
+Activity –Cities on plate boundaries, Rio Grande rift
+
+Week 2 – August 29
+Minerals (silicates, oxides, sulfides, carbonates, sulfates, halides)
+Quiz 2 –minerals
+Activity – Everyday uses of minerals, mineral economics
+
+Week 3 – September 5
+No class on Monday, an audio lecture will be posted on Blackboard.
+No LABS (Labor Day)
+Rock cycle, igneous rocks, volcanic hazards
+Quiz 3 – igneous rocks, volcanic hazards
+Activity- Volcanic hazards
+
+Week 4 – September 12
+Sedimentary rocks
+EXAM 1 on September 15 (will cover plate tectonics, minerals, rock cycle, igneous rocks, volcanic hazards, maps)
+NO QUIZ or ACTIVITY
+
+Week 5 – September 19
+Metamorphic rocks
+Quiz 4 – sedimentary and metamorphic rocks
+Activity-engineering properties of sedimentary and metamorphic rocks
+
+Week 6 – September 26
+Rock properties
+Quiz 5 –rock properties
+Activity-rock mechanics
+
+Week 7 – October 3
+Structural geology – part 1
+Quiz 6 –structural geology
+Activity – geotechnical site investigation
+
+Week 8 – October 10
+Structural geology – part 2
+EXAM 2 on October 13 (will cover sedimentary and metamorphic rocks, maps, topographic profiles)
+NO QUIZ or ACTIVITY
+
+Week 9 – October 17
+Nonseismic geophysics
+Quiz 7 – nonseismic geophysics
+Activity – Nonseismic geophysics for geotechnical investigations
+
+Week 10 – October 24
+Seismic geophysics
+Quiz 8 – seismic geophysics, earthquakes
+Activity – Seismic geophysics for geotechnical investigations
+October 29 is LAST DAY FOR STUDENT INITIATED DROP
+
+Week 11 – October 31
+Earthquakes
+EXAM 3 on November 3 (will cover rock properties, structural geology, and nonseismic geophysics, maps)
+NO QUIZ or ACTIVITY
+
+Week 12 – November 7
+Rivers
+Quiz 9 – rivers
+Activity – Flooding
+
+Week 13 – November 14
+Groundwater
+Quiz 10 – groundwater
+Activity – Groundwater
+
+Week 14 – November 21
+Slope stability
+Quiz 11 – slope stability
+Activity – slope stability
+
+Week 15 – November 28
+EXAM 4 on December 1 (will cover seismic geophysics, earthquakes, rivers and groundwater)
+Project presentation will be given during final lab session this week!
+NO QUIZ or ACTIVITY
+
+Extra credit:  Up to 20 points (which will be applied to your total points in the course) can be earned by participating in a geology related activity outside of class.  I will be posting a series of 4 different extra credit assignments in a folder at the Blackboard site that will be due September 12, October 1, October 22 and November 12.  NO CREDIT will be given for late submissions.
+
+Lecture Material:  The material will be available via power points (some audio) that will be posted to Blackboard at least 2 or 3 days before the beginning of the week. You may also email me questions, come to my office hours or set up an individual meeting via Zoom or in person to go over the material.
+
+Quizzes: You will receive quizzes by email by 9 AM most Tuesdays and they will be due to Blackboard the next day (Wednesday) at 9 AM.  NO late quizzes will be accepted (note that I will count your best 10 of the 11 quizzes, so if you miss 1 quiz for any reason it will not count against your quiz grade). Material from quizzes may show up on exams.
+
+Activities: You will work in groups on these activities.  I will provide a background overview of the group activities via audio power point at the beginning of the week so that you can view it prior to class.  Sometimes activities may start on Monday, but most will start on Wednesday and will be due at the end of class.  Please view the audio power point before coming to class so that you are prepared to begin without me having to explain everything before you start.
+
+In-class exams:
+These will be given in-class on September 15, October 13, November 3 and December 1. If you miss an exam for any reason you must contact me within 24 hours of the exam.  Otherwise I will NOT allow you to take a makeup of any kind.  
+
+Final exam: There will be no final exam since we will have 4 in-class exams.
+
+Labs: If you miss completing more than two lab assignments and do not contact me or your teaching assistant within one week missing the second assignment, you may be withdrawn from the course, with a grade of either W or F. Teaching assistants are not obligated to grade labs that are turned in more than 1 week late.  Teaching assistants may also deduct points for late labs.
+
+Project: There will be a final project in the course that will be worth 25% of your lab grade (about 10% of your course grade).  The project will involve analyzing data, constructing figures, 
+and making power point and poster presentations - all things you will be expected to do as engineers.  The project will demonstrate how geology is used by engineers to solve a practical problem.
+
+Handy aids for study:
+Several Spanish-English geology dictionaries are posted at the class Blackboard site in a folder.  I will also provide relevant web sites for other material in the background material for each week (generally in the power points that cover the lecture materials). The teaching assistants also have found some videos in Spanish (as well as English) that cover lab and lecture topics.
+
+Grading:
+
+In-class exams	 [total of 4]					35%
+Quizzes [best 10 out of 11]					15%
+Group assignments [total of 11]				15%
+Laboratories, including project				35% 
+
+Total    							100%
+
+90-100% = A	80-89% = B	70-79% = C	60-69% = D	below 60%= F
+
+Other important dates: last day to drop class with “W” is October 29, 2021.
+
+Academic Honesty: The Geological Sciences Department has gone to great lengths in order to make learning the material easier than engaging in scholastic dishonesty, which is defined in the UTEP Handbook of Operating Procedures at Chapter 1: Student Conduct and Discipline (utep.edu) Proven violations of these detailed regulations may result in any of the consequences outlined in the Student Handbook. 
+Plagiarism:  Using another person’s ideas, words, drawings, etc. without giving proper credit (through a citation) is considered plagiarism.  This includes anything from a book, magazine, technical report or journal, or website.  It ALSO includes anything copied from another student’s paper or from a paper you wrote for another class where you received credit for it.  Plagiarism is considered Academic Dishonesty and you may be reported to the Dean of Students if I suspect you of plagiarism.  I regularly randomly compare students’ papers for similar wording and conduct internet searches on suspicious text.  If you plagiarize as a professional it can cost you your job!
+
+Students with Disabilities: If you think you may have a disability or if you are experiencing learning difficulties, please contact the Center for Accommodations and Support Services (CASS) at (915) 747-5148 (voice or TTY), in Union East Room 106, or by E-Mail at cass@utep.edu. We will work with you and CASS to find accommodations that will help lead to success in my course.  The sooner you have CASS contact Dr. Doser, the better able we are to help you.

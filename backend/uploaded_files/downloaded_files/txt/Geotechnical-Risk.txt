@@ -1,0 +1,985 @@
+ SAFETY OF DAMS AND DOWNSTREAM COMMUNITIES
+
+
+
+
+               T E C H N I C A L N OT E 2
+
+GEOTECHNICAL RISK
+
+
+
+
+GOOD PRACTICE NOTE ON
+DAM SAFETY
+About the Water Global Practice
+Launched in 2014, the World Bank Group’s Water Global Practice brings
+together financing, knowledge, and implementation in one platform.
+By combining the Bank’s global knowledge with country investments,
+this model generates more firepower for transformational solutions to
+help countries grow sustainably.
+
+Please visit us at www.worldbank.org/water or follow us on Twitter
+at @WorldBankWater.
+
+
+
+About GWSP
+This publication received the support of the Global Water Security
+& Sanitation Partnership (GWSP). GWSP is a multidonor trust fund
+administered by the World Bank’s Water Global Practice and supported
+by Austria’s Federal Ministry of Finance, the Bill & Melinda Gates
+Foundation, Denmark’s Ministry of Foreign Affairs, the Netherlands’
+Ministry of Foreign Affairs, the Swedish International Development
+Cooperation Agency, Switzerland’s State Secretariat for Economic Affairs,
+the Swiss Agency for Development and Cooperation, and the U.S. Agency
+for International Development.
+
+Please visit us at www.worldbank.org/gwsp or follow us on Twitter #gwsp.
+GOOD PRACTICE NOTE ON DAM SAFETY
+
+
+
+
+            T E C H N I C A L N OT E 2
+   GEOTECHNICAL RISK
+© 2021 International Bank for Reconstruction and Development / The World Bank
+
+1818 H Street NW, Washington, DC 20433
+
+Telephone: 202-473-1000; Internet: www.worldbank.org
+
+This work is a product of the staff of The World Bank with external contributions. The findings, interpretations,
+
+and conclusions expressed in this work do not necessarily reflect the views of The World Bank, its Board of
+
+Executive Directors, or the governments they represent.
+
+The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors,
+
+denominations, and other information shown on any map in this work do not imply any judgment on the part of
+
+The World Bank concerning the legal status of any territory or the endorsement or acceptance of such boundaries.
+
+Rights and Permissions
+
+The material in this work is subject to copyright. Because The World Bank encourages dissemination of its
+
+knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full attribution
+
+to this work is given.
+
+This Technical Note on Geotechnical Risk is a supplementary document to the Good Practice Note on Dam
+Safety. Please cite the work as follows: World Bank. 2021. “Good Practice Note on Dam Safety – Technical Note 2:
+Geotechnical Risk.” World Bank, Washington, DC.
+
+Any queries on rights and licenses, including subsidiary rights, should be addressed to World Bank Publications,
+
+The World Bank Group, 1818 H Street NW, Washington, DC 20433, USA; fax: 202-522-2625; e-mail: pubrights​
+
+@­worldbank.org.
+
+Cover photo: Lom Pangar hydropower dam (Cameroon) © Imed Hafi/Electricity Development Corporation,
+
+Cameroon.
+
+Cover design: Bill Pragluski, Critical Stages LLC.
+Technical Note 2: Geotechnical Risk
+
+Contents
+Introduction	1
+Geotechnical Hazards	                                                                                                                       1
+Geological Hazards	                                                                                                                         2
+Foundation Conditions	                                                                                                                      3
+Reservoir Rim Stability and Watertightness	                                                                                                 4
+Dam Type Selection and Key Factors 	                                                                                                        6
+Investigation Program	                                                                                                                      6
+Geotechnical Reports and Baselines	                                                                                                        11
+Geotechnical Risk Register	                                                                                                                13
+References	16
+
+
+
+
+Introduction
+This Technical Note is prepared to provide guidance to the World Bank task teams and clients regarding
+geological and geotechnical issues and recommended risk mitigation and management measures. The
+investigation, design, and construction of dams should identify and consider all potential hazards and
+threats to dam safety while being cognizant of the associated consequences of dam failure.
+
+
+Geotechnical Hazards
+Geotechnical hazards1 and threats for a dam must be considered for the overall dam system including
+dam body, appurtenant structures, foundations, abutments, and the reservoir rim. Critical hazards and
+threats that could lead to dam failure include:
+
+•• Internal erosion and piping of embankment or foundation material
+
+
+•• Hydraulic fracturing within the dam
+
+
+•• Surface erosion
+
+
+•• Slope instability
+
+
+•• Static and dynamic liquefaction of foundation soils or the embankment fill
+
+
+•• Excessive seepage
+
+
+
+1	 Hazard is here defined as a threat or condition that may result from external cause (for example, earthquake or flood) or internal vulnera-
+   bility. Risk is defined by combining an assessment of the probability of the hazard occurring with an assessment of the impact that the
+   hazard would cause if it occurs. More details are provided in the Geotechnical Risk Register section.
+
+
+
+
+Technical Note 2: Geotechnical Risk                                                                                                         1
+•• Excessive uplift pressure
+
+
+•• Deformation of the dam
+
+
+•• Sliding on weak foundation planes
+
+
+•• Unsuitable construction materials
+
+
+
+Geological Hazards
+Geotechnical hazards are derived from and linked with broader geological hazards surrounding dam
+sites and reservoir areas. Geologically, no two sites will be the same; many different geological
+­
+processes and interactions can create complex sites and the materials available for dam construction.
+Geology will have a profound influence on the location of the dam site and layout of dam features.
+Geological hazards are those geological features that have the potential to negatively affect the
+successful construction of a dam at the chosen site. Geological hazards may affect the selection of
+­
+dam sites and surrounding reservoir areas. The successful project will identify geological hazards
+and, where necessary, mitigate the effects that hazards could bring on the construction and operation
+of dams and reservoirs.
+
+Geological hazards may include:
+
+•• Defects in rock foundations including joints, bedding planes, faults, infill seams, solution features,
+    buried alluvial channels, and weathered or altered seams, which could become leakage paths or form
+    unstable wedges in the dam foundation
+
+
+•• Defects in soil foundations including fissures, tension cracks, ancient landslides, and infilled
+    features
+
+
+•• Potentially liquefiable foundation soils that would not support the dam body after an earthquake
+
+
+•• Soluble foundation rock that leads to leakage and erosion problems over time
+
+
+•• Varying stiffness of foundation material that could result in differential settlement within the dam
+
+
+•• Potentially unstable abutment slopes
+
+
+•• Potentially unstable slopes surrounding the reservoir shoreline that could cause an impulse wave that
+    could overtop the dam
+
+
+•• Foundation material that is prone to erosion and scouring by energy dissipation of discharge from the
+    dam spillway
+
+
+•• High-pressure groundwater systems that prevent foundation excavation and construction
+
+
+
+2      Technical Note 2: Geotechnical Risk
+•• Chemically reactive aggregates that affect construction materials (for example, aggregates that would
+  cause expansion cracks in concrete by alkali aggregate reaction or an earth dam filter material that
+  cements)
+
+
+•• Active regional faults that could cause earthquakes resulting in severe shaking and displacements at
+  or near the dam site
+
+
+•• Active faults that cross the reservoir or dam site with the potential to cause seiche waves in the reser-
+  voir that could overtop the dam
+
+
+Geological hazards must be assessed using data obtained during geotechnical investigations, supple-
+mented by geologists and geotechnical engineers’ judgments and analysis. Mitigation measures need to
+be considered to reduce the effects of the hazard or reduce the likelihood of occurrence. If the risk would
+remain unacceptably high even after mitigation measures are taken, then the dam site may have to be
+abandoned.
+
+
+Foundation Conditions
+Foundation defects can affect the integrity and stability of any dam type, and untreated foundation
+defects have contributed to some dam failures around the world. The foundation of any dam must fulfill
+the following five functions:
+
+•• It must provide stability.
+
+
+•• It must provide adequate stiffness to ensure that deformations are within acceptable limits.
+
+
+•• It must control and limit seepage flows and uplift/piezometric pressures beneath the dam.
+
+
+•• It must be resistant to internal erosion.
+
+
+•• It must not degrade over time.
+
+
+Appropriate foundation engineering should address any concerns that arise in relation to these
+functions.
+
+At some dam sites, geological conditions are reasonably straightforward, and all of the functions are
+readily satisfied. At other dam sites, geological conditions are complex, and critical defects may not
+become apparent until foundation excavation is underway. The challenge is to keep the uncertainties
+within acceptable limits; however, there are some geological environments that require more care
+during investigation, design, and construction.
+
+
+
+
+Technical Note 2: Geotechnical Risk                                                                       3
+Annex 1 of Environmental and Social Standard (ESS) 4 specifies that a dam featuring “foundations that
+are complex and difficult to prepare” should apply certain dam safety requirements regardless of the
+dam’s size. These foundation complexities and issues can include:
+
+•• Clean coarse sands, gravels, and cobbles that could provide a pathway for foundation piping or the
+    piping of embankment materials into the foundation
+
+
+•• Loose silt or sand deposits that are potentially liquefiable
+
+
+•• Open or infilled joints in foundation rock that could be eroded and provide the potential for high
+    leakage flows or the piping of embankment materials
+
+
+•• Interbedded soil deposits (fine against coarse) that could provide the potential for foundation piping
+
+
+•• Weak strata, interbeds, and seams with low strengths, which could result in potential sliding failure
+    surfaces within the foundation
+
+
+•• Persistent subhorizontal joint sets that would limit the shear strength at the dam/foundation inter-
+    face or within the dam foundation
+
+
+•• Faults and other major discontinuities that can incorporate low-strength materials and, if unfavoura-
+    bly orientated, affect dam stability
+
+
+•• Highly compressible or dispersive soils that could result in collapse, differential settlements, and
+    cracking or foundation piping
+
+
+•• Karst features (caves and sinkholes) in limestone or soluble foundations (for example, gypsum),
+    which can result in significant leakage and additional sinkholes following reservoir impoundment by
+    dissolution or washing out of infilling or overlying materials
+
+
+•• Active faults that can cause earthquakes, resulting in displacements beneath a dam and the initiation
+    of internal erosion, increased uplift pressures, and reductions in dam stability (see the Technical Note
+    on Seismic Risk)
+
+
+•• Landslides or unstable abutments
+
+
+Reservoir Rim Stability and Watertightness
+In addition to the dam foundation and abutment, geotechnical issues of the reservoir rim should also be
+assessed.
+
+Reservoir Rim Stability
+The potential of landslides on the reservoir rim should be checked as part of the dam’s safety
+evaluation. The reservoir landslides could cause an impulse wave generated by rapid landslide move-
+­
+ment (or rockfall) to overtop the dam or flood the communities surrounding the reservoir rim.
+
+
+4      Technical Note 2: Geotechnical Risk
+Alternatively, a landslide around the reservoir rim or in the upstream river, could create a “landslide
+dam”, blocking the river flow/reservoir water and eventually breaching with the resulting flood wave
+overtopping the dam.
+
+ICOLD (2002) provides guidelines for the investigation and management of reservoir landslides, com-
+ments on possible risk mitigation measures, and discusses requirements and methods for the ongoing
+monitoring of reservoir landslide performance.
+
+Considerations for landslides around the reservoir rim include:
+
+•• Whether there is any part of the reservoir perimeter (for example, a narrow ridge) that may be more
+  likely to fail than the closure dam
+
+
+•• Whether there is any potential for landslide-generated waves to affect communities adjacent to the
+  reservoir
+
+
+•• Whether any existing landslides may reactivate or new landslides may develop under any of the pos-
+  sible reservoir conditions, to the extent that the dam could be overtopped or the reservoir or ups-
+  tream tributaries blocked
+
+
+•• Whether reservoir operation could result in toe erosion adjacent to dormant or potential landslide
+  areas
+
+
+•• Whether any of the slopes near the spillway or low-level outlet facilities may fail and block the facili-
+  ties or impair their functions
+
+
+•• What management regimen should be implemented to prevent sediment or debris from affecting the
+  performance of the spillway or low-level outlet facilities
+
+
+•• What operational requirements should be implemented to ensure that the stability of dormant and
+  potential landslide areas is not adversely affected by reservoir drawdown
+
+
+•• What management regimen should be implemented to monitor the performance of known landslides
+  and any completed remedial works during dam commissioning and operation
+
+
+Reservoir Water Tightness
+The water tightness of a reservoir depends on the permeability of foundation and surrounding material,
+existing groundwater around the reservoir, and gradients and lengths of potential seepage paths.
+Although minor reservoir water leakage will not cause dam safety and operation issues, a large amount
+of leakage can have several negative impacts. Excessive leakage could prevent the reservoir from being
+filled up and cause increased groundwater tables, leading to development of swamps downstream or
+landslides. Leakage water could exit to a downstream location in an uncontrolled manner, eroding the
+surrounding ground or dam structure.
+
+
+
+
+Technical Note 2: Geotechnical Risk                                                                       5
+The leakage rate will depend on the geological formation and material type surrounding the reservoir.
+Nonsoluble, soluble, and soil materials will have different levels of watertightness. Keys to understan-
+ding the watertightness of nonsoluble and soluble rocks include understanding the groundwater condi-
+tions around the reservoir and the site’s history, regional topography, geology, and properties of
+materials surrounding the reservoir.
+
+There are several treatment measures to prevent and reduce leakage, such as lining the reservoir, grou-
+ting, construction of cutoff walls, and so on. Because these treatment works could be quite expensive, it
+is important to undertake proper geological and geotechnical investigation and assess the costs of the
+treatment works to reduce the leakage amount to an acceptable level. The dam site may need to be ree-
+valuated depending on such assessments.
+
+
+Dam Type Selection and Key Factors
+Dams are primarily constructed of “earthfill” (soil and rock) materials or concrete. The appropriate dam
+type and construction materials will depend on several factors, including the purpose and geological
+considerations. Table 1 shows the significant factors that should be considered for specific dam types to
+minimize dam safety hazards, along with possible design and mitigation measures that address the
+potential failure modes.
+
+Some good reference books and guidelines on the design and remediation of dams include:
+
+•• Weaver and Bruce (2007) for foundation grouting
+
+•• Fell et al. (2005) for geotechnical engineering of dams.
+
+•• ICOLD (2005) for dam foundations including geologic considerations, investigation methods, treat-
+    ment and monitoring
+
+•• ICOLD (2009) for the specification and quality control of concrete dams
+
+•• FEMA (2011) for embankment dam filters
+
+•• USBR (1987) for design of small dams
+
+
+
+Investigation Program
+Comprehensive geotechnical investigations should be undertaken to understand the dam’s foundation
+stratigraphy, design, and construction materials. All investigations and data assembly for the design
+must be on an appropriate level to the complexity of the dam site. Site investigations can be long, so it is
+important to start as soon as possible. Investigation needs to be in proportion to the hazard of the struc-
+ture and the magnitude of the risk. There can be a temptation to delay investigation activities until the
+implementation phase, but by then the construction contract will have been signed and unexpected
+ground conditions are more likely to become the source of contractual dispute. Investigations should be
+preferably staged so that lessons learned guide the scope for subsequent stages of investigation.
+
+
+6      Technical Note 2: Geotechnical Risk
+TABLE 1.   Dam Type Selection and Key Factors
+
+                                    Typical potential failure
+Dam type and key features           modes                              Key factors and considerations            Key design and mitigation measures
+Homogeneous embankment              • Leakage along crack or           • Whether there is sufficient suitable    • Adequate drainage within the
+dams                                  defect through core leading        impervious fill material naturally        dam and at the toe of the dam to
+
+• Constructed of a single low         to erosion of core and dam         resistant to piping and internal          prevent the downstream shoulder
+
+  permeability material; may          failure                            erosion                                   from becoming saturated
+
+  have a pervious zone on the       • Internal erosion and             • The vulnerability of selected           • Grout curtain or cutoff to control
+  downstream toe                      formation of pipe through          materials to erosion or piping            seepage through the foundation
+
+• Relies on erosion resistance of     core connecting to reservoir     • The durability, compressibility, and    • Foundation soil strengthening
+  impervious material               • Internal erosion of core           permeability of the fill material to      through grouting or deep soil
+
+• More common for small dams          material into abutment             limit settlement and control seepage      mixing process (machine mixing of
+                                      defects leading to collapse of   • Care in the use of dispersive soils       soil with grout)
+• Better suited than a concrete
+                                      the core                                                                   • Stability buttress against
+  dam to soil/gravel foundations                                       • Foundation material strength and
+  and foundations likely to                                              potential defects                         downstream face if slope is
+
+  settle/deform (that is, of                                                                                       potentially unstable
+                                                                       • Foundation shape—avoid steps and
+  variable stiffness)                                                    sharp changes in grade that could       • Filter buttress against downstream
+
+• Homogeneous earthfill dams                                             initiate cracks in the dam core           face if piping risk through dam is
+
+  can incorporate additional                                                                                       too high
+                                                                       • Need for foundation treatments at
+  features to reduce and control                                         the embankment contact
+  seepage, such as upstream
+                                                                       • Appropriate design of filter and
+  geomembrane liner, concrete
+                                                                         drainage materials to prevent piping
+  core wall, and toe drains.
+                                                                         and control drainage of seepage
+Zoned embankment dams                                                                                            • Compatibility among zones and
+                                                                       • Select construction materials that
+• Constructed with a low                                                                                           against foundation to prevent
+                                                                         will not naturally cement
+  permeability zone (core) and                                                                                     internal erosion and piping
+                                                                       • Risk of contamination or segregation
+  earthfill or rockfill shoulder                                                                                 • Adequate drainage within the
+                                                                         of filters and drains through poor
+  zones of higher permeability                                                                                     dam and at the toe of the dam to
+                                                                         production or placement techniques
+• Core zone of low-permeability                                                                                    prevent the downstream shoulder
+                                                                       • Construction practices that prevent       from becoming saturated
+  earth, silty gravel, asphalt,
+                                                                         defects in the dam, such as near-
+  concrete, or geomembrane                                                                                       • Grout curtain or cutoff to control
+                                                                         horizontal preferential seepage
+• Typically include filter zones                                                                                   seepage through the foundation
+                                                                         paths that allow high seepage
+  to prevent internal erosion of                                         flows and velocities or high internal   • Foundation soil strengthening
+  the core                                                               pressures                                 through grouting or deep soil
+
+• Drainage zones to control                                                                                        mixing process (machine mixing of
+                                                                       • Prevention of preferential paths
+  seepage                                                                                                          soil with grout)
+                                                                         for seepage and erosion at the
+• Alternative form utilizes                                              abutments                               • Stability buttress against
+
+  upstream impervious face                                                                                         downstream face if slope is
+
+  of asphalt, concrete, or                                                                                         potentially unstable
+
+  geomembrane                                                                                                    • Filter buttress against downstream
+                                                                                                                   face if piping risk through dam is
+                                                                                                                   too high
+
+                                                                                                                  table continues on the next page
+
+
+
+
+                     Technical Note 2: Geotechnical Risk                                                                                                7
+TABLE 1.   continued
+
+                                      Typical potential failure
+Dam type and key features             modes                               Key factors and considerations                Key design and mitigation measures
+Concrete gravity dams                 •	 Sliding on foundation/rock       •	 Potential deformation of foundation        •	 Grout curtain or cutoff to control
+Rely on the weight of concrete          interface of subhorizontal        •	 Whether erodible foundation                  seepage through the foundation.
+to retain the reservoir. Typically      defect plane in the                 discontinuities are present in the          •	 Adequate drainage behind the grout
+built on moderately strong              foundation                          foundation rock and present a                 curtain at the heel of the dam to
+to strong rock. Construction          •	 Overturning caused by weak         leakage or stability risk                     prevent the high uplift pressures
+techniques include:                     foundation strength               •	 Whether subhorizontal planes               •	 Treatment of leakage paths in the
+•	 Conventional concrete gravity      •	 Sliding on defect in dam           of weakness are present in the                foundation with cutoff shafts, mass
+    dams constructed with mass          concrete                            foundation rock and whether they              concrete, and grouting
+    concrete                          •	 Expansion of concrete              can be treated                              •	 Removal of unstable blocks of rock
+•	 Roller compacted concrete            aggregates leading to             •	 Permeability of foundation rock and          in the foundation and replacement
+    dams (RCCs) constructed with        degradation of dam body             treatment plan                                with mass concrete
+    road-building equipment           •	 Abutment failure                 •	 Effective internal drainage systems        •	 Internal drainage of the concrete to
+•	 Hardfill dams constructed          •	 Piping of joint infill in          to reduce uplift pressures                    prevent high pressures in the dam
+    from cemented sand and              foundation rock leading           •	 Longevity of concrete material over          concrete
+    gravel with a watertight            to uncontrolled leak from           lifetime of the structure—in particular, •	 Water stops to prevent leaks
+    concrete face                       reservoir                           durability and reactivity of aggregates       through dam block joints
+
+Concrete buttress dams                •	 Structural failure of upstream     (avoid alkali-silica reactivity)            •	 Mass concrete stability buttress against
+
+•	 Constructed of an upstream           slab of buttress dam              •	 Joint treatments and watertightness          downstream face if dam is vulnerable
+
+    concrete face supported                                                 of the upstream face                          to sliding on the foundation interface
+
+    at intervals by a series of                                           •	 Temperature effects from                   •	 Drainage systems to remove water
+    concrete buttresses                                                     uncontrolled heat of hydration;               from within the dam gallery system
+
+•	 Typically built on moderately                                            consider low heat cements and               •	 Drainage and buttress of abutment if
+    strong to strong rock                                                   pozzolanic materials                          found to be unstable
+
+Arch dams                             •	 Failure of wedge of rock in      •	 Whether rock discontinuities are           •	 Grout curtain or cutoff to control
+•	 Thin shell of concrete that          abutment removing support           present that could form failure               seepage through the foundation
+    uses arch shape to hold             for arch                            wedges or leakage paths and                 •	 Adequate drainage behind the
+    reservoir by transferring loads   •	 Excessive deformation of           whether they can be treated                   grout curtain at the heel of
+    to the abutment through the         abutment leading to failure       •	 Whether the stiffness of the abutment        the dam to prevent high uplift
+    dam shell                           of arch concrete                    rock is sufficient to control abutment        pressures, although less critical
+•	 Typically requires hard rock       •	 Failure of arch dam at a           deformation under dam loads to                than for concrete gravity dams
+    and narrow valley shape             defect in dam concrete              support arch dam and prevent failure        •	 Treatment of leakage paths in the
+•	 Arch dam design is complex         •	 Expansion of concrete            •	 Whether the abutments and                    foundation with cutoff shafts, mass
+    and requires a high level of        aggregates leading to               foundation can withstand high                 concrete, and grouting
+    specialization                      degradation of dam body             hydraulic gradients around the dam          •	 Removal of unstable blocks of rock
+                                      •	 Piping of joint infill in          base; consider treatment options, for         in the foundation and abutment
+                                        foundation rock leading             example, grouting                             and replacement with mass
+                                        to uncontrolled leak from         •	 Whether erodible foundation                  concrete
+                                        reservoir                           discontinuities are present in the          •	 Water stops to prevent leaks
+                                                                            foundation rock and present a                 through dam block joints
+                                                                            leakage or stability risk                   •	 Stiffening of abutments with grout
+                                                                          •	 Longevity of concrete material over the      or shafts and tunnels to reduce
+                                                                            lifetime of the structure; in particular,     abutment deformation under load
+                                                                            durability and reactivity of aggregates     •	 Shear keys in abutments to prevent
+                                                                          •	 Joint treatments and watertightness          movement of rock blocks
+                                                                            of the upstream face                        •	 Drainage and buttress of abutment
+                                                                          •	 Temperature effects from uncontrolled        if found to be unstable
+                                                                            head of hydration; consider low heat
+                                                                            cements and pozzolanic materials
+
+
+8       Technical Note 2: Geotechnical Risk
+Investigations can be costly, but it is highly important to invest time and money in a phased manner to
+avoid surprises, even though it may be difficult to convince the client to spend money at the early pro-
+ject preparation stage. Investigation costs will depend on the complexity of the site and the nature of
+materials available. The risk rating of the structure should also be a factor in prudent investment in
+investigation to protect downstream communities. The greater the investment in well-planned investi-
+gation, the more likely geotechnical risks can be identified and mitigated, rather than being the reason
+for cost overruns later in the project. Major changes to design have occurred following the discovery of
+unforeseen ground conditions at some projects.2
+
+It is also worth noting that investigation costs are often dominated by the cost to access the site and
+mobilize the equipment. The incremental costs of additional investigations once the initial investment
+has been made may be low relative to the access costs.
+
+Most investigation programs are completed in a series of separate stages with the following objectives:
+
+•• A prefeasibility investigation to gain sufficient information for the planning of a feasibility investiga-
+   tion. At this stage the project would likely identify possible dam sites, dam types, or possible remedial
+   measures. The dam’s setting would be established in the regional geological and geomorphological
+   context. Site reconnaissance, Google Earth, satellite images, regional geological mapping, and data
+   searches would be used, but there may not be significant physical site investigations until a preferred
+   site has been selected and a preferred dam type determined. It is important at the early stage to have
+   technical experts visit the proposed site to assess its suitability.
+
+•• A feasibility investigation to identify the preferred solution, confirm the technical feasibility of the
+   preferred solution, and estimate the cost of project development. At this stage the site conditions
+   would be established and local hazards identified. With a site identified, Lidar imagery provides base-
+   line topographic detail that an experienced geologist can use to identify potential faults and landsli-
+   des. Geological mapping and an initial subsurface investigation (boreholes, permeability test,
+   geophysical investigation, and laboratory testing of samples) would be expected. These investiga-
+   tions would focus on identifying geological hazards in the dam foundations and surrounding vicinity,
+   the presence of suitable construction materials in volumes necessary for construction, and whether
+   dam and reservoir hazards are present.
+
+•• A design investigation to determine specific details of the site and the materials for construction, and
+   to address any outstanding issues raised by earlier investigations. Targeted physical investigations
+   using boreholes, geophysical investigation, and laboratory testing of samples would be expected to
+   carefully assess features, defects, and anomalies for the dam foundation and spillway location, the
+   geotechnical properties (strength, gradation, compressibility, compatibility, and permeability) of the
+   foundation and the construction materials, and the threat posed by any active faults and reservoir
+   slope hazards.
+
+
+2	 Research of 40 dams in Australia built between 1888 and 2012 showed consequential project cost overruns of 49 percent (median) and
+  120 percent (mean) of the dam cost (estimated immediately prior to construction), with ground conditions being significant contributors
+  to the overruns (Petheram and McMahon 2019).
+
+
+Technical Note 2: Geotechnical Risk                                                                                                    9
+The geotechnical investigation technique and purpose at different stages are summarized in table 2.
+ICOLD (2005) also provides an overview of investigation techniques to address geological situations.
+
+All investigation programs should be progressively implemented to ensure that all unknowns are pro-
+perly identified and addressed. An appropriate process for the completion of an investigation program
+involves:
+
+1.	 Clearly defining the investigation objectives
+
+
+2.	Reviewing existing information and the identification of information gaps
+
+
+3.	Planning an investigation program
+
+
+
+
+TABLE 2.   Phased Geotechnical Investigation Technique and Purpose
+
+                               Investigation technique                             Purpose
+ Prefeasibility                •	 Site reconnaissance                              •	 Nature of ground conditions, typography, and so forth
+ investigation                 •	 Google Earth                                     •	 Site access, land use
+
+                               •	 Satellite images                                 •	 History of area, previous investigations
+
+                               •	 Regional geological mapping                      •	 Geological lineaments, potential faults, potential landslide
+
+                               •	 Data searches                                      features
+
+                                                                                   •	 Rock types at dam site
+
+                                                                                   •	 Available construction materials
+
+ Feasibility investigation     •	 Site reconnaissance                              •	 Nature of ground conditions
+
+                               •	 Topographic survey/mapping                       •	 Typography, landforms
+
+                               •	 Geological mapping                               •	 Identification of shears and faults crossing site
+
+                               •	 Borehole drilling                                •	 Subsurface exploration of dam site
+
+                               •	 Down-hole water tests                            •	 Permeability of foundation
+
+                               •	 Trenching                                        •	 Geological features such as faults
+
+                               •	 Test pits                                        •	 Foundation conditions and materials for construction
+
+                               •	 Geophysical investigation (seismic refraction,   •	 Subsurface conditions (boundaries of materials and weathering
+                                 electric resistivity, radar, and so on)             profiles)
+
+                               •	 Laboratory/in situ tests (such as UCS            •	 Engineering properties of materials (foundation and
+                                 (unconfined compressive strength), triaxial         construction materials)
+                                 shear test, and direct shear test)                •	 Engineering properties of rock
+                               •	 Rock mass classification
+
+ Design investigation          •	 Boreholes drilling with core recovery or         •	 Identification of depths of weathering, change of materials,
+
+ Carefully assess features,      downhole acoustic logging                           and defects in foundation
+
+ defects, and anomalies        •	 Permeability (Lugeon) tests                      •	 Permeability of foundation for grouting or cutoff design
+ for the dam foundation        •	 Geophysical investigation (for example,          •	 Foundation material zones
+ and spillway location and       seismic lines)                                    •	 The geotechnical engineering properties (strength, gradation,
+ the threat posed by any
+                               •	 Laboratory testing of samples                      compressibility, compatibility, and permeability) of the
+ active faults and reservoir
+                               •	 Aerial photo reconnaissance, Lidar imagery,        foundation and the construction materials
+ slope instability
+                                 and satellite imagery                             •	 Identification of potential landslides and active faults
+
+
+
+10      Technical Note 2: Geotechnical Risk
+4.	Implementing the investigation program
+
+
+5.	Reviewing the investigation results and following up findings with further investigations if necessary
+
+
+6.	Interpreting and documenting the investigation findings
+
+
+Determining responsibility for geological risks is notably important when preparing the contract for
+construction. It is likely to vary depending on the type of contract. The International Federation of
+Consulting Engineers (FIDIC) Red Book contract is normally used when the designer is engaged by the
+client. It assigns geological and geotechnical risks differently from the FIDIC Silver Book contract for
+Engineer, Procure, Construct (EPC). FIDIC Emerald Book (2019) also provides the risk allocation mecha-
+nism related to unforeseen ground conditions, particularly for tunnelling projects.3
+
+Investigations should be undertaken by appropriate and competent geologists and engineers who are
+skilled in the type of structure and the type of geological conditions expected at the site. Geologists will
+carry out the field activities, map the site, and identify hazards. They should be skilled in dam investi-
+gations rather than other fields such as mining or road works. Engineers need to be experienced in dam
+design and dam engineering, rather than other fields of engineering, to use the geotechnical properties
+for dam design. It is important that the engineers develop a clear understanding of the geological model
+delivered by the geologists.
+
+
+Geotechnical Reports and Baselines
+Documenting geotechnical information is vital to ensure that developing knowledge of the project
+­
+geology, hydrogeology, natural hazards, and engineering materials is being retained for the record and
+passed on to other parties participating in the project. This approach will reduce the risk of errors and
+omissions as the project advances. Furthermore, documented geotechnical details become the baseline
+evidence during contractual disputes between the constructor and the dam owner.
+
+A geological summary report may be sufficient for low-risk dams that are on relatively straightforward
+foundations and constructed of reliable materials. The report should describe the site in the context of
+regional geology, the specifics of site geology, and any known geological hazards that could affect the
+site (for example, faults or landslides). This information should be available from regional maps, sate-
+llite imagery, site inspection, and preliminary site investigations such as test pits.
+
+The following are logical allocations of documentation for high-risk dams, those on complex founda-
+tions, or those constructed of challenging materials. The purpose and recommended content of
+
+
+3	 FIDIC (2017a) is known as the Red Book, FIDIC (2017b) is known as the Yellow Book, and FIDIC (2017c) is known as the Silver Book. The
+  Emerald Book provides a standard-form contract that caters to the specificities of the tunnelling industry providing provision for the risk
+  allocation mechanism of unforeseen ground conditions between contractual parties and disclosure of geological and geotechnical informa-
+  tion with the use of the Geotechnical Baseline Report (GBR). This key document sets out the allocation of risk between contractor and
+  employer for subsurface physical conditions in providing the contractual definition of foreseeable conditions. The Emerald Book also pro-
+  vides a more flexible mechanism for completion time delay and price adjustment related to ground conditions as well as multitier dispute
+  resolution mechanism.
+
+
+
+Technical Note 2: Geotechnical Risk                                                                                                       11
+geotechnical reports is described in ASCE (2007). This document structure originated in the tunnelling
+industry to reduce the instances of expensive contract disputes over ground conditions. Dam projects
+have many geotechnical risks that, in the contract environment, have the potential for expensive con-
+tract disputes as well. Hence, the similar approach of report presentation is recommended for dam pro-
+jects and fits well with FIDIC-type contract documents (FIDIC 2017 a, b, and c).
+
+The following are more-specific geotechnical reports that would be required and useful for large cons-
+truction contracts and / or high-risk dams.
+
+•• Geotechnical Data Reports (GDRs), prepared by geologists, are factual reports containing raw data
+     such as borehole logs and laboratory results. If geotechnical hazards are known, they should also be
+     included. GDRs are intended to provide enough information to reduce the risk for projects and trans-
+     fer information to the contractor.
+
+
+•• Geotechnical Baseline Reports (GBRs), based on GDRs prepared by geologists, are instrumental in defi-
+     ning anticipated ground conditions during contract pricing. When the GBR is part of the construction
+     contract, it sets the range of adverse physical ground conditions that ought to be provided for and
+     included in the contract price. The GBR should provide a summary of anticipated ground and ground-
+     water conditions of a potential work site for the purpose of understanding the risk for preparing pro-
+     posals and bids for projects. The GBR may save construction costs and minimize disputes in unforeseen
+     ground conditions.
+
+
+•• Geotechnical Interpretative Reports (GIRs) are prepared by a team of qualified engineers and geologists
+     to apply the factual report to geotechnical analysis. Expert judgment is necessary in developing con-
+     clusions in these reports.
+
+
+The geologist should focus on geological information (description and foundation parameters) and
+identification of geological hazards and conditions to be expected. The design of the dam is carried out
+by the engineer, who should pay close attention to the engineering properties of the materials being
+investigated. Once the dam foundation has been stripped and exposed, the excavation findings should
+be compiled into a report and compared with the GBR.
+
+Preparation of these reports is a good opportunity to build capacity in local engineering and geological
+institutions and their staff.
+
+The detail and availability of these reports should consider the construction contract model. Contract
+documents should clearly express the risk allocated to the dam owner and to the contractor. In a unit
+rate contract, the usual risk-sharing principle is that ground condition risk is carried by the owner and
+production rates are within the risk sphere of the contractor. Therefore, any unexpected ground condi-
+tion requiring greater excavation, ground treatment, structural support, or replacement not identified
+in the design will be the dam owner’s cost to pay. An adequate amount of contingency should be alloca-
+ted to provide the financial means to address unexpected conditions. The geotechnical reports should
+
+
+
+
+12      Technical Note 2: Geotechnical Risk
+identify what is known and therefore informs the contractor of the conditions to expect. If the dam
+owner has strong internal capacity and a capable designer, then the GBR information is desirable as a
+baseline for contractual claims of unforeseen ground conditions. Challenging ground conditions would
+make the GBR far more important than a site with a consistent good-quality dam foundation. Strong
+capability within the owner and their designer is more important when more complex site conditions
+are present.
+
+If the dam owner cannot manage the contract, they should engage an experienced owner’s engineer for
+assistance. A panel of experts including a geologist/geotechnical specialist and potentially including
+experts with construction supervision and contract management expertise may be considered for high-
+risk dams with complex geotechnical conditions. The dam owner may wish to transfer the ground con-
+dition risk by using a lump sum contract, design/build contract, engineer, procure, construct (EPC), or
+turnkey contract, but the dam owner needs to understand and accept that in these cases the contractor
+will either include a large amount of contingency in the lump sum price or insist on investigating the site
+themselves before providing a fixed price. For these contracts, it is especially important to hand over all
+geotechnical investigation information (that is, GDR, GBR, and any GIRs) compiled by the owner before
+negotiating the contract. It is then up to the contractor to satisfy themselves of the geotechnical risks on
+the site.
+
+
+Geotechnical Risk Register
+A Geotechnical Risk Register (GRR) is recommended for every project. The GRR shows the degree of risk
+attached to various ground-related aspects of the project. The purpose of the GRR is to provide an
+assessment of the risk to the project posed by ground- or construction material-related problems and
+identify suitable mitigation measures that would control the risk to an acceptable level. The risk register
+should be developed and refined as the geotechnical design and assessment progresses. Guidance on
+development of GRRs is presented in several references, including ICE (2001).
+
+The degree of risk (R) is determined by combining an assessment of the probability (P) of the hazard
+occurring with an assessment of the impact (I) that the hazard4 will cause if it occurs (R = P x I). Table 3
+shows the scale against which the probability and impact are measured and the resulting degree of risk
+determined.
+
+Table 4 provides an example risk register for a concrete dam with an embankment saddle dam.
+
+A probability of “very unlikely” indicates a condition that the available data suggests should not be pre-
+sent. The inclusion of a risk in the register does not constitute confirmation that the problem exists at
+the site, but it identifies the risk that the mitigation will be required to enable the project to progress.
+
+
+
+4	 Whilst hazard is used as a measure of consequences in case of dam failure as per dams engineering practice in other sections of this
+  Technical Note, hazard is here defined as a threat or condition that may result from external cause (for example, an earthquake or flood) or
+  internal vulnerability.
+
+
+
+
+Technical Note 2: Geotechnical Risk                                                                                                        13
+TABLE 3.         Geotechnical Risk Classification
+
+                                                                                                  Impact
+
+                                              Very low                     Low                    Medium                         High                  Very high
+
+               Very likely                     Minor                     Moderate                  Major                         Severe                 Severe
+
+               Likely                      None/negligible                 Minor                  Moderate                       Major                  Severe
+ Probability
+
+
+
+
+               Possible                    None/negligible                 Minor                   Minor                     Moderate                   Major
+
+               Unlikely                    None/negligible         None/negligible                 Minor                         Minor                 Moderate
+
+               Very unlikely               None/negligible         None/negligible           None/negligible              None/negligible               Minor
+
+
+
+
+TABLE 4.         An Example Risk Register of a Concrete Dam with an Embankment Saddle Dam
+
+                                                                        Before control
+                                                                                                                                                        Residual risk
+ Feature                  Condition         Hazard           Probability      Impact      Risk     Comments and proposed mitigation                    once mitigated
+ Foundation of            Horizontal        Sliding            Likely        Very high   Severe    Extensive bedding plane.                                Minor
+ concrete dam             defect                                                                   Excavate shear key and backfill with concrete
+                                                                                                   to prevent sliding.
+
+ Saddle dam               Incompatible      Piping of fill     Likely        Very high   Severe    Difficult to detect.                                    Minor
+ body                     zones             material                                               Install granular filters to stop erosion.
+
+ Saddle dam               Steps in          Differential       Likely        Very high   Severe    Reflective cracking in dam body providing               Minor
+ Foundation               foundation        settlement                                             route for leak and piping of embankment.
+
+                                                                                                   Avoid steps. Install granular filters to fill
+                                                                                                   cracks and stop erosion.
+
+ Concrete dam             High              High uplift        Likely            High    Major     Uplift decreases stability.                             Minor
+ Foundation               permeability      pressure                                               Install grout curtain and drainage curtain.
+                          zones
+
+ Concrete dam             Low modulus       Excessive         Unlikely       Very high   Major     Deformation leads to cracking or instability.           Minor
+ abutment                 of deformation    deformation                                            Stiffen abutment or change dam type.
+
+ Reservoir                Landslide         Impulse wave      Unlikely           High    Minor     Ancient landslide feature unlikely to reactivate.       Minor
+
+
+
+
+Investigation should lead to design of mitigation measures to reduce significant geotechnical risks.
+Should the employer realise that objective difficulties and schedule constraints have not allowed to do
+that satisfactorily, it can include provision for a condition delay event (CDE) in the contract. CDE process
+is as follows:
+
+•• During the mobilization period, the contractor carries out additional investigations and conveys their
+      results to the employer with proposed design modifications.
+
+•• The employer reviews the submission and instructs the contractor on what to implement or not.
+
+•• Conclusions are summarized in a report and the contract’s bill of quantities (BoQ) is revised
+      accordingly.
+
+
+
+14             Technical Note 2: Geotechnical Risk
+Construction may still uncover previously unidentified geotechnical issues. It is important that issues
+are addressed whenever identified. Such geotechnical issues should be addressed by design changes or
+application of contingency measures planned in advance of construction. Contracts should allow for
+changes in response to geotechnical risks identified during construction. Associated contractor’s claims
+would be managed according to contractual provisions.
+
+If conditions are shown to be unacceptable through these means, then further mitigation measures may
+be necessary to address remaining safety issues. These measures might include:
+
+•• Improved drainage to relieve pressure and filters to control seepage gradients
+
+
+•• Remedial grouting to reduce pressure or leakage
+
+
+•• Lowering the reservoir level to reduce load on the dam or reduce the potential consequence downs-
+  tream of the dam
+
+
+•• Constructing buttresses to prevent further deformation
+
+
+The acceptable residual risk after the identified risk has been mitigated would depend on the potential
+economic impacts on the project and downstream consequence considering the dam’s risk category.
+The residual risks may be addressed by:
+
+•• Surveillance, instrumentation, and monitoring during construction, commissioning, and operation
+  of dams
+
+
+•• Operation and maintenance (O&M) procedures suited to the dam and documented in an O&M plan
+
+
+•• Readily available Emergency Preparedness Plans (EPPs)
+
+
+
+
+Technical Note 2: Geotechnical Risk                                                                  15
+References
+ASCE (American Society of Civil Engineers). 2007. Geotechnical Baseline Reports for Construction: Suggested Guidelines.
+Reston, Virginia: ASCE Technical Committee on Geotechnical Reports of the Underground Technology Research Council.
+
+Fell, R., P. MacGregor, D. Stapledon, and G. Bell. 2005. Geotechnical Engineering of Dams. London: CRC Press.
+
+FEMA (U.S. Federal Emergency Management Agency). 2011. Filters for Embankment Dams: Best Practices for Design and
+Construction. Washington, DC: FEMA.
+
+FIDIC (International Federation of Consulting Engineers). 2017a. Conditions of Contract for Construction, for Building and
+Engineering Works Designed by the Employer. Geneva. Switzerland: FIDIC.
+
+———. 2017b. Conditions of Contract for Plant and Design-Build. Geneva. Switzerland: FIDIC.
+
+———. 2017c: Conditions of Contract for EPC Turnkey Projects. Geneva. Switzerland: FIDIC.
+
+Clayton, C.R.I. Great Britain. Department of the Environment, Transport and the Regions.; Institution of Civil Engineers
+(Great Britain). 2001. Managing Geotechnical Risk: Improving Productivity in UK Building and Construction. London, UK:
+Thomas Telford.
+
+ICOLD (International Commission on Large Dams). 2002. Bulletin 124: Reservoir Landslides—Investigation and Management:
+Guidelines and Case Histories. Paris, France: ICOLD.
+
+———. 2005. Bulletin 129: Dam Foundations—Geologic Considerations, Investigation Methods, Treatment, Monitoring, Paris,
+France: ICOLD.
+
+———. 2009. Bulletin 136: The Specification and Quality Control of Concrete for Dams. Paris, France: ICOLD.
+
+Petheram, C., and T. A. McMahon. 2019. “Dams, Dam Costs and Damnable Cost Overruns,” Journal of Hydrology X 3 (April),
+100026.
+
+USBR (U.S. Bureau of Reclamation). 1987. Design of Small Dams. Denver, Colorado: USBR.
+
+Weaver, K., and D. Bruce. 2007. Dam Foundation Grouting. Reston, Virginia: ASCE.
+
+
+
+
+16     Technical Note 2: Geotechnical Risk
+SKU W20082
+

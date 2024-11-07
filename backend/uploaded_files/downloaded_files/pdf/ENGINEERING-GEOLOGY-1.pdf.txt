@@ -1,0 +1,1386 @@
+Engineering Geology
+Topic 1: Introduction
+INTRODUCTION: (Importance to a Civil Engineer):
+The earlier studies of Civil Engineering couldn’t see the design of a structure should be
+preceded by a careful study of its environment, particularly foundations material on which the
+structure was to be placed. When the St. Francis Dam in Southern California failed in
+1928 with a loss of many lives and damages in millions of dollars, the civil engineering
+profession awoke to the idea that the careful design of a structure itself is not all that
+is required for the safety of structures. After the failure of St. Francis Dam, the need of
+environment exploration with proper interpretation of the results was understood by all.
+Geology (in Greek, Geo means Earth, logos means study of or Science of) is a branch
+of science dealing with the study of the Earth. It is also known as earth science. The study of
+the earth comprises of the whole earth, its origin, structure, composition and history
+(including the development of life) and the nature of the processes.
+Branches of Geology:
+CH.Kireety Page 1
+Engineering Geology
+Relevance of geology to civil engineering:
+Most civil engineering projects involve some excavation of soils and rocks, or involve loading
+the Earth by building on it. In some cases, the excavated rocks may be used
+as constructional material, and in others, rocks may form a major part of the finished product,
+such as a motorway cutting of the site or a reservoir. The feasibility, the planning and
+design, the construction and costing, and the safety of a project may depend critically on the
+geological conditions where the construction will take place. This is especially the case in
+extended ‘greenfield’ sites, where the area affected by the project stretches for kilometers,
+across comparatively undeveloped ground. In modest projects or in those involving the
+redevelopment of a limited site, the demands on the geological knowledge of the engineer
+or the need for geological advice will be less, but are never negligible. Site investigation
+by boring and by testing samples may be an adequate preliminary to construction
+in such cases. The long term economics depends on the engineering safety of the manmade
+constructions. Durability and maintenance free service of the dams, canals, structures like
+aqueduct etc. is only possible if engineering safety of them is assured. As every structure
+is related to rock beneath, proper geological investigations are of utmost importance.
+Engineering geology importance:
+Engineering geology provides a systematic knowledge of construction material, its
+occurrence, composition, durability, and other properties. Examples of such construction
+materials are building-stones, road materials, clays, limestone, and laterite.
+The knowledge of the geological work of natural agencies such as water, wind, ice and
+earthquake helps in planning and carrying out major civil engineering works. For examples,
+the knowledge of erosion, transportation, and deposition helps greatly in solving the
+expensive problems of river control, coastal and harbour work and soil conservation.
+The knowledge about groundwater that occurs in the subsurface rocks and about its
+quantity and depth of occurrence is required in connection with water supply irrigation,
+excavation and may other civil engineering works.
+The foundation problems of dams, bridges, and buildings are directly concerned with
+the geology of the area where they are to be built. In these works, drilling is commonly
+undertaken to explore the ground conditions. Geology helps greatly in interpreting the
+drilling data.
+In tunnelling, constructing roads, canals, and docks and in determining the stability of cuts and
+slopes, the knowledge about the nature and structure of rocks is very necessary.
+CH.Kireety Page 2
+Engineering Geology
+Before starting a major engineering project at a place a detailed geological report, which is
+accompanied by geological maps and sections, is prepared. Such a report helps in planning
+and constructing the project.
+The stability of the civil engineering structures is considerably increased if the geological
+features like faults,1 joints,2 folding,3 and solution channels etc. in the rock beds are properly
+located and suitably treated.
+In the study of soil mechanics, it is necessary to know how the soil materials are formed in
+nature.
+For a major engineering project, precise geological survey is carried out and results thus
+obtained are used in solving engineering problems at hand. The cost of engineering works will
+considerably be reduced if the geological survey of the area concerned is done before hand.
+1- fault: a fracture or fracture zone in rock along which movement has occurred. 2- joint: a fracture in rock along
+which there has been no displacement. 3- fold: a bend or flexure in a rock unit or series of rock units that has been
+caused by crustal movements.
+Engineering Geologist Vs Civil Engineer:
+The engineering geologist presents geological data and interpretations for use by the civil
+engineer. The civil engineers have to deal mostly with soil and rocks, timbers, steel,
+and concrete. In a great majority of civil engineering, projects and the designs, involve the soils
+and rocks almost directly.
+Civil engineering is to construct the structure and facilities for transport, water supply,
+hydropower, flood control, environmental protection, sewage and waste disposal, urban
+development and more. In above fields, civil engineers construct and maintain waterways,
+highways, railway, pipelines, dam and reservoirs and tunnels.
+BRIEF STUDY OF CASE HISTORIES OF FAILURE OF SOME CIVIL ENGINEERING
+CONSTRUCTIONS DUE TO GEOLOGICAL DRAW BACKS:
+Brief study of case histories of failure of some civil engineering constructions:
+With reference to Dams
+1. St. Francis Dam
+2. Austin Dam
+3. Lafayette Dam
+Note: Geological studies at the dam site will also suggest which design is suitable for a given
+geological context. For example, Gravity dam needs very strong and competent foundation
+rocks; for buttress dams, relatively less strong foundation rocks are enough; arch dam need
+very strong and stable abutment rocks; for earth dams, even weak foundation rocks meets the
+requirement.
+CH.Kireety Page 3
+Engineering Geology
+With reference to Reservoir
+1. Jerome reservoir of Idaho
+2. Hondo reservoir of Mexico
+Note: intense weathering in the rocks upstream causes silting problem. Porosity and
+permeability of rocks, occurrence of faults, joints and other weak planes cause leakage
+problems. Ground water conditions also play a major role in influencing leakage. Thus proper
+studies of geological conditions at any proposed reservoir site will forewarn an engineer of the
+problems, if any.
+With reference to Tunnels
+1. Ram-ganga diversion tunnel (Himalaya)
+2. Umiam-Barapani tunnel (Meghalaya)
+3. Koyna Tunnel (Bombay)
+Note: Competence of rocks, associated geological structures like bedding, faults, joints,
+porosity and permeability of rocks, and ground water conditions are the geological conditions
+which need to be thoroughly studied to solve such problems.
+GEOLOGICAL CONSTRAINTS IN CIVIL ENGINEERING
+The geology of an area dictates the location and nature of any civil engineering structures.
+Roads and Railways
+Problems for a road or railway project may be caused by any of the following geological
+features:
+• Faults
+• Junctions between hard and soft formations
+• Boundaries between porous and impermeable
+formations
+• Spring-lines
+• Fractured granites
+• weathered schists2
+• Landslip areas
+• Areas where beds dip towards the road or railway, as shown in the adjacent
+diagram.
+1 - A passage for surplus water from a dam.
+2 - A coarse-grained metamorphic rock that consists of layers of different minerals and can be split into thin irregular
+plates.
+CH.Kireety Page 4
+Engineering Geology
+Dams:
+Geological investigations of a site proposed for construction of a dam must be complete
+and detailed. Features such as rock-types, geological structures, weathering, fractures and
+fissures must all be considered. The main considerations are that the material on which
+the dam rests must be able to carry the weight of the structure without failing. The
+geology upon which the dam is built must also be impervious1 to water. The abutments2,
+(the rock faces to which the dam wall is attached) must also be impervious and
+strong enough to support the dam wall, especially in the case of an arch dam
+(where more force is transmitted to the abutments).
+Failure of a dam can be due to many factors including:
+• Earthquakes
+• A sudden drop in water level
+• Inadequate protection of the reservoir side of the dam from wave action
+• Insufficient spillway capacity, so that water flows over the whole of the
+dam surface, with consequent erosion
+1 - Not allowing something to pass through; not penetrable. 2 - A structure built to support the lateral pressure of an arch or
+span, e.g., at the ends of a bridge.
+The type of dam selected depends largely on the nature of the surrounding rocks. If they are
+strong and stable, an arch dam, such as the one shown below can be constructed. This type of
+dam requires a minimum of construction materials, but the concrete must be of high
+quality. The Barossa Reservoir Dam (the Whispering Wall), The Roosevelt Dam are examples
+of an arch dams.
+An earth and rock fill embankment dam, as shown in the diagram below must be
+constructed where the surrounding rocks are not strong enough to support an arch dam.
+This type of dam is more expensive to build, requiring much more material. The main weight
+and strength of the dam is provided by compacted quarried rock. The core is made of
+impermeable material, such as clay, bitumen1 or concrete.
+CH.Kireety Page 5
+Engineering Geology
+1 - A black viscous mixture of hydrocarbons obtained naturally or as a residue from petroleum distillation.
+IMPORTANCE OF PHYSICAL GEOLOGY
+This is also variously described as dynamic geology, geomorphology, etc. As the name suggests
+it deals with:
+(i) Different physical features of the earth, such as mountains, plateaus, valleys, rivers,
+lakes, glaciers, and volcanoes in terms of their origin and development,
+(ii) The different changes occurring on the earth's surface, like marine transgression,
+marine regression, formation or disappearance of rivers, springs and lakes,
+(iii) Geological work of wind, glaciers, rivers, oceans, ground water, and their role in
+constantly molding the earth's surface features, and
+(iv) Natural phenomena like landslides, earthquakes, and weathering.
+The main cause for surface changes is weathering. This is a natural phenomenon resulting
+directly or indirectly due to changes in the atmosphere. It disintegrates and decomposes rocks.
+This aspect is of special importance from the civil engineering point of view, because color,
+appearance, strength and durability of rocks are adversely affected by weathering. Thus even
+granite which is considered ideal for most of the civil engineering works becomes weak and
+friable on thorough weathering, rendering it useless.
+Civil engineers deal with structures like dams which are artificial barriers to the natural flow
+of rivers. Proper understanding of the geological work of a river and its features will lead to
+their better utilization for engineering applications
+IMPORTANCE OF PETROLOGY
+Petrology (Petro = rock, logos = study) deals with the study of rocks. The earth's crust, also
+called lithosphere, is made up of different petrology types of rocks. Petrology deals with mode
+of formation, structure, texture, composition, occurrence, types, etc., of rocks. The
+composition and textural characters of rocks primarily contribute to their inherent strength
+and durability. Rocks based on their suitability can be used as foundation for dams, for
+tunneling and materials of construction. Hence this is the most important branch of geology
+from the civil as engineering point of view.
+CH.Kireety Page 6
+Engineering Geology
+IMPORTANCE OF STRUCTURAL GEOLOGY
+Structural Geology the rocks which form the earth's crust undergo various deformations,
+dislocations and disturbances under the influence of tectonic forces. The result is the
+occurrence of different geological structures like folds, faults, joints and unconforimities in
+rocks. The details of mode of formation. Causes. Types, classification, importance, etc., of
+these geological structures form the subject matter of structural geology. From the civil
+engineering point of view, it is as important as petrology because these geological structures
+modify the inherent physical characters of rocks rendering them more suitable or unsuitable
+for civil engineering purposes. For example, at a dam site sedimentary rocks with upstream
+dip provide a desirable geological set-up, while the same rocks with downstream dip make the
+geological set-up most undesirable.
+CH.Kireety Page 7
+Engineering Geology
+CH.Kireety Page 8
+Engineering Geology
+CH.Kireety Page 9
+Engineering Geology
+CH.Kireety Page 10
+Engineering Geology
+CH.Kireety Page 11
+Engineering Geology
+CH.Kireety Page 12
+Engineering Geology
+CH.Kireety Page 13
+Engineering Geology
+CH.Kireety Page 14
+Engineering Geology
+CH.Kireety Page 15
+Engineering Geology
+Effects of weathering on granite:
+Granite is an igneous rock that injects, or intrudes, as magma into Earth’s crust and then cools.
+It consists of four main mineral compounds. Two of these are types of feldspar, a group of
+silica compounds that constitute the most abundant mineral group on Earth. Plagioclase
+feldspar is a compound of sodium and silica; potassic feldspar is a compound of potassium and
+silica. Granite also contains quartz, the second most abundant rock-forming mineral after
+feldspar. The fourth main mineral compound is mica, which in granite is a silica compound
+with a crystalline appearance resembling sheets of paper. Muscovite is mica with a high
+concentration of potassium. Biotite is mica with iron and magnesium. Each of these mineral
+groups weathers according to its own chemical properties.
+1. Cooling
+Granite cools slowly within the Earth’s crust. Feldspar, quartz and mica crystals form during
+the cooling. Vertical and horizontal fissures form within the rock mass as it contracts. The
+fissures expand to larger fractures as the rock cools further.
+2. Wind
+Wind, water and ice denude the soil and Earth’s crust overlying the granite mass, exposing it to
+the atmosphere. The rock expands and contracts in reaction to changes in temperature. It
+shatters on the surface and the fractures widen to form crevices.
+3. Hydrolysis
+Hydrolysis is the chemical weathering of minerals by a mildly acidic water that forms when rains
+dissolves trace gases in the atmosphere. The reaction of feldspar minerals in granite with
+rainwater produces kaolinite, white clay known as “China clay” used in the production of
+porcelain, paper and glass. Kaolinite is most abundant over weathered granite in hot and moist
+tropical climates. Biotite and muscovite micas also weather by hydrolysis into kaolinite and
+release iron, potassium and magnesium into the surrounding soil as nutrients.
+CH.Kireety Page 16
+Engineering Geology
+Topic 2: MINERALOGY
+Mineral:
+A mineral may be defined as a natural, inorganic, homogeneous, solid substance having a
+definite chemical composition and regular atomic structure.
+To call any substance a mineral, the requirements to be fulfilled are:
+1. It must have been formed by natural process
+2. It must be homogeneous, i.e. All parts of the minerals should possess the same physical
+and chemical characters
+3. It must be inorganic substance, i.e., substances of wood or any other organic material
+cannot be called mineral
+4. It must be solid, i.e. gaseous, liquid or semisolid substances are not minerals.
+5. It must have a definite chemical composition.
+6. It must be crystalline.
+Importance of study of minerals:
+From civil engineering point of view, studies of minerals are very important because:
+1. The civil engineers need to know the properties of rocks precisely to enable them to
+consider different rocks for any purpose, i.e. foundation rocks, as road metal. As
+concrete aggregate, as building stones, as flooring or roofing materials , as decorative
+material etc.
+2. The economic minerals, since they are scarce, do not influence the properties of their
+constituent minerals, and hence irrelevant from the civil engineering point of view. But,
+if they happen to occur in large quantities, their economic value will not permit them to
+be used as construction materials or as foundation sites.
+Thus properties of civil engineering importance such as strength, durability and appearance of
+rocks can be assessed only with the knowledge of the minerals that form rocks.
+Engineering Significance of Rock Forming Minerals
+The civil engineers need to know the properties of rocks precisely to enable them to consider
+different rocks for any required purpose, i.e., as foundation rocks, as road meta, as concrete
+aggregate, as building stones, as flooring or roofing material, as decorative material etc. All
+properties of rocks are, in turn, depended on the properties of their constituent minerals. Thus,
+properties of civil engineering importance such as their strength, durability and appearance of
+rocks can be assessed only with the knowledge of the minerals that form rocks i.e. rock-forming
+minerals.
+The economic minerals, since they are scare, do not influence the properties of rocks and are
+hence irrelevant from the civil engineering point of view. However, if they happen to occur in
+large quantities, their economic value will not permit them to be used either as construction
+materials or as foundation sites.
+Different methods of study of minerals
+1. Study of physical properties
+2. Study of chemical composition
+3. Study of optical properties
+4. X-ray analysis
+CH.Kireety Page 17
+Engineering Geology
+Physical Properties
+Over 4,000 minerals are known to man, and these minerals are identified by their physical and
+chemical properties. The physical properties of minerals are determined by the atomic
+structure and crystal chemistry of the minerals. The most common physical properties are
+crystal form, color, hardness, cleavage, and specific gravity.
+Crystals
+Cleavage and Fracture
+Color
+Hardness
+Streak
+Luster
+Specific Gravity
+Tenacity
+Acid Test
+Magnetism
+Fluorescence
+Crystals
+One of the best aids in the identification of a mineral is its crystal form (external shape). A
+crystal is defined as a homogenous solid possessing a three-dimensional internal order defined
+by the lattice structure.
+Crystals developed under favorable conditions often exhibit characteristic geometric forms
+(which are outward expressions of the internal arrangements of atoms), crystal class, and
+cleavage. Large, well-developed crystals are not common because of unfavorable growth
+conditions, but small crystals recognizable with a hand lens or microscope are common.
+Minerals that show no external crystal form but possess an internal crystalline structure are
+said to be massive. A few minerals, such as limonite and opal, have no orderly arrangement of
+atoms and are said to be amorphous.
+Crystals are divided into six major classes based on their geometric form: isometric, tetragonal,
+hexagonal, orthorhombic, monoclinic, and triclinic. The hexagonal system also has a
+rhombohedral subdivision, which applies mainly to carbonates.
+Cleavage and Fracture
+After minerals are formed, they have a tendency to split or break along definite planes of
+weakness. This property is called cleavage. These planes of weakness are closely related to the
+internal structure of the mineral, and are usually, but not always, parallel to crystal faces or
+possible crystal faces. Minerals may have one, two, three, four, or six directions of cleavage.
+These cleavage forms are (1) cubic, (2) octahedral, (3) dodecahedral, (4) rhombohedral, (5)
+prismatic, and (6) pinacoidal. Minerals that break easily along these lines of weakness yield
+shiny surfaces. Many crystals do not cleave, but fracture or break instead. Quartz, for example,
+forms well-developed crystal faces but does not cleave at all; instead it fractures or breaks
+randomly with a conchoidal fracture.
+CH.Kireety Page 18
+Engineering Geology
+Color
+The color of a mineral is the most important identifying characteristic for the amateur
+mineralogist. Many minerals exhibit various colors; the varieties are mainly due to impurities or
+a slight change in chemical composition. For example, calcite can be white, blue, yellow, pink, or
+fluorescent. Surface tarnish may have changed the color of the specimen; therefore, a fresh
+surface should be examined.
+Hardness
+The hardness (scratchability) of a mineral can be measured by its resistance to scratching or
+abrasion. Mohs scale is a set of 10 common minerals chosen for comparative hardness. The
+minerals are arranged in order of increasing hardness; each mineral will scratch all that precede
+it, and be scratched by all that follow it. Mohs scale (1-10) is as follows:
+ talc
+ gypsum
+ calcite
+ fluorite
+ apatite
+ orthoclase
+ quartz
+ topaz
+ corundum
+ diamond
+Streak
+The streak of a mineral is the color of the powder produced when the mineral is rubbed against
+an unglazed porcelain plate or other fine-grained, hard, abrasive surface. The color of a
+particular mineral may vary, but the streak is generally constant. The streak may be the same
+color as the mineral or an entirely different color, but the streak of all white minerals, including
+calcite, is white.
+Luster
+Luster refers to the brightness of light reflected from the mineral's surface. The main types of
+luster are metallic and nonmetallic. Some of the more important nonmetallic lusters are:
+Adamantine: brilliant, like that of a diamond.
+Earthy: dull, like kaolin.
+Silky: having the sheen of silk, like satin spar, a variety of gypsum.
+Greasy: oily appearance.
+Resinous: waxy appearance, like sphalerite.
+Vitreous: the appearance of broken glass, like quartz.
+Nacreous (pearly): like mother of pearl; for example, pearly luster on fossil gastropods and
+cephalopods.
+CH.Kireety Page 19
+Engineering Geology
+Specific Gravity
+The specific gravity (relative density) of a mineral is its weight compared to the weight of an
+equal volume of water; thus, a mineral with a specific gravity of 4 is four times heavier than
+water. Special instruments are needed to measure the specific gravity.
+Tenacity
+Tenacity is the measure of a mineral's cohesiveness or toughness. Tenacity terms are:
+Brittle: breaks or powders easily; for example, pyrite or marcasite.
+Ductile: can be drawn into a wire; for example, copper.
+Elastic: bends and resumes its original position or shape when pressure is released; for
+example, biotite or muscovite.
+Malleable: can be hammered into thin plates or sheets; for example, gold or copper.
+Sectile: can be cut or shaved with a knife; for example, gypsum or galena.
+Acid Test
+When carbonates (especially calcite) are treated with cold, dilute hydrochloric acid, they will
+effervesce, foam, and bubble, and give off carbon dioxide gas. When sulfides, such as galena,
+pyrite, and sphalerite, are treated with dilute hydrochloric acid, they will give off the rotten-egg
+odor of hydrogen sulfide.
+Study of chemical compositions:
+According to the definition, every mineral is expected to have its own distinctive chemical
+composition, which is not to be found in any other mineral.
+Therefore, by chemical analysis, if the composition is known it should be possible to identify the
+mineral.
+This principle is the basis for this type of study of minerals. For example, if the chemical
+composition of an unknown mineral is found to be lead sulphide, then that mineral must only
+be Gelena, because it only has the composition of lead sulphide and no other mineral has this
+composition.
+Study of Optical properties:
+In this method, the minerals are ground very fine and fixed over glass slides by means of
+CANADA BALSAM. Such skillfully prepared slides are called thin sections.
+They are studied under a petrlogical microscope.
+The properties of minerals like colour, their order, interference figures, cleavage, shape, etc are
+studied under crossed nicols, with the help of some other accessories, if necessary.
+X-ray Analysis:
+X-ray analysis makes use of the definite atomic structure, found in every mineral, X-rays are
+similar to light waves but have a much shorter wave length, comparable to the distances
+between atoms in a crystalline mineral. When a beam of X-rays falls on crystal, it is diffracted by
+layers of atoms within the crystal. In making an x-ray analysis of atomic structure of the crystal,
+the diffracted x-rays are allowed to fall on photographic plate, and the resulting photograph
+shows a series of spots or lines which form more or less symmetrical pattern. X-ray analysis of
+CH.Kireety Page 20
+Engineering Geology
+minerals reveals their actual atomic structures, which is distinctive for each mineral. This
+enables the accurate identification of minerals.
+Petrology:
+Shell structure of earth:
+The interior structure of the Earth is layered in spherical shells. These layers can be defined by
+their chemical and their rheological properties. Earth has an outer silicate solid crust, a highly
+viscous mantle, a liquid outer core that is much less viscous than the mantle, and a solid inner
+core.
+Structure of earth:
+The crust of earth is made up of different kinds of rocks. The thickness of crust is approximately
+35Km. this rocky crust is known as Lithosphere.
+The earth crust is uneven with many depressions and elevations.
+These depressions are filled with water and are called lakes, seas and oceans. This
+discontinuous body of water in association with the lithosphere is called the Hydrosphere.
+On land masses of the lithosphere and in water bodies of hydrosphere, all living creatures exist,
+this is called Biosphere. All these, in turn are enveloped by a layer of air which is called the
+Atmosphere.
+Definition of a Rock:
+Rock or stone is a natural substance, a solid aggregate of one or more minerals or mineraloids.
+The solid mineral material forming part of the surface of the earth and other similar planets,
+exposed on the surface or underlying the soil.
+CH.Kireety Page 21
+Engineering Geology
+A rock can be simply defined as “an aggregate of minerals”.
+Classification of Rocks:
+Using color, texture, and mineral composition, geologists can classify a rock according to its
+origin. A rock's origin is how the rock formed. Geologists classify rocks into three major groups:
+igneous rock, sedimentary rock, and metamorphic rock.
+Igneous rock:
+Igneous rock is formed through the cooling and solidification of magma or lava. The magma can
+be derived from partial melts of existing rocks in either a planet's mantle or crust. Typically, the
+melting is caused by one or more of three processes: an increase in temperature, a decrease in
+pressure, or a change in composition. Solidification into rock occurs either below the surface as
+intrusive rocks or on the surface as extrusive rocks. Igneous rock may form with crystallization
+to form granular, crystalline rocks, or without crystallization to form natural glasses.
+Igneous rocks are also geologically important because:
+ Their minerals and global chemistry give information about the composition of the
+mantle, from which some igneous rocks are extracted, and the temperature and
+pressure conditions that allowed this extraction, and/or of other pre-existing rock that
+melted;
+ Their absolute ages can be obtained from various forms of radiometric dating and thus
+can be compared to adjacent geological strata, allowing a time sequence of events;
+ Their features are usually characteristic of a specific tectonic environment, allowing
+tectonic reconstitutions in some special circumstances they host important mineral
+deposits (ores): for example, tungsten, tin, and uranium are commonly associated with
+granites and diorites, whereas ores of chromium and platinum are commonly associated
+with gabbros.
+Sedimentary Rocks:
+Sedimentary rocks are types of rock that are formed by the deposition and subsequent
+cementation of that material at the Earth's surface and within bodies of water. Sedimentation is
+the collective name for processes that cause mineral and/or organic particles (detritus) to settle
+in place. The particles that form a sedimentary rock by accumulating are called sediment. Before
+being deposited, the sediment was formed by weathering and erosion from the source area, and
+then transported to the place of deposition by water, wind, ice, mass movement or glaciers,
+which are called agents of denudation.
+CH.Kireety Page 22
+Engineering Geology
+Sedimentation may also occur as minerals precipitate from water solution or shells of aquatic
+creatures settle out of suspension.
+The sedimentary rock cover of the continents of the Earth's crust is extensive (73% of the Earth's
+current land surface, but the total contribution of sedimentary rocks is estimated to be only 8%
+of the total volume of the crust. Sedimentary rocks are only a thin veneer over a crust consisting
+mainly of igneous and metamorphic rocks. Sedimentary rocks are deposited in layers as strata,
+forming a structure called bedding. The study of sedimentary rocks and rock strata provides
+information about the subsurface that is useful for civil engineering, for example in the
+construction of roads, houses, tunnels, canals or other structures. Sedimentary rocks are also
+important sources of natural resources like coal, fossil fuels, drinking water or ores.
+Metamorphic rocks:
+Metamorphic rocks arise from the transformation of existing rock types, in a process called
+metamorphism, which means "change in form". The original rock (protolith) is subjected to heat
+(temperatures greater than 150 to 200 °C) and pressure (150 megapascals (1,500
+bar))[clarify],causing profound physical and/or chemical change. The protolith may be a
+sedimentary, an igneous, or even an existing type of metamorphic rock.
+Metamorphic rocks make up a large part of the Earth's crust and form 12% of the Earth's
+current land surface. They are classified by texture and by chemical and mineral assemblage
+(metamorphic facies). They may be formed simply by being deep beneath the Earth's surface,
+subjected to high temperatures and the great pressure of the rock layers above it. They can form
+from tectonic processes such as continental collisions, which cause horizontal pressure, friction
+and distortion. They are also formed when rock is heated up by the intrusion of hot molten rock
+called magma from the Earth's interior. The study of metamorphic rocks (now exposed at the
+Earth's surface following erosion and uplift) provides information about the temperatures and
+pressures that occur at great depths within the Earth's crust. Some examples of metamorphic
+rocks are gneiss, slate, marble, schist, and quartzite.
+Rock Cycle:
+The rock cycle is a basic concept in geology that describes the time-consuming transitions
+through geologic time among the three main rock types: sedimentary, metamorphic, and
+igneous. As the adjacent diagram illustrates, each of the types of rocks is altered or destroyed
+when it is forced out of its equilibrium conditions. An igneous rock such as basalt may break
+down and dissolve when exposed to the atmosphere, or melt as it is subducted under a
+continent. Due to the driving forces of the rock cycle, plate tectonics and the water cycle, rocks
+do not remain in equilibrium and are forced to change as they encounter new environments.
+The rock cycle is an illustration that explains how the three rock types are related to each other,
+and how processes change from one type to another over time. This cyclical aspect makes rock
+change a geologic cycle and, on planets containing life, a biogeochemical cycle.
+CH.Kireety Page 23
+Engineering Geology
+A diagram of the rock cycle.
+1 = magma; 2 = crystallization (freezing of rock); 3 = igneous rocks; 4 = erosion; 5 = sedimentation;
+6 = sediments & sedimentary rocks; 7 = tectonic burial and metamorphism; 8 = metamorphic
+rocks; 9 = melting.
+Forms of Igneous rock:
+Igneous rocks are formed in two forms
+1. Intrusive igneous rocks
+2. Extrusive igneous rocks
+Intrusive igneous rocks:
+Intrusive, or plutonic, igneous rocks form when magma cools slowly below the Earth's surface.
+Most intrusive rocks have large, well-formed crystals.
+Examples: granite, gabbro, diorite and dunite.
+The most common forms of intrusive igneous bodies as observed in the field are:
+Dyke, sill, laccolith, lopolith, bysmalith, phacolith, chonolith,volcanic neck or plug, batholiths
+etc.,.
+CH.Kireety Page 24
+Engineering Geology
+Dykes:
+A dyke (or dike) in geology is a type of later vertical rock between older layers of rock.
+Technically, it is any geologic body which cuts across: flat wall rock structures, such as bedding.
+Massive rock formations, usually igneous in origin.
+Dikes can be either magmatic or sedimentary in origin. Magmatic dikes form when magma
+intrudes into a crack then crystallizes as a sheet intrusion, either cutting across layers of rock or
+through an un-layered mass of rock. Clastic dikes are formed when sediment fills a pre-existing
+crack.
+Sills:
+A sill is a sheet-like intrusion that is concordant with external layering such as bedding or
+metamorphic foliation. Sills are formed from magma injected along planes of weakness
+represented by layering in rocks and are distinct from dykes that cut across layering (i.e. are
+discordant).
+An intrusive mass of igneous rock which consolidated beneath the surface and has a large
+horizontal extent in comparison with its thickness.
+CH.Kireety Page 25
+Engineering Geology
+FORMS OF EXTRUSIVE IGNEOUS ROCKS:
+Lava Flows
+On eruption of a volcano, lava simply flows on the surface and on consolidation gives rise to lava
+flows. These closely resemble sills in shape. Based on surface appearance, lava flows are
+described as block lava and ropy lava. Block lava is less mobile and has a rough and irregular
+surface. The ropy lava is more mobile and has a wrinkled but smooth and shining surface. The
+vesicles are more numerous, spherical and small in ropy lava flow and they are few and irregular
+in block lava flow. These physical differences occur because ropy lava comes out hotter and with
+lesser volatiles.
+Pyroclasts
+The rock fragments thrown out at the time of volcanic eruption are called pyroclasts. These are
+described variously, based on size and shape. Bigger and angular fragments are called volcanic
+blocks. If they are somewhat rounded they are known as volcanic bombs. Smaller fragments are
+called lapilli.
+Classification of Igneous rocks:
+i) Classification based on silica percentage
+ii) Classification based on silica saturation
+iii) Classification based on depth of formation
+Classification based on silica percentage:
+The chemical composition of a rock is generally expressed in terms of different (oxides like SiO2
+AL2O3, Fe2O3, FeO, Mg0 and C20. Among different oxides silicon dioxide is always predominant
+in rocks. Since silica percentage is also responsible for the formation of different minerals and
+their associations, it serves as a suitable basis for the classification of igneous rocks. When silica
+content exceeds 66%. The igneous rock is called as acidic; when it is 52-66%, the rocks are called
+intermediate. The basic rocks have 45-52%. In ultrabasic rocks, the silica content is less than
+45%.
+CH.Kireety Page 26
+Engineering Geology
+CH.Kireety Page 27
+Engineering Geology
+CH.Kireety Page 28
+Engineering Geology
+CH.Kireety Page 29
+Engineering Geology
+CH.Kireety Page 30
+Engineering Geology
+CH.Kireety Page 31
+Engineering Geology
+CH.Kireety Page 32
+Engineering Geology
+CH.Kireety Page 33
+Engineering Geology
+CH.Kireety Page 34
+Engineering Geology
+CH.Kireety Page 35
+Engineering Geology
+CH.Kireety Page 36
+Engineering Geology
+CH.Kireety Page 37
+Engineering Geology
+CH.Kireety Page 38
+Engineering Geology
+CH.Kireety Page 39
+Engineering Geology
+CH.Kireety Page 40
+Engineering Geology
+CH.Kireety Page 41
+Engineering Geology
+STRUCTURE AND TEXTURE OF SEDIMENTARY ROCKS
+• STRATIFICATION
+• CEMENTING MATERIAL
+• FOSSIL OCCURRENCE
+• RIPPLE MARKS
+• MUD CRACKS OR SUN CRACKS
+• RAIN PRINTS OR MARKS
+CH.Kireety Page 42
+Engineering Geology
+• TRACKS AND TRAILS
+• PECULIAR FORMS
+• CONCOIDAL FRACTURE
+STRATIFICATION
+• STRATIFICATION refers to the way sediment layers are stacked over each other, and can occur
+on the scale of hundreds of meters, and down to sub-millimeter scale. It is a fundamental
+feature of sedimentary rocks.
+• Stratum- bed, strata means beds
+• Stratification is also known as bedding
+• When the thickness of individual beds is very thin then it is known as Lamination
+• Bedding plane is the plane of contact between two adjacent beds of strata.
+Cementing material
+Cementation, in geology, hardening and welding of clastic sediments (those formed from pre-
+existing rock fragments) by the precipitation of mineral matter in the pore spaces. It is the last
+stage in the formation of a sedimentary rock. The cement forms an integral and important part
+of the rock, and its precipitation affects the porosity and permeability of the rock. Many
+minerals may become cements; the most common is silica (generally quartz), but calcite and
+other carbonates also undergo the process, as well as iron oxides, barite, anhydrite, zeolites,
+and clay minerals.
+CH.Kireety Page 43
+Engineering Geology
+Fossil occurrence
+• Fossils have been defined as “relicts and remnants of ancient plants and animals preserved
+inside the rocks by natural processes”
+• Remains of plants and animals, when they get buried under sediments, become fossilized.
+• Not all animals and plants become fossils, only with hard parts become fossils under
+favourable conditions.
+Mud cracks
+• Water or sea or lake, depending on different conditions covers the gently sloping sides on and
+off.
+• When such a wet surface is not covered, it dries up and develops vertical polygonal cracks
+which are wedge-shaped downwards.
+Ripple marks
+• In shallow bodies, the waves and currents on the surface of water produce impressions in the
+form of minor undulations on the loose and soft sediments which lie at the bottom. These are
+known as ripple marks.
+CH.Kireety Page 44
+Engineering Geology
+Rain prints or marks
+• Rain prints or marks develop under the same conditions as those of mud cracks and are
+preserved on surface of some rocks.
+Tracks and trails
+• Tracks and trails are the markings indicating the paths of some animals or organisms, over a
+soft sediment, which is able to take and retain the impression.
+• Footprints of animals or birds may occur the same way.
+Peculiar forms
+• Nodular , concretionary, pisolitic, oolitic, stalactitic.
+• These forms occurs only in sedimentary rocks.
+CH.Kireety Page 45
+Engineering Geology
+NODULAR CONCRETIONARY PISOLITIC
+OOLITIC STALACTITIC
+CH.Kireety Page 46
+Engineering Geology
+CH.Kireety Page 47
+Engineering Geology
+CH.Kireety Page 48
+Engineering Geology
+CH.Kireety Page 49
+Engineering Geology
+Structure of Metamorphic rocks
+• Gneissose Structure
+• If the rock consists of equi-dimentional
+minerals along with platy and prismatic
+minerals, which can easily be segregated
+and altering bands are formed.
+• Foliation and lineation of platy and
+prismatic minerals take place.
+• Such a texture or arrangement of minerals is
+called Gneissose structure.
+CH.Kireety Page 50
+Engineering Geology
+Schistose Structure
+• If the rock consists of only prismatic or platy
+minerals, then no segregation takes place.
+• Only foliation or only lineation occurs.
+• Such a texture or arrangement of minerals is
+known as Schistose structure
+Granulose Structure
+• If the rock is composed predominantly of
+equidimensional minerals, then neither
+segregation nor foliation takes place,
+absence of platy or prismatic minerals.
+• Such a texture is called Granulose structure.
+Cataclastic Structure
+• It is produced under the influence of direct
+pressure in the upper zones of earth’s crust.
+• In some rocks, more resistant minerals may
+remain unaffected, while the softer minerals
+are powdered to fine material.
+• This result in appearance similar to
+porphyritic texture and is called
+Porphyroclastic structure.
+Classification of Metamorphic rocks
+• Metamorphic rocks are classified as para-metamorphic or ortho-
+metamorphic rocks based on whether they have been formed out
+of sedimentary or igneous rocks.
+• In different way, metamorphic rocks can be classified on their
+physical appearance, i.e., as massive or foliated.
+• This is independent of kind of metamorphism or parent rock
+involved.
+• However this classification reflects the mineral content and
+structure clearly.
+CH.Kireety Page 51
+Engineering Geology
+Foliated rocks
+• The process of metamorphism which is accompanied by pressure, induces alignment of
+constituent minerals in rock.
+• The alignment or orientation of minerals takes place perpendicular to the direction of
+the greatest stress.
+• When platy, lamellar, bladed or flaky minerals occurs in rocks, they orient themselves
+parallel to each other and obviously perpendicular to the direction of the greatest stress.
+Such rocks are called as foliated rocks, the process is known as foliation.
+CH.Kireety Page 52
+Engineering Geology
+Massive or non-foliated rocks
+The three important type of rocks which come in this type of category are:
+ Quartzite
+ Marble
+ Hornfels
+Of these quartzite is formed out of thermal, dynamic or dynamo-thermal
+metamorphism.
+Hornfels is formed through thermal metamorphism.
+Marble is a result of thermal metamorphism of limestone.
+CH.Kireety Page 53
+TOPIC 3
+Structural Geology
+• Structural geology is the study of factors such as
+origin , occurrence, classification, types and effects
+of various secondary structures like folds, faults,
+rock cleavage and unconformities.
+• All these structures are those which develop and
+occur in rock after their formation and different
+from those primary structures such as bedding and
+vesicular structure, which develop in rocks at the
+time of their formation itself.
+Outcrop
+• Any geological formation exposed on the surface is
+called an outcrop.
+• It is used as a general term to refer to exposed
+folds, faults, joints, etc.
+FOLDS
+• Folds are one of the most common geological
+structures found in rocks.
+• When a set of horizontal layers are subjected to
+compressive forces, the bend either upwards or
+downwards.
+• From civil engineering point of view, faults are the
+most unfavourable and undesirable geological
+structures at the site for any given purpose, i.e., for
+location of reservoirs: as a foundation site for
+construction of dams, important bridges or huge
+buildings, for tunnelling; for laying roads or railway
+tracks etc.
+Note : Folds leads to form faults.
+• Joints are fractures found in all type of rocks.
+• They are cracks or openings formed due to various
+reasons.
+• The presence of joints divides the rock into a
+number of parts or blocks.
+EARTHQUAKES
+• An earthquake may be simply described as a
+sudden shaking phenomenon of the earth’s
+surface for some reason or the other.
+• It is also variously described as a sudden vibrating
+or jerking or jolting or trembling or shivering
+phenomenon of the earth’s surface.
+Earthquake terminology
+Classification of earthquakes
+• Based on depth of their origin, earthquakes are
+described as
+1. SHALLOW (<60KM)
+2. INTERMEDIATE (>60KM AND <300KM)
+3. EXTREME DEEP (>300KM)
+• Based on depth of their occurrence, earthquakes are
+described as
+1. Tectonic
+2. Non-tectonic
+Tectonic plates
+• Tectonic earthquakes are exclusively due to internal
+causes, i.e.., due to disturbances or adjustments of
+geological formations taking place in the earth’s
+interior.
+• Generally these are less frequent and more
+intensive and hence more destructive in nature.
+• Non-Tectonic earthquakes are due to external or
+surficial causes.
+• These type of earthquakes are very frequent but
+less destructive.
+• Non-tectonic earthquakes, occur due to variety of
+reasons, some of which are as follows.
+1. Due to huge water falls
+2. Avalanches
+3. Meteorites
+4. Landslides
+5. Volcanic eruptions
+6. Tsunamis
+7. Man-made explosions
+Seismic belts and shield areas
+Seismic belts are those areas where earthquakes occur
+frequently and shield areas are those places where
+earthquakes occur either rarely or very mildly.
+Earthquake waves
+• Earthquake vibrations originate from focus and are
+propagated in all directions.
+• These vibrations through the rocks in the form of
+elastic waves.
+• There are three types of waves called as
+1. Primary waves (P-waves)
+2. Secondary waves (S-waves)
+3. Love waves. (L-waves)
+P-WAVES
+• These are also called as primary waves, push-
+pull waves, preliminary waves, longitudinal
+waves
+• These are the fastest waves among all the
+seismic waves.
+• They travel as fast as 8 to 13 Km/s.
+• The P waves resemble sound waves because
+these too are compressional waves in nature.
+• These waves can travel through solids, semi-
+liquids and gases.
+S-WAVES
+• These are also called as secondary waves or
+traverse waves or shear waves.
+• Compared to P waves, these are relatively slow.
+• These can travel at a speed of 5 to 7 Km/s.
+• These are like light waves.
+• These waves are capable of travelling only through
+solids.
+L-WAVES
+• These are also called as love waves or long
+waves or surface waves.
+• These ae the slowest among the seismic
+waves.
+• These can travel at a speed of 4 to 5Km/s.
+• These waves are capable of travelling through
+solids and liquids.
+Richter scale
+Effects of earthquakes
+Most of the earthquakes are minor and go unnoticed.
+But the major ones, though occasional, are responsible
+for heavy loss of life and property.
+1. Destruction of various civil engineering
+constructions like dams, bridges, tunnels, roads and
+railway tracks
+2. Creation of irregularities and cracks in the ground.
+3. Causing landslides, blocking of roads and railway
+lines.
+4. Changes in courses of rive due to faulting across
+them.
+5. Formation of new lakes, springs and water falls.
+6. Submarine earthquakes causes Tsunamis
+7. Heavy loss of life and property
+LAND SLIDES
+• If a mass of earth or rock moves along a
+definite zone or surface, the failure is called a
+landslide
+• There are three types
+1. DEBRIS SLIDES
+2. ROCK SLIDES
+3. ROCK FALLS
+ROCK SLIDES
+DEBRIS SLIDES
+ROCK FALLS
+TOPIC 4
+• Geology of dams and reservoirs
+• Geophysical investigations
+GEOLOGY OF DAMS & RESERVOIRS
+• Types of Dams
+• Geological considerations in the selection
+of dam site
+• Analysis of dam failures of the past
+• Factors contributing to the success of
+reservoir
+• Geological factors influencing water
+tightness and life of reservoirs.
+DAM
+• A dam is a hydraulic structure of fairly impervious
+material built across a river to create a reservoir on its
+upstream side for impounding water for various
+purposes. These purposes may be Irrigation,
+Hydropower, Water-supply, Flood Control, Navigation,
+Fishing and Recreation.
+• Dams may be built to meet the one of the above
+purposes or they may be constructed fulfilling more
+than one.
+• Dam can be classified as: Single-purpose and
+Multipurpose Dam.
+TYPES OF DAMS
+Dams can be classified in number of ways. But most
+usual ways of classification of dams are mentioned
+below:
+1. Based on the functions of dam
+2. Based on structure and design
+Based on the functions of Based on structure and
+dam design
+• Storage dam • Gravity dam
+• Diversion dam • Arch dam
+• Detention dam • Buttress dam
+• Debris dam • Earth dam
+• Coffer dam
+Storage dam
+These are constructed to store water during
+the rainy season when there is a large flow in
+the river. Many small dams impound the
+spring runoff for later use in dry summers.
+Storage dams may also provide a water
+supply, or improved habitat for fish and
+wildlife. They may store water for
+hydroelectric power generation, irrigation or
+for a flood control project.
+Shasta dam on the Sacramento River
+Bilaspur Dam, Rajasthan
+Koyna Dam, Maharashtra
+Mettur Dam, Tamil Nadu
+Diversion dams
+A diversion dam is constructed for the purpose of diverting
+water of the river into an off-taking canal (or a conduit). They
+provide sufficient pressure for pushing water into ditches,
+canals, or other conveyance systems. Such shorter dams are
+used for irrigation, and for diversion from a stream to a distant
+storage reservoir.
+A diversion dam is usually of low height and has a small storage
+reservoir on its upstream. The diversion dam is a sort of storage
+weir which also diverts water and has a small storage.
+Sometimes, the terms weirs and diversion dams are used
+synonymously.
+Palo Verde Diversion Dam
+Red Bluff Diversion Dam
+Detention dams
+Detention dams are constructed for flood control.
+A detention dam retards the flow in the river on its
+downstream during floods by storing some flood water.
+Thus the effect of sudden floods is reduced to some
+extent. The water retained in the reservoir is later
+released gradually at a controlled rate according to the
+carrying capacity of the channel downstream of the
+detention dam.
+Thus the area downstream of the dam is protected
+against flood.
+Debris dams
+A debris dam is constructed to retain
+debris such as sand, gravel, and drift
+wood flowing in the river with water.
+The water after passing over a debris
+dam is relatively clear.
+Coffer dams
+• It is an enclosure constructed around the construction
+site to exclude water so that the construction can be
+done in dry.
+• A cofferdam is thus a temporary dam constructed for
+facilitating construction.
+• A coffer dam is usually constructed on the upstream of
+the main dam to divert water into a diversion tunnel
+(or channel) during the construction of the dam.
+• When the flow in the river during construction of the
+dam is not much, the site is usually enclosed by the
+coffer dam and pumped dry.
+• Sometimes a coffer dam on the downstream of the
+dam is also required.
+Based on structure and design
+GRAVITY DAM
+A gravity dam is a massive sized dam fabricated
+from concrete or stone masonry. They are
+designed to hold back large volumes of water.
+By using concrete, the weight of the dam is
+actually able to resist the horizontal thrust of
+water pushing against it. This is why it is called a
+gravity dam. Gravity essentially holds the dam
+down to the ground, stopping water from
+toppling it over.
+PARTS OF DAMS
+EARTH DAM
+An earth dam is made of earth (or soil) built up
+by compacting successive layers of earth, using
+the most impervious materials to form a core
+and placing more permeable substances on the
+upstream and downstream sides. A facing of
+crushed stone prevents erosion by wind or rain,
+and an ample spillway, usually of concrete,
+protects against catastrophic washout should the
+water overtop the dam. Earth dam resists the
+forces exerted upon it mainly due to shear
+strength of the soil.
+ARCH DAMS
+An arch dam is curved in plan, with its convexity
+towards the upstream side.
+An arch dam transfers the water pressure and
+other forces mainly to the abutments by arch
+action.
+An arch dam is quite suitable for narrow
+canyons with strong flanks which are capable of
+resisting the thrust produced by the arch action.
+BUTTRESS DAMS
+• Buttress dams are of three types :
+(i) Deck type,
+(ii) Multiple-arch type, and
+(iii) Massive-head type.
+• A deck type buttress dam consists of a sloping deck
+supported by buttresses.
+• In a multiple-arch type buttress dam the deck slab is
+replaced by horizontal arches supported by
+buttresses.
+• In a massive-head type buttress dam, there is no
+deck slab. Instead of the deck, the upstream edges
+of the buttresses are flared to form massive heads
+which span the distance between the buttresses.
+Geological considerations in the
+selection of dam site
+Careful geological studies bring out the inherent
+advantages of any site selected for the dam, and it
+also reduce the cost of the dam considerably.
+The important geological requirements that should
+be considered in the selection of a dam site are as
+followed:
+1. Narrow River Valley.
+2. Occurrence of the bedrock at a shallow depth.
+3. Competent rocks to offer a stable foundation.
+4. Proper geological structures
+Narrow River Valley
+If the proposed site contains a narrow river valley, only a
+small dam is required, which means the cost of the dam
+construction is also will be less.
+On the other hand if the valley is wider, construction cost
+will be very high and maintenance of the dam will also be
+high.
+Occurrence of bed rock at shallow depths
+If the dam rest on very strong and stable rocks, the stability
+and safety of the dam will be very high. This also reduces
+the cost of the dam. On the other hand the dam cost will
+be high and the work of excavation will be overburden. This
+also requires heavy concrete refilling.
+Competent rocks for Safe Dam
+If the dam site consists of igneous rocks, they will
+offer a safe basis. If sedimentary rocks, particularly
+shales, poorly cemented sandstones and cavernous
+limestones, they are undesirable.
+Though igneous rocks along with metamorphic
+rocks occupy 95% earth crust, on the surface
+igneous rocks occur only 30% and in them granites
+and basalts are most common ones.
+So location containing granites and basalts will be
+much competent for the site of the dam.
+Proper geological
+structures
+The Structural study gives information on the
+strike and dip of the beds. It also reveals the
+occurrence of geological structures like folds,
+faults, joints, unconformities and foliation.
+Details of these features are very important
+because they have a great influence on the
+suitability of site for dam.
+RESERVIOR
+• A reservoir usually means an enlarged natural or
+artificial lake, storage pond or impoundment created
+using a dam to store water.
+• Reservoirs can be created by controlling a stream that
+drains an existing body of water.
+• They can also be constructed in river valleys using a
+dam.
+Capacity of the Reservoir
+• Reservoir capacity depends on the existing
+topography and the proposed top water level (TWL)
+of the reservoir.
+• Effect of Evaporation: The natural process of
+evaporation reduces the quantity of water in the
+reservoir. Through unwanted, this process is
+unavoidable. Since reservoirs are open and extended
+over larger areas. The magnitude of evaporation will
+be extensive. of course, such loss shall be less if the
+topography is such that a reservoir covers a small area
+but has a great depth to provide adequate capacity.
+Water Tightness
+• When a river flows over such loose soil or fractured ground, it
+is natural that some water of the river percolates (or leaks)
+underground.
+• Before the construction of the dam, this leakage shall be less
+and limited only to the extent over which the river flow occurs.
+• But when the dam is constructed, the impounding water
+accumulates in large quantity in a reservoir which covers a very
+large area.
+• This means percolation occurs over a large area.
+• Due to the height of the water in reservoir, significant
+hydrostatic forces develops which will make the leakage more
+effective on the sides and the floor of the reservoir.
+• Thus, the extent of leakage may become alarmingly great.
+Life of reservoir
+•Silting
+•Evaporation
+GEOPHYSICAL INVESTIGATIONS
+• Importance of geophysical studies
+• Principles of geophysical studies by
+• Magnetic method
+• Electrical methods
+• Seismic method
+• Radio metric methods
+• Geothermal methods
+• Electrical resistivity methods
+• Seismic refraction methods
+• Improvement of competence of sites by grouting.
+GEOPHYSICAL INVESTIGATIONS
+Geophysics is the study of the earth by
+making use of established principles of
+physics.
+IMPORTANCE OF GEO-PHYSICAL
+INVESTIGATIONS
+• To ensure safety, success and economy in
+construction of major civil engineering
+structures.
+• It is necessary to be thoroughly aware of
+geology of the concerned site.
+In order to acquire subsurface details only two
+approaches exist.
+1. Direct observations
+2. Indirect Inferences
+DIRECT OBSERVATIONS
+Direct observations can be made by digging,
+trenching or drilling the ground.
+Such process are expensive, laborious and
+time consuming. But they give exact data of
+the existing subsurface.
+INDIRECT OBSERVATIONS
+Indirect observations can be made by means of
+geophysical methods of investigations.
+These provide quick, inexpensive, easy and fairly reliable
+means to get subsurface details.
+There may a chance of getting minute errors.
+CLASSIFICATION OF GEOPHYSICAL
+INVESTIGATIONS
+• There are many kinds of geophysical investigation.
+• All of them can be classified logically into six major groups
+based on the type of physical field measured or physical
+property of subsurface formations which controls the
+measured physical quantities.
+These methods are:
+1. Gravity method. 2. Magnetic method
+3. Electrical method. 4. Geothermal method
+5. Radiometric method.
+GRAVITY METHOD
+• Gravity method represents a set of
+geophysical methods which make use of
+the natural gravity field of the earth.
+• Physical Property: Density of the materials
+is the controlling property
+MAGNETIC METHOD
+• Like gravity methods, these investigations also
+take advantage of the natural magnetic field
+associated with earth and its relation to
+subsurface geology
+• Controlling Property: Magnetic Susceptibility
+Electrical Method
+Controlling properties:
+1. Electrical resistivity- Electrical Method
+2. Dielectric constant- Electro-magnetic
+Method
+3. Electrochemical activity- Electrochemical
+Method
+Principle:
+Electrical methods are based on the fact that the subsurface
+information's, structures, ore deposits, etc., posses electrical
+properties. These are investigated suitably and exploited to draw the
+necessary conditions.
+Applications
+These methods are particularly successful in
+ground water exploration.
+• For locating highly conductive bodies
+(sulphide ore and graphite)
+• Oil exploration
+• Economic mineral deposit exploration
+Seismic Method
+Controlling property: Elastic property
+differences in the rocks
+Principle: Subsurface rock formations bear
+different elastic properties. Because of
+this, the velocities of propagation of
+seismic wave velocities of rock formations
+therefore provides a scope to distinguish
+different subsurface lithological units.
+Method
+• Depending upon whether reflected waves or
+refracted waves are used in the investigation, there
+are two types of seismic methods, namely seismic
+reflection and seismic refraction methods.
+Equipment
+• Geophone
+• Amplifier
+• Galvanometer
+Radiometric Method
+Controlling property: Natural radioactivity of rocks.
+Principle: the nuclei of certain elements are unstable
+and change spontaneously into the nuclei of other
+elements.
+This change is accompanied by emission of radiations
+known as alpha and beta particles and gamma rays.
+This phenomenon is known as radioactivity.
+As it is associated with high energy , it can be
+detected easily.
+The gamma rays are more powerful than alpha and
+beta particles are measured in the study of
+radiometric methods.
+Applications
+• Exploration of uranium and thorium mineral deposits.
+• Indirect location of some rare elements and rare earth
+minerals
+• Scope of location of faults, shear zones etc.,
+• Exploration of oil and gas
+• Ground water studies
+• Radioactivity tracer techniques maybe utilized for
+finding leakages in water storage and conveyance
+systems
+Geothermal Methods
+Controlling property: thermal conductivity
+Principle: temperature distribution on the surface of the
+earth is due to three different sources.
+i) Heat received from sun
+ii) Heat conveyed from hot interior of earth
+iii) Heat due to decay of radio active minerals in the earth
+crust.
+By applying the necessary corrections, it is possible to
+eliminate the solar heat and heat contribution of
+radioactive mineral decay.
+When this is done, the residual values of temperature
+distribution on the earths surface can be interpreted in
+terms of subsurface structures, rock formations and ore
+bodies.
+Equipment: for measurement of the temperature on
+the surface of the earth, in shallow holes or in deep
+bore holes, thermistor thermometers and platinum
+resistance thermometers which can achieve an
+accuracy of 0.01°C are used.
+Applications: oil and gas explorations, ore deposits,
+ground water studies, for delineation of salt water-
+fresh water interfaces, etc.
+Electrical Resistivity
+Methods
+The electrical resistivity method is an active
+geophysical method. It employs an artificial source
+which is introduced into the ground though a pair of
+electrodes.
+Applications
+• Foundation studies
+• Location of suitable building material
+• Ground water studies
+• To determine the thickness of loose overburden or
+the depth of the bedrock at the foundation site
+• To know the strike and dip of the rocks
+• To locate place of leakage along canals or reservoir
+TUNNELS
+TOPIC 5
+Tunnels are underground passages or passages through hills or
+mountains used for different purposes. They are made by excavation
+of rock below the surface or through hills or mountains.
+PURPOSES OF TUNNELING
+Tunnels are made to serve some specific
+purposes.
+•For regular traffic and transportation of
+goods
+•Diversion tunnels
+•Public utility tunnels
+Traffic tunnels
+DIVERSION TUNNELS
+To construct dam, the dam
+site should be dry and this is
+achieved by diverting the flow
+of river, dug along valley side.
+Public utility tunnels
+Brooklyn-to-Staten Island Drinking Water Tunnel
+Sewage disposal, drinking water, oil
+supplying tunnels
+EFFECTS OF TUNNELING ON GROUND
+• The tunneling process deteriorates the physical conditions of the
+ground.
+• Before tunneling the underground rocks which were under pressure
+or in a state of equilibrium in terms of prevailing stress and strain of
+the region. When an empty cavity is created through rocks, that
+equilibrium gets disturbed and as a sequence, the rocks of the roof
+may collapse.
+• Stability of ground maybe jeopardized when the tunneled ground has
+unfavorable ground water conditions.
+• At greater depths, high temperatures will be prevailing, making
+conditions for tunneling difficult. Sometimes poisonous gases may
+also be encountered during excavation of tunnels.
+ROLE OF GEOLOGICAL CONDITIONS IN TUNNELING
+• Lithological
+Structural:
+• Structural
+Joints, faults , folds and
+• Ground water
+tilted characters are the
+most common structural
+Lithological or rock types
+features associated with
+The nature of the rock
+Ground water:
+rocks.
+types along the tunnel
+Among the different
+alignment is very
+problems that may occur
+important for safety and
+in tunnels, the ground
+stability of the tunnels water problem is the
+most important one.
+lithological
+Suitability of igneous rocks:
+• Massive igneous rocks ( plutonic and hypabyssal varieties)
+are more competent but difficult to work.
+• They do not need lining or any special maintenance.
+• This is so because they are very strong , tough, hard, rigid,
+durable, impervious and after tunneling they do not collapse
+or bulges or any deformation.
+• The volcanic rocks too in spite of their vesicular or
+amygdaloidal character are competent and suitable for
+tunneling.
+Bhor-ghat on Bombay-Pune line of central railway about
+20 tunnels were excavated through amygdaloidal basalts
+Suitability of sedimentary rocks
+In general sedimentary rock are less competent than igneous rocks.
+Among the different sedimentary rocks the following factors are
+important:
+• Thick bedded, well cemented and siliceous sand stones are more
+competent and better suited for tunneling
+• Shales, by virtue of their inherent weakness and laminations, may get
+badly shattered during blasting, but being soft they can be excavated
+but, proper lining must be provided.
+• Dolomitic limestones are harder and more durable. But, in general
+limestones are unsuitable for tunneling.
+Himalayan Ram-Ganga Diversion tunnel-poorly cemented
+sandstone formation, which softened with water, had
+caused roof fall extending about 6 m above top of tunnel
+Suitability of metamorphic rocks
+• Gneisses are nearly similar to granites in terms of their
+competence, durability and workability.
+• They are capable of withstanding the tunneling process
+without lining.
+• Quartzite are very hard and hence very difficult to work.
+They are more brittle too. They are competent and need no
+lining.
+• Marbles are reasonably competent by virtue of their high
+compactness and granulose structure.
+• Slates are soft, hence they are weak and require lining.
+Importance of geological structures
+• The bearing of structures in tunnels is very important for two
+different reasons
+i) They modify the competency and suitability of rocks for tunneling
+ii) They may create or prevent ground water problems. Which are of
+critical importance in tunneling.
+Effects of joints at the tunnel site
+• In igneous rocks , which are exceptionally strong the presence of
+suitably placed joints may be advantageous in the excavation process.
+Further their presence may not harm their self supporting character.
+• Closely spaced joints may lead to over break.
+• Due too joints ground water problem may arise.
+Effects of faults at the tunnel site
+• Dislocation and discontinuity in the tunnel alignment is caused.
+• If the occur along the course of a tunnel, it becomes necessary to
+provide lining.
+• Being highly porous, permeable and decomposed, are the potential
+zones to create ground water problems.
+Effects of folds at the tunnel site
+• When excavations for tunnels are made in folded rocks, such rocks get
+the opportunity to release strain, such release may occur in the form
+of rock bursts or falls.
+OVER BREAK
+Excavations though hard rocks necessarily involves the
+removal of some of the rocks outside the proposed
+perimeter of the tunnel.
+The quantity of rock broken and removed, in excess of what
+is required by the perimeter of the proposed tunnel, is
+known as overbreak.
+LINING
+Tunnels in loose rock and soft soils are liable to
+disintegrate and, therefore, a lining is provided to
+strengthen their sides and roofs so as to prevent them
+from collapsing.
+The objectives of a lining are as follows:
+• Strengthening the sides and roofs to withstand pressure and prevent
+the tunnel from collapsing.
+• Providing the correct shape and cross section to the tunnel.
+• Checking the leakage of water from the sides and the top.
+• Binding loose rock and providing stability to the tunnel.
+• Reducing the maintenance cost of the tunnel.

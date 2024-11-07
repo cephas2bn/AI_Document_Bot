@@ -1,0 +1,983 @@
+CCC
+111
+ooo
+ppp
+yyy
+rrr
+iii
+ggg
+hhh
+ttt
+IIIeeeNNNTTTRRROOODDDUUUCCCTTTIIIOOONNN TTTOOO
+ddd
+MM
+GGGEEEOOOLLLOOOGGGIIICCCAAALLL EEENNNGGGIIINNNEEEEEERRRIIINNNGGG
+aa
+tt
+ee
+rr
+ii
+aa
+ll
+--
+1. DDDDDeeeeefffffiiiiinnnnniiiiitttttiiiiiooooonnnnn aaaaannnnnddddd iiiiimmmmm pppppooooorrrrrtttttaaaaannnnnccccceeeee ooooofffff gggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg
+TTTTT
+2. TTThhheee gggeeeooolllooogggiiicccaaalll eeennnvvviiirrrooonnnmmmeeennnttt aaannnddd iiitttsss rrreeelllaaatttiiiooonnn
+aaaaa
+with engineering yyyyy
+lllll
+3. GGGeeeooolllooogggiiicccaaalll fffaaaccctttooorrrsss aaannnddd gggeeeoooooooottteeeccchhhnnniiicccaaalll ppprrrooobbbllleeemmmsss
+rrrrr
+4. MMMMMeeeeettttthhhhhooooodddddsssss aaaaannnnnddddd aaaaappppppppppllllliiiiicccccaaaaatttttiiiiiooooonnnnnsssss iiiiinnnnn gggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg
+&&&
+5. IIIIInnnnnfffffooooorrrrrmmmmmaaaaatttttiiiiiooooonnnnn sssssooooouuuuurrrrrccccceeeeesssss iiiiinnnnn eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg gggggeeeeeooooolllllooooogggggyyyyy
+FF
+rr
+6. How this book is structured
+aa
+nn
+cc
+ii
+ss
+7007TS-GONZALEZ-1003-01_CH01.indd 3 11/24/2010 10:34:17 PM
+1.1 Definition and importance separate, specialized branch of the geological sciences. While
+engineering development made rapid progress in the last
+of geological engineering
+century, it was the catastrophic failure of several large engi-
+neering works that pointed out the need of geological inves-
+Geological engineering is the application of geological tigations applied to engineering. Among these events were
+and engineering sciences to design and construction in civil, the failure of dams for geological reasons and their grave
+mining and petroleum engineering, and to the environment. consequences, including the loss of hundreds of human lives,
+The aim of this discipline is to ensure that the geological fac- as in the dam failures in San Francisco (California, 1928), at
+tors which affect engineering activities are considered and Vajont (Italy, 1963) and at Malpasset (France, 1959), lands-
+adequately interpreted, as well as to mitigate the conse- liding during the building of the Panama Canal in the early
+quences of geological and environmental hazards. decades of the 20th century and the collapse of slopes on the
+Although there are differences between geological Swedish railways in 1912.
+engineering and engineering geology, in this book both The development of other related sciences, such as
+terms are considered to be equivalent (Box 1.1). soil mechanics and rock mechanics, was the basis for
+Engineering geology emerged with the development modern geotechnical engineering, where engi neering
+of large-scale civil engineering projects and urban growth, geology provides solutions to construction problems
+and by the mid 20th century had become established as a from a geological point of view (Figure 1.1). Geotechnical
+ENGINEERING GEOLOGY
+GEOLOGY ENGINEERING
+S
+E
+S S
+E
+C
+O
+R
+P
+D
+N
+A GEOTECHNICAL
+S SOLUTIONS
+L
+RIA Raised beach due to tectonic A viaduct under construction (Italy)
+E processes (Greece)
+T A
+M
+G REDUCING
+N RISKS AND
+ERI
+ENVIRONMENTAL
+NE IMPACT
+GI
+N
+E
+Rockfalls in basaltic cliffs (Madeira) A dam under construction (Spain)
+Figure 1.1 Engineering geology, geology and engineering.
+SKROW
+DNA
+STCEJORP
+GNIREENIGNE
+ooff ggeeoollooggiiccaall eennggiinneeeerriinngg
+CCCCCCCCCCCCCCCC
+GGeeoollooggooooooooooooooooiiccaall eennggiinneeeerriinngg
+aanndd eennggiinneeeerriinngg sscciieenncceess ttoo ddeessiiggnn aanndd ccoonnssttrruuccttiioonn iinn cciivviill,,
+pppppppppppppppp
+mmiinniinngg aanndd ppeettrroolleeuumm eennggiinneeeerriinngg,, aanndd ttoo tthhee eennvviirroonnmmeenntt..
+yyyyyyyyyyyyyyyy
+TThhee aaiimm ooff tthhiiss ddrrrrrrrrrrrrrrrriisscciipplliinnee iiss ttoo eennssuurree tthhaatt tthhee ggeeoollooggiiccaall ffaacc
+iiiiiiiiiiiiiiii
+ttoorrss wwhhiicchh aaffffeecctt eennggiinneeeerriinngg aaccttiivviittiieess aarree ccoonnssiiddeerreedd aanndd
+gggggggggggggggg
+aaddeeqquuaatteellyy iinntteerrpprreetteedd,, aass wweellll aass ttoo mmiittiiggaattee tthhee ccoonnssee
+hhhhhhhhhhhhhhhh
+qquueenncceess ooff ggeeoollooggiiccaall aanndd tttttttttttttttteennvviirroonnmmeennttaall hhaazzaarrddss..
+AAlltthhoouugghh tthheerree aarree ddeeeeeeeeeeeeeeeeiiffffeerreenncceess bbeettwweeeenn
+eennggiinneeeerriinngg ggeeoollooggyy
+dddddddddddddddd
+tteerrmmss aarree ccoonnssiiddeerreedd ttoo bbee eeqquuiivvaallee nntt ((BBBBooooxxxx11..11
+EEEEnnnnggggiiiinnnneeeeeeeerrrriiiinnnngggg ggggeeeeoooollllooooggggyyyy eeeemmmmeeeerrrrggggeeeedddd wwwwiiiitttthhhh tttthhhheeee ddddeeeevvvveeeellllooooppppmmmmeeeennnntttt
+MMMMMMMMMMMMMMMMM
+ooff llaarrggee--ssccaallee cciivviill eennggiinneeeerriinngg pprroojjeeccttss aanndd uurrbbaann ggrroowwtthh,,
+aaaaaaaaaaaaaaaaa
+aanndd bbyy tthhee mmiidd 2200tthh cceennttuurryy hhaadd bbeeccoommee eetttttttttttttttttssttaabblliisshheedd aass aa
+eeeeeeeeeeeeeeeee
+rrrrrrrrrrrrrrrrr
+iiiiiiiiiiiiiiiii
+EEENNNGGGIIINNNEEEEEERRRIIINNNGGG GGGEEEOOOLLLOOOGGGYYY::: AAANNN AAAPPPPPPRRROOOAAACCCHHHaaaaaaaaaaaaaaaaa TTTOOOlllllllllllllllll EEENNNGGGIIINNNEEEEEERRRIIINNNGGG FFFRRROOOMMM AAA GGGEEEOOOLLLOOOGGGIIICCCAAALLL PPPEEERRRSSSPPPEEECCCTTTIIIVVVEEE
+----
+EENNGGIINNEEEERRIINNGG GGTTTTTTTTTTTEEOOLLOOGGYY
+aaaaaaaaaaa
+yyyyyyyyyyy
+lllllllllll
+ooooooooooo
+rrrrrrrrrrr
+&
+FFFFFFFFFFF
+rrrrrrrrrrr
+aaaaaaaaaaa
+nnnnnnnnnnn
+AA vviiaadduucctt uunnddeerr ccoonnssttrruuccttiioocccccccccccnn ((IIttaallyy))
+iiiiiiiiiii
+sssssssssss
+7007TS-GONZALEZ-1003-01_CH01.indd 4 11/24/2010 10:34:20 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 5
+Box 1.1
+Geological engineering: education and professional practice
+Education in geological engineering is based on a sound 10. What geologic and geotechnical criteria must be
+kkknnnooowwwllleeedddgggeee ooofff gggeeeooolllooogggiiicccaaalll aaannnddd eeennngggiiinnneeeeeerrriiinnnggg sssccciiieeennnccceeesss,,, ttthhheee taken into account in land use and urban planning,
+mmmeeeccchhhaaannnCCCCCCCCCCCCiiicccaaalll bbbeeehhhaaavvviiiooouuurrr ooofff sssoooiiilllsss aaannnddd rrroooccckkksss,,, aaannnddd ttthhheeeiiirrr rrreeessspppooonnnssseee and to mitigate environmental impact.
+tttooo ccchhhaaannngggeeesss iiimmmoooooooooooopppooossseeeddd bbbyyy eeennngggiiinnneeeeeerrriiinnnggg wwwooorrrkkksss... SSSiiittteee aaannnddd gggrrrooouuunnnddd
+iiinnnvvveeessstttiiigggaaatttiiiooonnn mmmeeeppppppppppppttthhhooodddsss tttooo aaannnaaalllyyyssseee aaannnddd mmmooodddeeelll gggeeeooo---mmmaaattteeerrriiiaaalllsss Applied geology, engineering geology
+and geological engineering
+aaannnddd gggeeeooolllooogggiiicccaaalll ppprrroooyyyyyyyyyyyyccceeesssssseeesss fffooorrrmmm aaannn eeesssssseeennntttiiiaaalll pppaaarrrttt ooofff ttthhhiiisss
+discipline. rrrrrrrrrrrr
+iiiiiiiiiiii — Applied geology or geology for engineers is the
+EEEnnngggiiinnneeeeeerrriiinnnggg gggeeeooolllooogggiiissstttsss aaannnddd gggeeeooolllooogggiiicccaaalll eeennngggiiinnneeeeeerrrsss
+gggggggggggg geology used in engineering practice. This is the
+hhhaaavvveee aaa sssccciiieeennntttiiifffiiiccc aaannnddd ttteeeccchhhnnniiicccaaalll eeeddduuucccaaatttiiiooonnn,,, aaannnddd aaa tttrrraaaiiinnniiinnnggg
+hhhhhhhhhhhh branch of geology which deals with its applica-
+aaappppppllliiicccaaabbbllleee tttooo ttthhheee sssooollluuutttiiiooonnn ooofff ttthhheeetttttttttttt gggeeeooolllooogggiiicccaaalll aaannnddd eeennnvvviiirrrooonnn-
+tion to the needs of civil engineering. It does not
+mmmeeennntttaaalll ppprrrooobbbllleeemmmsss wwwhhhiiiccchhh aaaffffffeeecccttt eeennngggeeeeeeeeeeeeiiinnneeeeeerrriiinnnggg,,, aaannnddd ttthhheeerrreeefffooorrreee
+necessarily imply the use of engineering geological
+ttthhheeeyyy ssshhhooouuulllddd bbbeee aaabbbllleee tttooo aaannnssswwweeerrr ttthhheee fffooollllllddddddddddddooowwwiiinnnggg qqquuueeessstttiiiooonnnsss:::
+methods for the study and solution of geological
+1. WWWWWhhhhheeeeerrrrreeeee tttttooooo sssssiiiiittttteeeee aaaaa ccccciiiiivvvvviiiiilllll eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg fffffaaaaaccccciiiiillllliiiiitttttyyyyy ooooorrrrr iiiiinnnnnddddduuuuussssstttttrrrrriiiiiaaaaalllll problems in engineering.
+ppplllaaannnttt sssooo ttthhhaaattt iiittt wwwiiillllll bbbeee gggeeeooolllooogggiiicccaaallllllyyy sssMMMMMeeecccuuurrreee aaannnddd eeecccooo- — Engineering geology and geological engineering
+nomically feasible. aaaaa are different from applied geology in that in addi-
+ttttt
+2. HHHooowww tttooo ssseeellleeecccttt ttthhheee aaallliiigggnnnmmmeeennnttt fffooorrr cccooommmmmmuuunnniiicccaaatttiiiooonnn ooorrr tion to geological knowledge, education and train-
+eeeee
+tttrrraaannnssspppooorrrtttaaatttiiiooonnn iiinnnfffrrraaassstttrrruuuccctttuuurrreee tttooo eeennnsssuuurrreee fffaaavvvooouuurrraaabbbrrrrrllleee ing is required in the problems of the ground for
+geological conditions. iiiii engineering works, site investigation methods
+3. How to assess that building foundations are geo- aaaaa llllland the classification and behaviour of soils and
+logically and geotechnically safe and economically rocks in relation to civil engineering; this field also
+--
+feasible. iiiiinnnnncccccllllluuuuudddddeeeeesssss ppppprrrrraaaaaccccctttttiiiiicccccaaaaalllll kkkkknnnnnooooowwwwwllllleeeeedddddgggggeeeee ooooofffff sssssoooooiiiiilllll mmmmmeeeeeccccchhhhhaaaaannnnniiiiicccccsssss,,,,,
+4. How to excavate a slope that is both stable and TTTTTTTTTrrroooccckkk mmmeeeccchhhaaannniiicccsss aaannnddd hhhyyydddrrrooogggeeeooolllooogggyyy (((FFFooooookkkeeesss,,, 111999999777)))...
+economically feasible. — EEEnnnggg aaaaaaaaaiiinnneeeeeerrriiinnnggg gggeeeooolllooogggyyy and geological engineering
+5. How to excavate a tunnel or underground facility aaarrreee eeeqqquuu yyyyyyyyyiiivvvaaallleeennnttt dddiiisssccciiipppllliiinnneeesss,,, aaalllttthhhooouuuggghhh iiinnn sssooommmeee cccooouuunnn-
+so that it is stable. tttrrriiieeesss ttthhheeerrreeelllllllll iiisss aaa dddiiiffffffeeerrreeennnccceee dddeeepppeeennndddiiinnnggg ooonnn wwwhhheeettthhheeerrr
+6. How to locate geological materials for dams, ttthhheee uuunnniiivvveeerrrsssiiioooooooootttyyy wwwhhheeerrreee ttthhheeessseee cccooouuurrrssseeesss aaarrreee oooffffffeeerrreeeddd iiisss
+rrrrrrrrr
+embankments and road construction. ooooorrrrriiiiieeeeennnnnttttteeeeeddddd mmmmmooooorrrrreeeee tttttooooo wwwwwaaaaarrrrrdddddsssss aaaaa gggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll tttttrrrrraaaaaiiiiinnnnniiiiinnnnnggggg (((((eeeeennnnngggggiiiii-
+7. The remedial measures and ground treatments nnnnneeeeeeeeeerrrrriiiiinnnnnggggg gggggeeeeeooooolllllooooogggggyyyyy))))) ooooo &&&&rrrrr tttttooooowwwwwaaaaarrrrrdddddsssss eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg (((((gggggeeeeeooooolllllooooogggggiiiii-
+needed to improve ground conditions and control cccccaaaaalllll eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg)))))..... AAAAAnnnnn eeeeennnnn gggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg gggggeeeeeooooolllllooooogggggiiiiisssssttttt cccccaaaaannnnn bbbbbeeeee
+instability, seepages, settlements, and collapse. dddeeefffiiinnneeeddd aaasss aaa ssspppeeeccciiiaaallliiisssttt gggFFFFFFFeeeooolllooogggiiisssttt (((sssccciiieeennntttiiisssttt))) iiinnn cccooonnn-
+rrrrrrr
+8. The geological and geotechnical conditions required tttrrraaasssttt wwwiiittthhh gggeeeooolllooogggiiicccaaalll (((ooorrr gggeeeooottteeeccchhhnnniiicccaaalll))) eeennngggiiinnneeeeeerrrsss
+to store urban, toxic and radioactive wastes. wwwhhhooo aaarrreee tttrrraaaiiinnneeeddd aaasss eeennngggiiinnneeeeeerrrsss aaaaaaawwwiiittthhh aaaddddddiiitttiiiooonnnaaalll gggeeeooo-
+9. How to prevent or mitigate geological hazards. logical knowledge (Turner, 2008).nnnnnnn
+ccccccc
+iiiiiii
+sssssss
+engineering integrates ground engineering techniques ment. The inevitable confrontation between consequences
+applied to foundations, reinforcement, support, ground of progress and geological processes, the uncontrollable
+improvement and excavation, and the disciplines of soil sprawl of modern cities into geologically adverse areas and
+mechanics, rock mechanics and engineering geology men- the damage caused by natural hazards can easily threaten the
+tioned above. Recently, the term geo-engineering has been environment’s fragile balance.
+coined to describe the field that deals with all aspects of engi- Nowadays, the need for geological studies of the
+neering geology, rock mechanics, soil mechanics and geo- ground before initiating large-scale works is fully recog-
+technical engineering (Bock et al., 2004). nized, and such studies are an obligatory part of engineering
+At the beginning of the 21st century, one of the top practice. This requirement also applies to works on a smaller
+priority areas for engineering geology is sustainable develop- scale, but often with a more direct impact people’s daily lives,
+7007TS-GONZALEZ-1003-01_CH01.indd 5 11/24/2010 10:34:22 PM
+6 GEOLOGICAL ENGINEERING
+1.8 Losses if preventative
+measures are not applied
+1.5 Losses if preventative
+measures are applied
+0 1.2 Cost of preventative
+0001 measures
+111
+××× 000...999
+sss
+ooo
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCuuurrr
+COST/BENEFIT RATIO
+EEE 000...666
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+LANDSLIDES 8.0
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+000...333 EARTHQUAKES 5.1
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr EROSION 1.4
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+0.0 FLOODS 1.8
+FFFLLLOOOgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggOOODDDSSS EEEAAARRRTTTHHHQQQUUUAAAKKKEEESSS LLLAAANNNDDDSSSLLLIIIDDDEEESSS EEERRROOOSSSIIIOOONNN
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+333000 yyyeeeaaarrr ppprrrooojjjeeeccctttiiiooonnn,,, cccooonnnsssiiidddeeerrriiinnnggg ttthhheee mmmaaaxxxiiimmmuuummm rrriiissskkk hhhyyypppooottthhheeesssiiisss...
+CCCooosssttt///bbbeeennneeefififittt rrraaatttiiiooo::: lllooosssssseeesss fffrrrooommmeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee gggeeeooolllooogggiiicccaaalll hhhaaazzzaaarrrdddsss llleeessssss lllooosssssseeesss iiifff ppprrreeevvveeennntttaaatttiiivvveee mmmeeeaaasssuuurrreeesss aaarrreee aaappppppllliiieeeddd,,, dddiiivvviiidddeeeddd bbbyyy ttthhheee cccooosssttt ooofff ttthhheee
+preventative measures.
+ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+Figure 1.2 EEEEEcccccooooonnnnnooooommmmmiiiiiccccc lllllooooosssssssssseeeeesssss fffffrrrrrooooommmmm gggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll hhhhhaaaaazzzzzaaaaarrrrrdddddsssss iiiiinnnnn SSSSSpppppaaaaaiiiiinnnnn (((((IIIIIGGGGGMMMMMEEEEE,,,,, 11111999998888877777))))).....
+MMMMMMM
+aaaaaaa
+sssuuuccchhh aaasss hhhooommmeee aaannnddd bbbuuuiiillldddiiinnnggg cccooonnnssstttrrruuuccctttiiiooonnn,,, wwwhhheeerrrttttttteee gggeeeooottteeeccchhhnnniiicccaaalll on regions which are geologically unstable, modifying the
+surveys are also needed. eeeeeee geological processes or sometimes even triggering them.
+rrrrrrr
+TTThhheee iiimmmpppooorrrtttaaannnccceee ooofff eeennngggiiinnneeeeeerrriiinnnggg gggeeeooolllooogggyyy iiisss pppaaarrriiiiiiitttiiicccuuulllaaarrrlllyyy The search for harmonious solutions between the geologi-
+important in two main fields of activity. The first is enginnn aaaaaaaeeeeeerrriiinnnggg cal and the anthropogenic environments requires an under-
+lllllll
+ppprrrooojjjeeeccctttsss aaannnddd rrreeelllaaattteeeddd wwwooorrrkkksss wwwhhheeerrreee ttthhheee gggrrrooouuunnnddd cccooonnnssstttiiitttuuuttteee sss standing of the factors which set them apart, in order to avoid
+ttthhheee fffooouuunnndddaaatttiiiooonnn,,, eeexxxcccaaavvvaaatttiiiooonnn,,, ssstttooorrraaagggeee ooorrr cccooonnnssstttrrruuuccctttiiiooonnn mmmaaattteee---eeeeerrrrrrrrrrooooonnnnneeeeeooooouuuuusssss iiiiinnnnnttttteeeeerrrrrppppprrrrreeeeetttttaaaaatttttiiiiiooooonnnnnsssss..... TTTTThhhhheeeee mmmmmooooosssssttttt iiiiimmmmmpppppooooorrrrrtttttaaaaannnnnttttt dddddiiiiifffff ferentiating
+rial. Included in this field are the main types of infrastructure fffaaaccctttooorrrsss aaarrreee:::
+TTTTTTTTTT
+projects: buildings, hydraulic or maritime works, industrial
+——— GGGeeeooolllooogggiiicccaaalll aaannnddd eeennngggiiinnneeeeeerrriiinnnggg ssscccaaallleee...
+aaaaaaaaaa
+plants, mining installations, power stations, etc. The role
+— yyyyyyyyyyGGGeeeooolllooogggiiicccaaalll aaannnddd aaannnttthhhrrrooopppooolllooogggiiicccaaalll tttiiimmmeee...
+of engineering geology in these projects is fundamental to llllllllll
+— GGGeeeooolllooogggiiicccaaalll aaannnddd eeennngggiiinnneeeeeerrriiinnnggg lllaaannnggguuuaaagggeee...
+ensuring safety and economic viability. The second field is oooooooooo
+the prevention, mitigation and control of geological hazards
+TTThhheee ssstttuuurrrrrrrrrrdddyyy ooofff gggeeeooolllooogggyyy bbbeeegggiiinnnsss wwwiiittthhh aaa ssspppaaatttiiiaaalll vvviiieeewww ooofff
+EEEEEaaaaarrrrrttttthhhhh’’’’’sssss ppppphhhhhyyyyysssssiiiiicccccaaaaalllll ppppphhhhheeeeennnnnooooommmmmeeeeennnnnaaaaa,,,,, ooooonnnnn aaaaa rrrrraaaaannnnngggggeeeee ooooofffff scales from the
+and risks, and the management of environmental impact of
+cccccooooosssssmmmmmiiiiiccccc tttttooooo ttttthhhhheeeee mmmmmiiiiiccccc&&&&rrrrrooooossssscccccooooopppppiiiiiccccc..... Time is measured in millions of
+public works and industrial, mining or urban activities.
+yyyyyeeeeeaaaaarrrrrsssss..... IIIIInnnnn eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg,,,,, ssssspppppaaaaatttttiiiiiaaaaalllll aaaaannnnnddddd tttttiiiiimmmmmeeeee ssssscccccaaaaallllleeeeesssss aaaaarrrrreeeee aaaaadddddjjjjjuuuuusssssttttteeeeeddddd
+Both of these fields are of great importance to a
+FFFFFFFFF
+tttooo ttthhheee rrreeeaaaccchhh ooofff hhhuuummmaaannn aaaccctttiiivvviiitttiiieeesss... MMMooosssttt gggeeeooolllooogggiiicccaaalll ppprrroooccceeesssssseeesss,,,
+country’s gross national product as they are directly related to rrrrrrrrr
+sssuuuccchhh aaasss ooorrrooogggeeennneeesssiiisss ooorrr llliiittthhhooogggeeennneeesssiiisss,,, tttaaakkkeee ppplllaaaccceee ooovvveeerrr mmmiiilllllliiiooonnnsss ooofff
+the infrastructure, construction, mining and building sectors. aaaaaaaaa
+yyyeeeaaarrrsss aaannnddd ssshhhaaapppeee sssuuuccchhh dddiiivvveeerrrssseee ppphhheeennnooommmeeennnaaa aaasss ttthhheee ppprrrooopppeeerrrtttiiieeesss
+However, the impacts of geo-environmental hazards on nnnnnnnnn
+aaannnddd ccchhhaaarrraaacccttteeerrriiissstttiiicccsss ooofff mmmaaattteeerrriiiaaalllsss aaannnddd ttthhheee oooccccccuuurrrrrreeennnccceee ooofff ssseeeiiisssmmmiiiccc
+society and the environment can be incalculable if no preven- ccccccccc
+ooorrr vvvooolllcccaaannniiiccc ppprrroooccceeesssssseeesss... MMMaaannn aaasss aaa ssspppeeeccciiieeesss iiiiiiiiiaaappppppeeeaaarrreeeddd iiinnn ttthhheee QQQuuuaaa-
+tive or control measures are taken (Figure 1.2).
+ternary period, some 2 mmmiiilllllliiiooonnn yyyeeeaaarrrsss aaagggooosssssssss,,, qqquuuiiittteee rrreeeccceeennnttt cccooommm-
+pared with the 4,600 mmmiiilllllliiiooonnn yyyeeeaaarrrsss ooofff ttthhheee llliiifffeee ooofff ttthhheee ppplllaaannneeettt
+1.2 The geological environment
+Earth. However, human activity can dramatically affect spe-
+and its relation with cific natural processes such as erosion, sedimentation, and
+even climate. Whether natural processes can be speeded up
+engineering
+or modified is one of the fundamental questions to consider
+in engineering geology. Many of the geotechnical proper-
+The geological environment is in continuous evolution through ties of geological materials, such as permeability, alterability,
+processes affecting rock and soil materials and the natural strength or deformability, and processes such as dissolution,
+environment as a whole. Anthropogenic environments, such subsidence or expansivity, may be substantially modified by
+as cities, infrastructures or public works frequently intrude human action.
+7007TS-GONZALEZ-1003-01_CH01.indd 6 11/24/2010 10:34:23 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 7
+Box 1.2
+El Berrinche landslide, Tegucigalpa (Honduras)
+This landslide occurred on October 30, 1998, in the after- parts of houses, and reaching a height of several meters
+mmmaaattthhh ooofff HHHuuurrrrrriiicccaaannneee MMMiiitttccchhh... TTThhheee hhhuuurrrrrriiicccaaannneee dddeeevvvaaassstttaaattteeeddd CCCeeennntttrrraaalll above the street level, damaging the city infrastructure.
+AAAmmmeeerrriiicccaaaCCCCCCCCCCCCCC,,, cccaaauuusssiiinnnggg mmmooorrreee ttthhhaaannn 222555,,,000000000 dddeeeaaattthhhsss aaannnddd iiinnncccaaalll- In Tegucigalpa, these areas were known to be
+cccuuulllaaabbbllleee eeecccooonnnooooooooooooooooommmiiiccc lllooosssssseeesss... IIItttsss eeeffffffeeeccctttsss wwweeerrreee aaaggggggrrraaavvvaaattteeeddd bbbyyy within a risk zone, and some maps had even been pre-
+iiinnnttteeennnssseee dddeeefffooorrreeessstttppppppppppppppaaatttiiiooonnn aaannnddd uuurrrbbbaaannn eeennncccrrroooaaaccchhhmmmeeennnttt ooonnn uuunnnssstttaaa- pared to that effect. In 1958, during a previous event,
+bbbllleee hhhiiillllllsssiiidddeeesss... LLLaaannndddsssyyyyyyyyyyyyyyllliiidddeeesss ooonnn sssooommmeee ooofff ttthhheee ssshhhaaannntttyyy---cccooovvveeerrreeeddd,,, a large number of houses were destroyed on the slopes
+overpp pooopppuuulllaaattteeeddd ssslllooopppeeesss rrrrrrrrrrrrrrsssuuuiiiiiiiiiiiiiirrrrrrooouuunnndddiiinnnggg ttthhheee ccciiitttyyy ooofff TTTeeeggguuuccciiigggaaalllpppaaa located in front of the El Berrinche hillside.
+wwwrrreeeaaakkkeeeddd tttrrreeemmmeeennndddooouuusss dddaaammmaaagggeee... HHHuuunnndddrrreeedddsss ooofff hhhooouuussseeehhhooollldddsss The intense rainfall that Hurricane Mitch released
+gggggggggggggg
+lllooosssttt mmmeeemmmbbbeeerrrsss ooofff ttthhheeeiiirrr fffaaammmiiilllyyy aaannnddd eeexxxpppeeerrriiieeennnccceeeddd pppeeerrrmmmaaa- onto Tegucigalpa became a true test of the evaluation of the
+hhhhhhhhhhhhhh
+nnneeennnttt eeecccooonnnooommmiiiccc ssseeetttbbbaaaccckkk iiinnn wwwhhhaaattt ttttttttttttttwwwaaasss pppeeerrrhhhaaapppsss ttthhheee cccooossstttllliiieeesssttt ground behaviour and its susceptibility to landslides. Clearly
+nn naaatttuuurrraaalll cccaaatttaaassstttrrroooppphhheee iiinnn ttthhheee hhhiiissstttooorrryyy oooeeeeeeeeeeeeeefff aaa cccooouuunnntttrrryyy,,, wwwiiittthhh mmmaaajjjooorrr different behaviour was noticed between areas as a func-
+sssoooccciiiaaalll lllooosssssseeesss aaannnddd eeecccooonnnooommmiiicccaaalll dddaaammmaaagggeeesssdddddddddddddd,,, iiinnn ttteeerrrmmmsss ooofff hhhooommmeeesss tion of the type of geological material present, with lithology
+dddddeeeeessssstttttrrrrroooooyyyyyeeeeeddddd aaaaannnnnddddd pppppeeeeeooooopppppllllleeeee aaaaaffffffffffeeeeecccccttttteeeeeddddd bbbbbyyyyy ttttthhhhheeeee lllllaaaaannnnndddddsssssllllliiiiidddddeeeeesssss..... controlling the relative stability of slopes. In fact, the largest
+TTTTThhhhheeeee EEEEElllll BBBBBeeeeerrrrrrrrrriiiiinnnnnccccchhhhheeeee lllllaaaaannnnndddddsssssllllliiiiidddddeeeee dddddeeeeessssstttttrrrrroooooyyyyyeeeeeddddd ttttthhhhheeeee nnnnneeeeeiiiiiggggghhhhhbbbbbooooouuuuurrrrr- landslides took place in slopes formed in mudstone and
+MMMMMMMMMMM
+hhhooooooddd ooofff sssaaammmeee nnnaaammmeee aaannnddd pppaaarrrtttiiiaaallllllyyy aaaffffffeeecccttteeeddd ooottthhheeerrrsss... IIIttt cccaaauuussseeeddd siltstone with intercalations of greywake and clayey sand-
+aaaaaaaaaaa
+ttthhheee bbbllloooccckkkaaagggeee ooofff ttthhheee CCChhhooollluuuttteeecccaaa RRRiiivvveeerrr,,, wwwhhhiiiccchhh dddiiivvveeerrrtttttttttttttteeeddd iiitttsss stone (Valle de Angeles Group), all highly degradable and
+cccooouuurrrssseee iiinnntttooo iiinnnhhhaaabbbiiittteeeddd aaarrreeeaaasss,,, fffllloooooodddiiinnnggg ttthhheee lllooowwweeerrr pppaaarrrtttsss oooeeeeeeeeeeefff ttthhheee wwweeeaaattthhheeerrreeeddd,,, wwwhhhiiillleee iiinnn ttthhheee ooottthhheeerrr llliiittthhhooolllooogggiiiccc gggrrrooouuuppp ooouuutttcccrrroooppppppiiinnngggsss
+rrrrrrrrrrr
+ccciiitttyyy aaannnddd cccaaauuusssiiinnnggg mmmaaannnyyy dddeeeaaattthhhsss... AAA rrriiivvveeerrr ooofff mmmuuuddd ssswwweeepppttt aaalllooonnnggg iiiiiiiiiiiiiinnn ttthhheee zzzooonnneee,,, aaannnddd fffooorrrmmmeeeddd bbbyyy mmmaaassssssiiivvveee tttuuuffffffsss (((PPPaaadddrrreee MMMiiiggguuueeelll vvvooolll-
+huge amounts of vegetation, carrying with it vehicles and aaaaaaaaaaacccaaannnoooccclllaaassstttiiiccc GGGrrrooouuuppp))) ooonnnlllyyy iiisssooolllaaattteeeddd rrroooccckkk fffaaallllllsss oooccccccuuurrrrrreeeddd...
+lllllllllll
+-
+T
+a
+y
+l
+o
+r
+&
+FF
+rr
+aa
+nn
+cc
+ii
+ss
+A view of the landslide affecting part of the city of Tegucigalpa.
+7007TS-GONZALEZ-1003-01_CH01.indd 7 11/24/2010 10:34:26 PM
+8 GEOLOGICAL ENGINEERING
+Comparing geological and human time is fundamen- usually available, geological and geotechnical information is
+tal to appreciate the possible consequences of geological generally based on a limited number of surveys. As a result,
+factors and hazards. Most projects are expected to have a there is an uncertainty factor present in geotechnical studies
+service life of 50–100 years; it is, however, accepted practice which affects most projects. An understanding of these dif-
+to demand geological and environmental safety guarantees ferences and the use of a common language appropriate
+of periods of 500–1000 years in areas which can be affected to the aims of a project is fundamental to the practice of
+by flooding, earthquakes, etc. There are cases where geologi- engineering geology. Engineering geology has methods at
+cccaaalll ssstttaaabbbiiillliiitttyyy mmmuuusssttt bbbeee eeennnsssuuurrreeeddd fffooorrr eeevvveeennn lllooonnngggeeerrr pppeeerrriiiooodddsss,,, sssuuuccchhh aaasss its disposal to quantify or express geological data in a way
+iiinnn ttthhheee ssstttooorrraaagggeee ooofff rrraaadddiiioooaaaccctttiiivvveee wwwaaasssttteee,,, wwwhhheeerrreee pppeeerrriiiooodddsss ooofff mmmooorrreee which allows them to be integrated into numerical model-
+ttthhhaaaCCCCCCCCCCCCCnnn 111000,,,000000000 yyyeeeaaarrrsss aaarrreee eeennnvvviiisssiiiooonnneeeddd... ling and into decision-making processes during planning and
+oooooooooooooOOOnnn aaa hhhuuummmaaannn ssscccaaallleee,,, mmmaaannnyyy gggeeeooolllooogggiiicccaaalll ppprrroooccceeesssssseeesss aaannnddd construction.
+mmmooosssttt lllaaarrrgggeeeppppppppppppp---ssscccaaallleee nnnaaatttuuurrraaalll hhhaaazzzaaarrrdddsss hhhaaavvveee aaa vvveeerrryyy lllooowww ppprrrooobbbaaabbbiiillliiitttyyy Statistics is an important tool for the analysis of very
+ooofff oooccccccuuurrrrrreeennnccceeeyyyyyyyyyyyyy... EEEnnngggiiinnneeeeeerrriiinnnggg ppplllaaannnnnniiinnnggg aaannnddd dddeeesssiiigggnnn mmmuuusssttt tttaaakkkeee variable or even random data. The study of certain pheno-
+rrrrrrrrrrrrr
+iiinnntttooo aaaccccccooouuunnnttt ttthhheee gggrrriiiiiiiiiiiiieeeaaattt vvvaaarrriiiaaabbbiiillliiitttyyy iiinnn ttthhheee fffrrreeeqqquuueeennncccyyy wwwiiittthhh wwwhhhiiiccchhh mena with insufficiently known periodicity can be approached
+gggeeeooolllooogggiiicccaaalll ppprrroooccceeesssssseeesssggggggggggggg oooccccccuuurrr,,, fffrrrooommm aaalllmmmooosssttt iiinnnssstttaaannntttaaannneeeooouuusss ppprrrooo- from probability analysis with acceptable results, as is the
+ccceeesssssseeesss,,, llliiikkkeee eeeaaarrrttthhhqqquuuaaakkkeeesss,,, tttooo vvveeerrryyy ssslllooowww ooonnneeesss,,, sssuuuccchhh aaasss dddiiissssssooollluuu- case in specific geological hazards. The quantification of a set
+hhhhhhhhhhhhh
+tion and erosion. ttttttttttttt of engineering geological properties for construction appli-
+Mapping scales aaasss aaaeeeeeeeeeeeee mmmeeeaaannnsss ooofff ssspppaaatttiiiaaalll rrreeeppprrreeessseeennntttaaatttiiiooonnn cations is possible through systems of geomechanical clas-
+aaarrreee aaannnooottthhheeerrr dddiiiffffffeeerrreeennntttiiiaaalll aaassspppeeecccttt tttdddddddddddddooo bbbeee cccooonnnsssiiidddeeerrreeeddd... IIInnn gggeeeooolllooogggyyy,,, sifications of rock masses. The factor of safety concept,
+ttttthhhhheeeee ssssscccccaaaaallllleeeeesssss aaaaarrrrreeeee aaaaadddddjjjjjuuuuusssssttttteeeeeddddd tttttooooo ttttthhhhheeeee dddddiiiiimmmmmeeeeennnnnsssssiiiiiooooonnnnnsssss ooooofffff ttttthhhhheeeee ppppphhhhheeeeennnnnooooo mena normally used in engineering to express the degree of sta-
+ooorrr ttthhheee gggeeeooolllooogggiiicccaaalll uuunnniiitttsss,,, fffooorrrmmmaaatttiiiooonnnsssMMMMMMMMMMM aaannnddd ssstttrrruuuccctttuuurrreeesss wwwhhhiiiccchhh bility of the work underway, is also integrated into geological
+nnneeeeeeddd tttooo bbbeee rrreeeppprrreeessseeennnttteeeddd... MMMooosssttt gggeeeooolllooogggiiicccaaalll mmmaaapppsss uuussseee ssscccaaallleeesss ooofff engineering practice. By including these and other proce-
+aaaaaaaaaaa
+bbbeeetttwwweeeeeennn 111///111,,,000000000,,,000000000 aaannnddd 111///555000,,,000000000,,, wwwhhheeerrreeeaaasssttttttttttt iiinnn eeennngggiiinnneeeeeerrriiinnnggg dures, with relation above all to knowledge of the geologi-
+ttthhheee mmmooosssttt fffrrreeeqqquuueeennnttt ssscccaaallleeesss aaarrreee bbbeeetttwwweeeeeennn 111///111000,,,000000eeeeeeeeeee000 aaannnddd 111///555000000... cal medium and its interaction with construction activities,
+rrrrrrrrrrr
+RRReeegggiiiooonnnaaalll gggeeeooolllooogggiiicccaaalll mmmaaapppsss aaallllllooowww fffaaaccctttooorrrsss tttooo bbbeee iiidddeeennntttiiifffiiieeedddiiiiiiiiiii wwwhhhiiiccchhh,,, geological factors affecting safety and engineering issues can
+aaalllttthhhooouuuggghhh nnnooottt wwwiiittthhhiiinnn ttthhheee ssspppeeeccciiifffiiiccc ppprrrooojjjeeecccttt aaarrreeeaaa,,, mmmaaayyy bbbeee aaaaaaaaaaannneeeccceeesss--- be defined, evaluated and integrated.
+lllllllllll
+sssaaarrryyy iiinnn ooorrrdddeeerrr tttooo aaapppppprrreeeccciiiaaattteee rrreeegggiiiooonnnaaalll gggeeeooolllooogggiiicccaaalll aaassspppeeeccctttsss ooorrr ttthhh eee
+--
+ppprrreeessseeennnccceee ooofff hhhaaazzzaaarrrdddsss wwwhhhooossseee ssscccooopppeee mmmaaayyy aaaffffffeeecccttt ttthhheee zzzooonnneee uuunnndddeeerrr
+11111.....33333 G GGeeeooolllooogggiiicccaaalll fffaaaccctttooorrrsss aaannnddd
+survey. Small-scale geological maps are the norm in geotech-
+TTTTTTTTTT
+nical, lithological and thematic cartography, where disconti- gggeeeooottteeeccchhhnnniiicccaaalll ppprrrooobbbllleeemmmsss
+aaaaaaaaaa
+nuities, hydrogeological data, materials, etc. are represented
+yyyyyyyyyy
+on the same scale as the project documents. llllllllll
+GGGiiivvveeennn ttthhheee dddiiivvveeerrrsssiiitttyyy ooofff ttthhheee gggeeeooolllooogggiiicccaaalll eeennnvvviiirrrooonnnmmmeeennnttt aaannnddd ttthhheee
+Another problem which often arises when integra- oooooooooo
+cccooommmpppllleeexxxiiitttyyy ooofff rrrrrrrrrriiitttsss ppprrroooccceeesssssseeesss,,, eeennngggiiinnneeeeeerrriiinnnggg sssooollluuutttiiiooonnnsss mmmuuusssttt bbbeee
+ting geological data into engineering projects is the lack of
+fffffooooouuuuunnnnnddddd fffffooooorrrrr ttttthhhhhooooossssseeeee gggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll fffffaaaaaccccctttttooooorrrrrsssss ttttthhhhhaaaaattttt mmmmmaaaaayyyyy cccccrrrrreeeeeaaaaattttteeeee ppppprrrrrooooobbbbbllllleeeeemmmmmsssss
+communication between these two fields. Independently of
+fffffooooorrrrr ppppprrrrrooooojjjjjeeeeecccccttttt eeeeexxxxxeeeeecccccuuuuutttttiiiii&&&&ooooonnnnn.....
+the geological or engineering terminology itself, there tend
+TTTTThhhhheeeee mmmmmooooosssssttttt iiiiimmmmmpppppooooorrrrrtttttaaaaannnnnttttt ppppprrrrrooooobbbbbllllleeeeemmmmmsssss aaaaarrrrreeeee rrrrreeeeelllllaaaaattttteeeeeddddd tttttooooo gggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll
+to be differences in approach and in the evaluation of results,
+hhhaaazzzaaarrrdddsss wwwhhhiiiccchhh mmmaaayyy aaaffffffeeeFFFFFFFFFFcccttt ttthhheee sssaaafffeeetttyyy ooorrr vvviiiaaabbbiiillliiitttyyy ooofff aaa ppprrrooojjjeeecccttt...
+depending on the point of view from which the problem is rrrrrrrrrr
+OOOfff aaa ssseeecccooonnndddaaarrryyy bbbuuuttt ssstttiiillllll cccrrruuuccciiiaaalll iiimmmpppooorrrtttaaannnccceee aaarrreee aaallllll ttthhheee gggeeeooolllooogggiii-
+being addressed. Engineering deals with materials whose aaaaaaaaaa
+cccaaalll fffaaaccctttooorrrsss wwwhhhiiiccchhh aaaffffffeeecccttt ttthhheee ttteeeccchhhnnniiicccaaalll ooorrr eeecccooonnnooommmiiiccc aaassspppeeeccctttsss ooofff
+properties vary within narrow margins, do not change sub- nnnnnnnnnn
+ttthhheee ppprrrooojjjeeecccttt... TTThhheeessseee fffaaaccctttooorrrsss aaannnddd ttthhheeeiiirrr iiinnnfffllluuueeennnccceee ooonnn gggeeeooottteeeccchhhnnniiicccaaalll
+stantially over time, and can be tested in laboratory, such cccccccccc
+problems are shown in Tables 1.1 to 111...444iiiiiiiiii...
+as concrete, steel, etc. In geology, however, the majority
+Tables 1.1 and 1.2 ssshhhooowww ttthhheee sssssssssspppooossssssiiibbbllleee iiinnnfffllluuueeennnccceee
+of materials are anisotropic and heterogeneous, they have
+ooofff llliiittthhhooolllooogggyyy aaannnddd gggeeeooolllooogggiiicccaaalll ssstttrrruuuccctttuuurrreee ooonnn ttthhheee gggeeeooottteeeccchhhnnniiicccaaalll
+extremely variable properties and undergo alterations and
+beha viour of rock and soil materials. Tables 1.3 and 1.4 show
+changes over time.
+how water and materials are affected by different geologi-
+In an engineering project the data must be quantifia-
+cal proc esses, causing geotechnical problems. To sum up, the
+ble and allow modelling. In geology, numerical quantification
+following conclusions are reached:
+is not always easy, and simplification of a wide range of varia-
+tion in properties to figures that fall within narrow margins can — Geological factors are the cause of most geotechnical
+be difficult and, at times, it is impossible to achieve numerical problems.
+precision that satisfies project requirements. While in engi- — Water is one of the factors with the highest incidence
+neering very precise knowledge of construction materials is affecting the geotechnical behaviour of materials.
+7007TS-GONZALEZ-1003-01_CH01.indd 8 11/24/2010 10:34:26 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 9
+Table 1.1 INFLUENCE OF LITHOLOGY ON THE GEOTECHNICAL BEHAVIOUR OF THE GROUND
+Lithology Characteristic factors Geotechnical problems
+Hard rocks — Hard and abrasive minerals — Abrasivity (Photo A)
+— Excavation difficulties
+Soft rocks — Medium to low strength — Slope failures (Photo B)
+— Alterable minerals — Deformability in tunnels
+— Change of properties over time
+Hard soils — Medium to high strength — Problems in foundations with expansive clays
+CCCCCCCCCCCC
+and collapsible soils
+oooooooooooo
+Soft soils — Low to very low strength — Settlements of foundations (Photo C)
+pppppppppppp
+— Slopes failures
+yyyyyyyyyyyy
+OOOrrrgggaaannniiiccc aaannnddd bbbiiiooogggeeennniiiccc sssooorrrrrrrrrrrriiilllsss iiiiiiiiiiii— High compressibility — Subsidence (Photo D) and collapse
+——— Metastable structures
+gggggggggggg
+hhhhhhhhhhhh
+tttttttttttt
+eeeeeeeeeeee
+dddddddddddd
+MMM
+aaa
+ttt
+eee
+rrr
+iii
+aaa
+lll
+-
+TTTT
+aaaa
+yyyy
+llll
+Photo A Granite with quartz, plagioclase and micas. Photo B SSSlllooopppooooeee fffaaaiiillluuurrreeesss iiinnn ooopppeeennn cccaaasssttt mmmiiinnneeesss,,, sssooouuuttthhheeerrrnnn
+SSSpppaaaiiinnn... rrrr
+&&
+FF
+rr
+aa
+nn
+cc
+ii
+ss
+Photo C Leaning tower of Pisa. Photo D Settlement of the basilica Na Sa de Guadalupe,
+Mexico City, built on soft lacustrine soils
+affected by subsidence.
+7007TS-GONZALEZ-1003-01_CH01.indd 9 11/24/2010 10:34:33 PM
+10 GEOLOGICAL ENGINEERING
+Table 1.2 GEOLOGICAL STRUCTURES AND GEOTECHNICAL PROBLEMS
+Geological
+structures Characteristic factors Geotechnical problems
+Faults and fractures — Very continuous surfaces; variable Failures, instabilities, seepages and alterations
+(Photo A) thickness
+Bedding planes — Medium-highly persistent surfaces; little Failures, instabilities and seepages
+(((PPPhhhoootttooo BBB))) separation
+DDDiiissscccooonnntttiiinnnuuuiiitttiiieeesss — Small-medium persistence; closed or Failures, instabilities, seepages and weathering
+CCCCCCCCCCCCCCCC
+(((PPPhhhoootttooo BBB))) open
+oooooooooooooooo
+FFFooollldddsss (((PPPhhhoootttooo CCC))) — Surfaces with high continuity Instabilities and seepages
+pppppppppppppppp
+or persistence
+yyyyyyyyyyyyyyyy
+FFFooollliiiaaatttiiiooonnn,,, sssccchhhiiissstttooorrrrrrrrrrrrrrrrsssiiitttyyy ——— Surfaces with low continuity; closed Anisotropic behaviour dependent on the orientation
+iiiiiiiiiiiiiiii
+(Photo D) fffeeeaaatttuuurrreeesss
+gggggggggggggggg
+hhhhhhhhhhhhhhhh
+tttttttttttttttt
+eeeeeeeeeeeeeeee
+dddddddddddddddd
+MM
+aa
+tt
+ee
+rr
+ii
+aa
+ll
+--
+TTT
+aaa
+yyy
+lll
+ooo
+rrr
+Photo A Normal fault. Photo B SSSSStttttrrrrraaaaatttttaaaaa aaaaannnnnddddd jjjjjoooooiiiiinnnnntttttsssss.....
+&&
+FF
+rr
+aa
+nn
+cc
+ii
+ss
+Photo C Folds in quartzite. Photo D Folded schist.
+7007TS-GONZALEZ-1003-01_CH01.indd 10 11/24/2010 10:34:38 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 11
+Table 1.3 EFFECTS OF WATER RELATED GEOLOGICAL PROCESSES
+Water-related geological
+processes Effects on materials Geotechnical problems
+Dissolution (Photo A) — Loss of material in soluble rocks and soils — Cavities
+— Karstification — Subsidence
+— Collapse
+EEErrrooosssiiiooonnn ––– pppiiipppiiinnnggg (((PPPhhhoootttooo BBB))) — Loss of material, sheetwash — Subsidence
+— Piping, internal erosion — Collapse
+CCCCCCCCCCCCCC
+— Gully erosion — Settlement
+oooooooooooooo — Piping and undermining
+pppppppppppppp — Silting
+yyyyyyyyyyyyyy
+CCChhheeemmmiiicccaaalll rrreeeaaaccctttiiiooonnnsss (((PPPhhhooo rrrrrrrrrrrrrrtttooo CCC))) — Changes in chemical composition — Attacks on cement, aggregates,
+iiiiiiiiiiiiii
+metals and rocks
+gggggggggggggg
+Weathering (Photo D) ——— Changes in physical and chemical properties — Loss of strength
+hhhhhhhhhhhhhh
+tttttttttttttt — Increased deformability and
+permeability
+eeeeeeeeeeeeee
+dddddddddddddd
+MMM
+aaa
+ttt
+eee
+rrr
+iii
+aaa
+lll
+-
+TTTT
+aaaa
+yyyy
+llll
+oooo
+Photo A Gypsum karst, southeast Spain. Photo B EEEEErrrrrooooosssssiiiiiooooonnnnn rrrraaaaannnnnddddd ggggguuuuulllllllllliiiiieeeeesssss iiiiinnnnn pppppyyyyyrrrrroooooccccclllllaaaaassssstttttiiiiiccccc dddddeeeeepppppooooosssssiiiiitttttsssss,,,,,
+GGGuuuaaattteeemmmaaalllaaa...
+&&&
+FF
+rr
+aa
+nn
+cc
+ii
+ss
+Photo C Concrete attacked by sulphates: formation of
+ettringite in the form of very fine fibres and
+carbonate crystals. Photo D Weathering in Tertiary materials, central Spain.
+7007TS-GONZALEZ-1003-01_CH01.indd 11 11/24/2010 10:34:47 PM
+12 GEOLOGICAL ENGINEERING
+Table 1.4 INFLUENCE OF GEOLOGICAL PROCESSES ON ENGINEERING AND THE ENVIRONMENT
+Geological processes Effects on the physical environment Geo-environmental problems and actions
+Seismicity (Photo A) — Earthquakes, tsunamis — Damage to population and infrastructure
+— Ground movements and failures, — Anti-seismic design
+landslides, liquefaction — Preventive measures
+— Emergency plans
+VVVooolllcccaaannniiisssmmm (((PPPhhhoootttooo BBB))) — Volcanic eruptions — Damage to population and infrastructure
+— Changes in relief — Monitoring systems
+CCCCCCCCCCCCCCCCCC — Tsunamis and earthquakes — Preventive measures
+oooooooooooooooooo — Collapse and large scale slope — Evacuation plans
+pppppppppppppppppp movements
+yyyyyyyyyyyyyyyyyy
+UUUpppllliiifffttt aaannnddd sssuuubbbsssiiidddeeennnccceee — Long term morphological changes — Monitoring and control measures
+rrrrrrrrrrrrrrrrrr
+(Photo C) iiiiiiiiiiiiiiiiii — Long term changes in coastal dynamics
+gggggggggggggggggg and sea levels
+EEErrrooosssiiiooonnn---ssseeedddiiimmmeeennntttaaatttiiiooonnnhhhhhhhhhhhhhhhhhh tttttttttttttttttt——— MMMeeedddiiiuuummm ttteeerrrmmm mmmooorrrppphhhooolllooogggiiicccaaalll ccchhhaaannngggeeesss — Increased risk of flooding and landslides
+(Photo D) ——— SSShhhooorrrttt ttteeerrrmmm hhhyyydddrrrooolllooogggiiicccaaalll ccchhhaaannngggeeesss — Protection measures for river beds and coasts
+eeeeeeeeeeeeeeeeee
+——— SSSiiillltttiiinnnggg
+dddddddddddddddddd
+(continued)
+MM
+aa
+tt
+ee
+rr
+ii
+aa
+ll
+--
+TTTT
+aaaa
+yyyy
+llll
+oooo
+rrrr
+Photo A Building destroyed in the Mexico earthquake, Photo B LLLLLaaaaavvvvvaaaaa ffffflllllooooowwwww iiiiinnnnn ttttthhhhheeeee TTTTTeeeeennnnneeeeeggggguuuuuíííííaaaaa eeeeerrrrruuuuuppppptttttiiiiiooooonnnnn,,,,, CCCCCaaaaannnnnaaaaarrrrryyyyy
+1985. IIIIIssssslllllaaaaa&&&nnnnndddddsssss,,,,, 11111999997777711111.....
+FF
+rr
+aa
+nn
+cc
+ii
+ss
+Photo C Palacio de Bellas Artes, Mexico City, affected Photo D Silting of riverbed to above road level, requiring
+by the subsidence of the Mexico valley soils. excavation to an artificial channel, northwest
+Argentina.
+7007TS-GONZALEZ-1003-01_CH01.indd 12 11/24/2010 10:34:51 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 13
+Table 1.4 INFLUENCE OF GEOLOGICAL PROCESSES ON ENGINEERING AND THE ENVIRONMENT (CONT.)
+Geological processes Effects on the physical environment Geo-environmental problems 4 and actions
+Slope movements (Photo E) — Landslides, rock falls, subsidence — Damage to populations and infrastructures
+— Short and medium term morphological — Impounding of river beds
+changes, diversion of river beds — Stabilization, control and preventive
+measures
+CCChhhaaannngggeeesss iiinnn wwwaaattteeerrr tttaaabbbllleee — Changes in aquifers — Problems in foundations
+(Photo F) — Changes in soil properties — Effect on crops and irrigation
+CCCCCCCCCCCCCCCCC — Drying out and waterlogging — Drainage measures
+ooooooooooooooooo — Subsidence and instability of slopes
+TTTeeeccctttooonnniiiccc ppprrroooccceeesssssseeepppppppppppppppppsss — Natural stress — Rock bursts in mines and deep tunnels
+yyyyyyyyyyyyyyyyy
+——— Seismicity — Long term deformations in underground
+rrrrrrrrrrrrrrrrr
+iiiiiiiiiiiiiiiii ——— IIInnnssstttaaabbbiiillliiitttiiieeesss works
+ggggggggggggggggg — Design measures in tunnels and mines
+Geochemical processes hhhhhhhhhhhhhhhhh ——— tttttttttttttttttHHHiiiggghhh ttteeemmmpppeeerrraaatttuuurrreeesss — Hazards from gas explosion
+— TTThhheeerrrmmmaaalll aaannnooommmaaallliiieeesss — Difficulties during tunnel construction
+eeeeeeeeeeeeeeeee
+— PPPrrreeessseeennnccceee ooofff gggaaassseeesss
+ddddddddddddddddd
+MM
+aa
+tt
+ee
+rr
+ii
+aa
+ll
+-
+TTT
+aaa
+yyy
+lll
+ooo
+rrr
+Photo E DDDDDaaaaammmmmaaaaagggggeeeee tttttooooo mmmmmoooootttttooooorrrrrwwwwwaaaaayyyyysssss cccccaaaaauuuuussssseeeeeddddd bbbbbyyyyy lllllaaaaannnnndddddsssssllllliiiiidddddeeeeesssss,,,,,
+&&
+southern Spain.
+F
+r
+a
+n
+c
+i
+s
+Photo F Subsidence along active faults caused by water
+extraction from wells, Celaya, Mexico.
+7007TS-GONZALEZ-1003-01_CH01.indd 13 11/24/2010 10:34:53 PM
+14 GEOLOGICAL ENGINEERING
+Box 1.3
+The failure of Aznalcóllar Dam: An example of underestimation
+of the geological and geotechnical conditions with serious
+environmental consequences
+TTThhheee tttaaaiiillliiinnnggg dddaaammm ooofff AAAzzznnnaaalllcccóóóllllllaaarrr (((sssooouuuttthhheeerrrnnn SSSpppaaaiiinnn))),,, ooowwwnnneeeddd blue marl, which contains frequent shear surfaces with
+CCCCCCCCCCCCCCbbbyyy ttthhheee mmmiiinnniiinnnggg cccooommmpppaaannnyyy BBBooollliiidddeeennn---AAApppiiirrrsssaaa,,, wwwaaasss 222888 m high slickensides.
+wwwhhheeeoooooooooooooonnn iiittt fffaaaiiillleeeddd ooonnn AAAppprrriiilll 222555,,, 111999999888... TTThhheee sssaaafffeeetttyyy cccooonnndddiiitttiiiooonnnsss These blue marls have been extensively studied and
+ooofff ttthhheee dddaaammm hhhaaaddd bbbeeeeeennn ccchhheeeccckkkeeeddd ttthhhrrreeeeee yyyeeeaaarrrsss eeeaaarrrllliiieeerrr aaannnddd the problems they cause were well known, especially in
+pppppppppppppp
+bbbooottthhh ttthhheee ooowwwnnneeerrrsss aaannnddd ttthhhooossseee rrreeessspppooonnnsssiiibbbllleee fffooorrr ttthhheee dddeeesssiiigggnnn the stability of slopes of roads and railways of southern
+yyyyyyyyyyyyyy
+cccooonnnfffiiirrrmmmeeeddd ttthhhaaarrrrrrrrrrrrrrttt iiittt fffuuulllfffiiilllllleeeddd aaallllll cccooonnnssstttrrruuuccctttiiiooonnn aaannnddd sssaaafffeeetttyyy Spain. Their strength can be very low when they come
+iiiiiiiiiiiiii
+rrreeeqqquuuiiirrreeemmmeeennntttsss... TTThhhiiisss cccooonnncccllluuusssiiiooonnn wwwaaasss rrreeeiiittteeerrraaattteeeddd jjjuuusssttt 555 days into contact with water and when high pore pressures are
+gggggggggggggg
+bbbeeefffooorrreee ttthhheee dddiiisssaaasssttteeerrr... generated along shear surfaces. According to the expert
+hhhhhhhhhhhhhh
+TTThhheee fffaaaiiillluuurrreee ooofff ttthhheeetttttttttttttt dddaaammm rrreeellleeeaaassseeeddd aaa 444...555 HHHmmm3 of liquid reports, the failure of the dam was due to a failure in the
+mmmiiinnneee wwwaaasssttteee iiinnntttooo ttthhheee rrriiivvveeerrr eeeeeeeeeeeeeeAAAgggrrriiiooo,,, aaannnddd fffrrrooommm ttthhheeerrreee iiinnntttooo ttthhheee clay substratum, causing the foundation of the dam to
+GGGuuuaaadddiiiaaammmaaarrr,,, tttrrriiibbbuuutttaaarrryyy ooofff ttthhheee GGGuuuaaadddaaalllqqquuuiiivvviiirrr... TTThhheee sssuuurrrrrrooouuunnndddiiinnnggg slide forward (see Box 11.3, Chapter 11).
+dddddddddddddd
+lllllaaaaannnnnddddd wwwwwaaaaasssss fffffllllloooooooooodddddeeeeeddddd,,,,, cccccooooonnnnntttttaaaaammmmmiiiiinnnnnaaaaattttteeeeeddddd wwwww iiiiittttthhhhh aaaaaccccciiiiiddddd wwwwwaaaaattttteeeeerrrrr containing After the event, it became clear that the geologi-
+hhhhheeeeeaaaaavvvvvyyyyy mmmmmeeeeetttttaaaaalllllsssss,,,,, aaaaaffffffffffeeeeeccccctttttiiiiinnnnnggggg aaaaallllllllll ttttthhhhheeeee sssssuuuuurrrrrrrrrrooooouuuuunnnnndddddiiiiinnnnnggggg eeeeecccccooooosssssyyyyysssssttttteeeeemmmmmsssss iiiiinnnnn cal and geotechnical factors which caused the dam failure
+MMMMMMM
+ttthhheee aaarrreeeaaa,,, iiinnncccllluuudddiiinnnggg DDDoooñññaaannnaaa NNNaaatttiiiooonnnaaalll PPPaaarrrkkk... were not adequately taken into account, and that the
+aaaaaaa
+TTThhheee dddaaammm wwwaaasss fffooouuunnndddeeeddd ooonnn aaa MMMtttttttiiioooccceeennneee ooovvveeerrr--- monitoring systems were not operative, both fundamental
+cccooonnnsssooollliiidddaaattteeeddd hhhiiiggghhh---ppplllaaassstttiiiccciiitttyyy ccclllaaayyy fffooorrrmmmaaatttiiiooonnneeeeeee,,, kkknnnooowwwnnn aaasss aspects in geological engineering.
+rrrrrrr
+iiiiiii
+aaaaaaa
+lllllll
+-
+T
+a
+y
+l
+o
+r
+&
+F
+r
+a
+n
+c
+i
+s
+The Aznalcóllar dam after failure.
+7007TS-GONZALEZ-1003-01_CH01.indd 14 11/24/2010 10:34:56 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 15
+— Geological processes may modify the behaviour of
+Table 1.5 METHODOLOGICAL PROCEDURES FOR
+materials, affecting the physical medium and causing
+GEOLOGICAL ENGINEERING AND
+geotechnical problems.
+ENGINEERING DESIGN
+Thus it is evident that geotechnical problems can 1. Identification of geological materials and geological
+often require expensive solutions to be adopted. Depending processes. Analysis of geomorphological, structural,
+on the scope of the problems, projects could be modified or lithological and groundwater conditions.
+sites relocated. For example, foundations might have to be 2. Site and ground investigation.
+lllaaaiiiddd mmmooorrreee dddeeeeeeppplllyyy bbbeeecccaaauuussseee ooofff ttthhheee iiinnnsssuuuffffffiiiccciiieeennnttt bbbeeeaaarrriiinnnggg capacity 3. Defining the spatial distribution of materials,
+ooofff ttthhheee gggrrrooouuunnnddd aaattt dddeeepppttthhhsss nnneeeaaarrreeerrr ttthhheee sssuuurrrfffaaaccceee... IIInnn cccooonnntttrrraaasssttt,,, structures and discontinuities.
+CCCCCCCCCCCCC
+ff faaavvvooouuurrraaabbbllleee gggeeeooottteeeccchhhnnniiicccaaalll cccooonnndddiiitttiiiooonnnsss ppprrrooovvviiidddeee gggrrreeeaaattteeerrr ssseeecccuuurrriiitttyyy 4. Defining the hydrogeological, in situ stress and
+ooooooooooooo
+fffooorrr ttthhheee wwwooorrrkkk sssiiittteee aaannnddd aaalllsssooo mmmeeeaaannn wwwooorrrkkk cccaaannn gggooo aaahhheeeaaaddd uuunnniiinnn- environmental conditions.
+ppppppppppppp
+ttteeerrrrrruuupppttteeeddd,,, wwwhhhiiiccchhh hhhaaasss aaa sssiiigggnnniiifffiiicccaaannnttt iiinnnfffllluuueeennnccceee ooonnn ttthhheee cccooosssttt aaannnddd 5. Characterization of geomechanical, hydrogeological
+yyyyyyyyyyyyy
+dddeeellliiivvveeerrryyy sssccchhheeeddduuullleee fffooorrr ttthhheee rrrrrrrrrrrrrcccooommmpppllleeettteeeddd wwwooorrrkkk... and chemical properties.
+iiiiiiiiiiiii
+IIInnn gggeeennneeerrraaalll ttteeerrrmmmsss,,, ttthhheee cccooonnndddiiitttiiiooonnnsss aaa sssiiittteee mmmuuusssttt mmmeeeeeettt 6. Characterization of the geological materials to be
+ggggggggggggg
+tttooo bbbeee gggeeeooolllooogggiiicccaaallllllyyy aaannnddd gggeeeooottteeeccchhhnnniiicccaaallllllyyy sssuuuiiitttaaabbbllleee aaarrreee aaasss fffooollllllooowwwsss::: used in the construction.
+hhhhhhhhhhhhh
+— TTThhheee aaabbbssseeennnccceee ooofff aaaccctttiiivvveee gggeeeoootttttttttttttlllooogggiiicccaaalll ppprrroooccceeesssssseeesss wwwhhhiiiccchhh 7. Selection of design parameters of the ground to
+be used in stability analyses for excavations, earth
+ppprrreeessseeennnttt uuunnnaaacccccceeeppptttaaabbbllleee rrriiissskkksss fffooorrreeeeeeeeeeeee ttthhheee ppprrrooojjjeeecccttt...
+structures, foundations, etc.
+— AAAdddeeeqqquuuaaattteee bbbeeeaaarrriiinnnggg cccaaapppaaaccciiitttyyy ooofff dddddddddddddttthhheee gggrrrooouuunnnddd fffooorrr ttthhheee
+8. Modelling of ground behaviour under construction
+structural foundations.
+and operational conditions.
+— MMMaaattteeerrriiiaaalllsss wwwiiittthhh ssstttrrreeennngggttthhh eeennnooouuuggghhh tttooo bbbeee sssMMMMMMMMMMtttaaabbbllleee iiinnn sssuuurrrfffaaaccceee
+9. Assessment of ground treatments to control seepages,
+or underground excavations.
+aaaaaaaaaa
+— WWWaaattteeerrrtttiiiggghhhttt gggeeeooolllooogggiiicccaaalll fffooorrrmmmaaatttiiiooonnnsss fffooorrr ssstttooorrriiinnngggtttttttttt wwwaaattteeerrr settlements, instability, etc. and to improve ground
+conditions.
+and solid or liquid wastes. eeeeeeeeee
+rrrrrrrrrr111000... Analysis of geological hazards and environmental
+— AAAvvvaaaiiilllaaabbbiiillliiitttyyy ooofff mmmaaattteeerrriiiaaalllsss fffooorrr ttthhheee cccooonnnssstttrrruuuccctttiiiooonnn ooofff eeeaaarrrttthhh iiiiiiiiii
+iiimmmpppaaacccttt ooonnn eeennngggiiinnneeeeeerrriiinnnggg dddeeesssiiigggnnn...
+works. aaaaaaaaaa
+llllllllll111111... GGGeeeooolllooogggiiicccaaalll aaannnddd gggeeeooottteeeccchhhnnniiicccaaalll mmmooonnniiitttooorrriiinnnggg aaannnddd cccooonnntttrrrooolll
+— Easy extraction of materials for excavation.
+----ddduuurrriiinnnggg cccooonnnssstttrrruuuccctttiiiooonnn aaannnddd ooopppeeerrraaatttiiiooonnnaaalll ssseeerrrvvviiiccceee...
+The relationship between the geological factors
+and geotechnical problems, and the difference between TTTTTTTT
+favourable and unfavourable geotechnical conditions, make — TTThhheeeaaaaaaaa gggeeeooolllooogggiiicccaaalll mmmooodddeeelll...
+clear that the starting point for any geotechnical site investi- — TTThhheee gggeeeoooyyyyyyyymmmeeeccchhhaaannniiicccaaalll mmmooodddeeelll...
+llllllll
+gation must be geological knowledge. Interpreting geology — TTThhheee gggrrrooouuunnnddd bbbeeehhhaaavvviiiooouuurrr mmmooodddeeelll...
+oooooooo
+from the perspective of engineering geology allows The gggeeeooolllooogggiiicccaaarrrrrrrrlll mmmooodddeeelll rrreeeppprrreeessseeennntttsss ttthhheee ssspppaaatttiiiaaalll dddiiissstttrrriii-
+the behaviour of ground to be defined and predicted.
+bbbbbuuuuutttttiiiiiooooonnnnn ooooofffff mmmmmaaaaattttteeeeerrrrriiiiiaaaaalllllsssss,,,,, ttttteeeeeccccctttttooooonnnnniiiiiccccc ssssstttttrrrrruuuuuccccctttttuuuuurrrrreeeeesssss,,,,, gggggeeeeeooooommmmmooooorrrrrppppphhhhhooooolllllooooogggggiiiiiccccc
+The potential for advances in geotechnical engin eering that &&&&&
+aaaaannnnnddddd hhhhhyyyyydddddrrrrrooooogggggeeeeeooooolllllooooogggggiiiiicccccaaaaalllll dddddaaaaatttttaaaaa,,,,, aaaaannnnn ddddd ooooottttthhhhheeeeerrrrr ccccchhhhhaaaaarrrrraaaaacccccttttteeeeerrrrriiiiissssstttttiiiiicccccsssss ooooofffff ttttthhhhheeeee
+can be provided by geology is extensively described by de
+sssssiiiiittttteeeee aaaaannnnnddddd iiiiitttttsssss aaaaarrrrreeeeeaaaaa ooooofffff iiiiinnnnnfffffllllluuuuueeeeennnnnccccceeeee..... TTTTThhhhheeeee gggeeeooommmeeeccchhhaaannniiicccaaalll model
+Freitas (2009). FFFFFFFFF
+gggiiivvveeesss aaa gggeeeooottteeeccchhhnnniiicccaaalll aaannnddd hhhyyydddrrrooogggeeeooolllrrrrrrrrrooogggiiicccaaalll dddeeessscccrrriiippptttiiiooonnn ooofff ttthhheee
+mmmaaattteeerrriiiaaalllsss aaannnddd ttthhheeeiiirrr gggeeeooommmeeeccchhhaaannniiicccaaalll ccclllaaasssaaaaaaaaasssiiifffiiicccaaatttiiiooonnn... TTThhheee ground
+1.4 Methods and applications
+behaviour model dddeeessscccrrriiibbbeeesss ttthhheee rrreeessspppooonnnnnnnnnnnnssseee ooofff ttthhheee gggrrrooouuunnnddd
+during and after construction. ccccccccc
+iiiiiiiii
+in geological engineering TTThhhiiisss mmmeeettthhhooodddooolllooogggyyy cccooonnnssstttiiitttuuuttteeesss ttthhheee bbbaaasssiiisss fffooorrr ttthhheee fffooolll-
+sssssssss
+lllooowwwiiinnnggg aaappppppllliiicccaaatttiiiooonnnsss ooofff gggeeeooolllooogggiiicccaaalll eeennngggiiinnneeeeeerrriiinnnggg tttooo ccciiivvviiilll aaannnddd
+mining engineering and to the environment:
+Geological engineering is based on geology and on the
+mechanical behaviour of soils and rocks. It requires a — Transport infrastructures.
+knowledge of site investigation techniques, mechanical, — Hydraulic and maritime works.
+instrumental and geophysical, as well as a knowledge of — Urban, industrial and service buildings.
+methods for ground analysis and modelling. Methodology — Power stations.
+used in geological engineering studies follows the sequence — Mining and quarrying.
+described in Table 1.5, in general terms. — Storage for urban, industrial and radioactive waste.
+To develop the methodological sequence three types — Regional and urban planning.
+of models must be defined (Figure 1.3): — Civil defence and emergency planning.
+7007TS-GONZALEZ-1003-01_CH01.indd 15 11/24/2010 10:34:56 PM
+16 GEOLOGICAL ENGINEERING
+V
+IV V
+IV
+V
+III
+IV
+IV
+II III V III
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+GGGEEEOOOLLLOOOGGGIIICCCAAALLL MMMOOODDDEEELLL GEOMECHANICAL MODEL
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh V
+tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+IV
+IIIIIIIIIIIVVVVVVVVVVV eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+II V III II V III
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+During constructionaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa After construction
+ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+GGGRRROOOUUUNNNDDD BBBEEEHHHAAAVVVIIIOOOUUURRR MMMOOODDDEEELLLSSS
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+Figure 1.3 EEExxxaaammmpppllleeesss ooofff mmmooodddeeelllllliiinnnggg iiinnn gggeeeooolllooogggiiicccaaalll eeennngggiiinnneeeeeerrriiinnnggg...
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+-
+1.5 Information sources in — Géotechnique (T. Telford)
+——— JJJooouuurrrnnnaaalll ooofff GGGeeeooottteeeccchhhnnniiicccaaalll aaannnddd GGGeeeoooeeennnvvviiirrrooonnnmmmeeennntttaaalll EEEnnngggiii-
+engineering geology TTTTTTTTT
+nnneeeeeerrriiinnnggg,,, AAASSSCCCEEE...
+aaaaaaaaa
+— IIInnnttteeerrrnnnaaatttiiiooonnnaaalll JJJooouuurrrnnnaaalll ooofff RRRoooccckkk MMMeeeccchhhaaannniiicccsss aaannnddd MMMiiinnniiinnnggg
+yyyyyyyyy
+The main periodical publications in engineering geology/ SSScccllllllllliiieeennnccceeesss,,, IIISSSRRRMMM (((EEElllssseeevvviiieeerrr)))
+geological engineering are published by national and — CCCaaannnoooooooooaaadddiiiaaannn GGGeeeooottteeeccchhhnnniiicccaaalll JJJooouuurrrnnnaaalll (((NNNRRRCCC RRReeessseeeaaarrrccchhh PPPrrreeessssss)))
+rrrrrrrrr
+international associations, which regularly hold congresses — IIIIInnnnnttttteeeeerrrrrnnnnnaaaaatttttiiiiiooooo nnnnnaaaaalllll JJJJJooooouuuuurrrrrnnnnnaaaaalllll ooooofffff GGGGGeeeeeooooommmmmeeeeeccccchhhhhaaaaannnnniiiiicccccsssss,,,,, AAAAASSSSSCCCCCEEEEE.....
+and symposia, as well as publishing reviews or bulletins. The — SSSSSoooooiiiiilllllsssss aaaaannnnnddddd RRRRRoooooccccckkkkksssss,,,,, AAAAABBBBBMMMMMSSSSS aaaaannnnnddddd SSSSSPPPPPGGGGG.....
+&&&&
+most important associations include: — RRRRRoooooccccckkkkk MMMMMeeeeeccccchhhhhaaaaannnnniiiiiccccc sssss aaaaannnnnddddd RRRRRoooooccccckkkkk EEEEEnnnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg (((((SSSSSppppprrrrriiiiinnnnngggggeeeeerrrrr)))))
+— International Association for Engineering Geology FFFFFFF
+rrrrrrr
+and the Environment (IAEG)
+1.6 HHHooowww ttthhhiiisss bbboooaaaaaaaoookkk iiisss ssstttrrruuuccctttuuurrreeeddd
+— Association of Environmental and Engineering
+nnnnnnn
+Geologists (AEG)
+ccccccc
+— International Society for Rock Mechanics (ISRM) TTThhhiiisss bbbooooookkk ppprrrooovvviiidddeeesss aaannn iiinnntttrrroooddduuuccctttiiiooonnn tttooo gggiiiiiiieeeooolllooogggiiicccaaalll eeennngggiiinnneeeeeerrriiinnnggg
+— International Society for Soil Mechanics and Geotech- aaannnddd eeennngggiiinnneeeeeerrriiinnnggg gggeeeooolllooogggyyy,,, ttthhheeeiiirrr fffuuunnndddaaammmeeennnssssssstttaaalllsss aaannnddd bbbaaasssiiiccc cccooonnn-
+nical Engineering (ISSMGE) ccceeeppptttsss,,, mmmeeettthhhooodddooolllooogggiiieeesss aaannnddd mmmaaaiiinnn aaappppppllliiicccaaatttiiiooonnnsss... TTThhheee ssstttuuudddyyy ooofff gggeeeooo-
+logical engineering requires a sound knowledge of geology.
+Periodical publications include:
+Emphasis has been made throughout the text to point out
+— Engineering Geology (Elsevier) how the geology is closely related to engineering problems, as
+— Environmental & Engineering Geoscience Journal this is one of the principal objectives of engineering geology.
+(GSA and AEG) Examples are given to illustrate these issues. However, this
+— Quarterly Journal of Engineering Geology and Hydro- book does not include basic descriptions of geological
+geology (The Geological Society of London) concepts.
+— Bulletin of Engineering Geology and the Environment, This book has 15 chapters, divided into four parts.
+IAEG (Springer) Part I deals with the fundamentals of geological engineering.
+7007TS-GONZALEZ-1003-01_CH01.indd 16 11/24/2010 10:35:01 PM
+INTRODUCTION TO GEOLOGICAL ENGINEERING 17
+Special attention is paid to basic concepts of soil and rock Education and training in
+mechanics as well as hydrogeology (Chapters 1 to 4). Part II engineering geology
+deals with site investigations methods with a description of the
+different procedures for identifying the properties and geome- Bock, H. et al. (2004). The Joint European Working Group
+chanical characteristics of materials (Chapters 5 and 6; geo- of the ISSMGE, ISRM and IAEG for the definition of
+technical mapping is included in Chapter 7). Part III describes professional tasks, responsibilities and co-operation in
+the different applications of geological engineering, focussing ground engineering. Engineering Geology for Infra-
+ooonnn ttthhheee mmmooosssttt iiimmmpppooorrrtttaaannnttt fffiiieeellldddsss ooofff aaappppppllliiicccaaatttiiiooonnn tttooo fffooouuunnndddaaatttiiiooonnnsss,,, structures Planning in Europe: A European Perspective.
+ssslllooopppeeesss,,, tttuuunnnnnneeelllsss,,, dddaaammmsss aaannnddd eeeaaarrrttthhh ssstttrrruuuccctttuuurrreeesss (((CCChhhaaapppttteeerrrsss 8 to 12). Hack, Azzam and Charlier, Eds. Lecture Notes in Earth
+Part IV dddeeeCCCCCCCCCCCCCaaalllsss wwwiiittthhh gggeeeooolllooogggiiicccaaalll hhhaaazzzaaarrrdddsss mmmooosssttt rrreeellleeevvvaaannnttt tttooo gggeeeooo- Sci. Springer, Berlin, 104:1–8.
+lllooogggiiicccaaalll eeennngggiiinnneeeeeeooooooooooooorrriiinnnggg,,, fffooocccuuussssssiiinnnggg ooonnn ttthhheee ppprrreeevvveeennntttiiiooonnn,,, mmmiiitttiiigggaaatttiiiooonnn de Freitas, M.H. (1994). Keynote Lecture: Teaching and
+aaannnddd cccooonnntttrrrooolll... CCChhhaaappptttpppppppppppppeeerrr 111333 dddeeeaaalllsss wwwiiittthhh lllaaannndddsssllliiidddeeesss aaannnddd ooottthhheeerrr mmmaaassssss training in engineering geology: professional prac-
+mmmooovvveeemmmeeennntttsss,,, CCChhhaaapppttteeerrr yyyyyyyyyyyyy111444 wwwiiittthhh eeeaaarrrttthhhqqquuuaaakkkeeesss aaannnddd CCChhhaaapppttteeerrr 15 tice and registration. Proc. 7th Cong. of the Int.
+rrrrrrrrrrrrr
+wwwiiittthhh ppprrreeevvveeennntttiiiooonnn aaannnddd mmmiiitttiiigggaaatttiiiiiiiiiiiiiiiiooonnn ooofff gggeeeooolllooogggiiicccaaalll hhhaaazzzaaarrrdddsss... Assoc. of Engineering Geology, Lisbon. Oliveira,
+ggggggggggggg Rodrigues, Coelho & Cunha Eds. Balkema. Vol. 6,
+Reeecccooommmmmmeeennndddeeeddd rrreeehhhhhhhhhhhhhaaadddiiinnnggg pp. LVII–LXXV.
+ttttttttttttt Knill, J. (2003). Core values: the first Hans-Cloos lecture.
+eeeeeeeeeeeee (2003) Bull. of Eng. Geol. and the Environment, 62 (1),
+GGGeeennneeerrraaalll aaannnddd bbbaaaccckkkgggrrrooouuunnnddd tttooo
+ddddddddddddd 1–34. Springer.
+engineering geology Oliveira, R. (2008). Geo-engineering education and training.
+MMMMM The past and the future. Proc. 1st Int. Cong. on Edu-
+BBBlllyyyttthhh,,, FFF...GGG...HHH... aaannnddd dddeee FFFrrreeeiiitttaaasss,,, MMM...HHH... (((111999888444)))... AAA gggeeeooolllooogggyyy fffooorrr eeennngggiii-
+cation and Training in Geo-Engineering Sciences.
+neers. 7th ed. Arnold, London. aaaaa
+ttttt Manoliu & Radulescu Eds., CRC Press, Taylor & Francis
+CCCuuulllssshhhaaawww,,, MMM...GGG... (((222000000555)))... FFFrrrooommm cccooonnnccceeepppttt tttooowwwaaarrrdddsss rrreeeaaallliiitttyyy:::
+eeeee Group, London, 79–86.
+dd deeevvveeelllooopppiiinnnggg ttthhheee aaattttttrrriiibbbuuuttteeeddd 333DDD gggeeeooolllooogggiiicccaaalll mmmooodddeeelll ooofff ttthhhrrrrreee
+iiiiiRRReeennngggeeerrrsss,,, NNN... aaannnddd BBBoooccckkk,,, HHH... (((222000000888)))... CCCooommmpppeeettteeennncccyyy---ooorrriiieeennnttteeeddd cccuuurrr-
+shallow subsurface. Ql. Jl. of Eng. Geol. and Hydro-
+aaaaa ricula development in Geo-engineering with particu-
+geol., 38, 231–284. lllll
+lar reference to engineering geology. Proc. 1st Int.
+de Freitas, M.H. (2009). Geology; its principles, practice and ---CCCCCooooonnnnnggggg..... ooooonnnnn EEEEEddddduuuuucccccaaaaatttttiiiiiooooonnnnn aaaaannnnnddddd TTTTTrrrrraaaaaiiiiinnnnniiiiinnnnnggggg iiiiinnnnn GGGGGeeeeeooooo-----EEEEEnnnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg
+potential for Geotechnics. The 9th Glossop Lecture,
+SSSSSccccciiiiieeeeennnnnccccceeeeesssss..... MMMMMaaaaannnnnooooollllliiiiiuuuuu &&&&& RRRRRaaaaaddddduuuuullllleeeeessssscccccuuuuu EEEEEdddddsssss.....,,,,, CCCCCRRRRRCCCCC PPPPPrrrrreeeeessssssssss,,,,, TTTTTaaaaayyyyylllllooooorrrrr
+Geological Society of London. Ql. Jl. of Eng. Geol. and TTTTTTTTT
+&&& FFFrrraaannnccciiisss GGGrrrooouuuppp,,, LLLooonnndddooonnn,,, 111000111–––111111000...
+Hydrogeol., 42, 397–441. aaaaaaaaa
+TTTuuurrrnnneeerrr,,, AAA...KKK... (((222000000888)))... EEEddduuucccaaatttiiiooonnn aaannnddd ppprrrooofffeeessssssiiiooonnnaaalll rrreeecccooogggnnniiitttiiiooonnn
+Fookes, P.G. (1997). Geology for engineers: the geological yyyyyyyyy
+ooofff eeennngggiiinnneeeeeelllllllllrrriiinnnggg gggeeeooolllooogggiiissstttsss aaannnddd gggeeeooolllooogggiiicccaaalll eeennngggiiinnneeeeeerrrsss iiinnn
+model, prediction and performance. Ql. Jl. of Eng.
+CCCaaannnaaadddaaa aaannndddooooooooo ttthhheee UUUnnniiittteeeddd SSStttaaattteeesss... PPPrrroooccc... 111sssttt IIInnnttt... CCCooonnnggg... ooonnn
+Geol. and Hydrogeol., 30, 293–424. rrrrrrrrr
+EEEEEddddduuuuucccccaaaaatttttiiiiiooooonnnnn aaaaannnnnddddd TTTTTrrrrraaaaaiiiiinnnnniiiiinnnnnggggg iiiiinnnnn GGGGGeeeeeooooo-----EEEEEnnnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg SSSSSccccciiiiieeeeennnnnccccceeeeesssss.....
+Fookes, P.G., Baynes, F.J. and Hutchinson, J.N. (2000).
+MMMMMaaaaannnnnooooollllliiiiiuuuuu &&&&& RRRRRaaaaaddddduuuuullllleeeeessssscccccuuuuu EEEEEdddddsssss.....,,,,, CCCCCRRRRRCCCCC PPPPPrrrrreeeeessssssssss,,,,, TTTTTaaaaayyyyylllllooooorrrrr &&&&& FFFFFrrrrraaaaannnnnccccciiiiisssss
+Total geological history. A model approach to the &&&&&
+GGGrrrooouuuppp,,, LLLooonnndddooonnn,,, 111111111–––111 111888...
+anticipation, observation and understanding of site
+TTTTTuuuuurrrrrnnnnneeeeerrrrr,,,,, AAAAA.....KKKKK..... (((((22222000001111100000)))))..... DDDDDeeeeefffffiiiiinnnnniiiiinnnnnggggg cccccooooommmmmpppppeeeeettttteeeeennnnnccccciiiiieeeeesssss fffffooooorrrrr gggggeeeeeooooo-----eeeeennnnngggggiiiiinnnnneeeeeeeeeerrrrriiiiinnnnnggggg:::::
+conditions. Geo2000. Int. Conf. on Geotechnical & FFFFF
+iiimmmpppllliiicccaaatttiiiooonnnsss fffooorrr eeeddduuucccaaatttiiiooonnn aaarrrrrnnnddd tttrrraaaiiinnniiinnnggg... PPPrrroooccc... 111111ttthhh
+Geological Engineering, Melbourne. Vol. 1: Invited
+IIIAAAEEEGGG CCCooonnngggrrreeessssss,,, AAAuuuccckkklllaaannnddd,,, NNNeeeaaaaawww ZZZeeeaaalllaaannnddd... BBBaaalllkkkeeemmmaaa,,,
+Papers. Technomic Publishing Co., 370–460.
+The Netherlands (in press). nnnnn
+Johnson, R.B. and DeGraff, J.V. (1988). Principles of engi-
+ccccc
+neering geology. J. Wiley & Sons. New York. iiiii
+References
+Legget, R.F. and Karrow, P.F. (1983). Handbook of geology in sssss
+civil engineering. McGraw-Hill, New York.
+Parriaux, A. (2009). Geology: basics for engineers. CRC Press/ Bock, H. et al. (2004). The Joint European Working Group
+Balkema. The Netherlands. of the ISSMGE, ISRM and IAEG for the definition of
+Price, D.G. (2009). Engineering geology. Principles and professional tasks, responsibilities and co-operation
+practice. Edited and compiled by M. H. de Freitas. in ground engineering. Engineering Geology for
+Springer. Infrastructures Planning in Europe: A European Per-
+Rahn, P.H. (1996). Engineering geology: an environmental spective. Hack, Azzam and Charlier, Eds. Lecture
+approach. 2nd ed. Prentice Hall. Notes in Earth Sci. Springer, Berlin, 104:1–8.
+Terzaghi, K. (1960). From theory to practice in soil mechanics. de Freitas, M.H. (2009). Geology; its principles, practice and
+John Wiley and Sons, New York. potential for Geotechnics. The 9th Glossop Lecture,
+7007TS-GONZALEZ-1003-01_CH01.indd 17 11/24/2010 10:35:01 PM
+18 GEOLOGICAL ENGINEERING
+Geological Society of London. Ql. Jl. of Eng. Geol. and Turner, A.K. (2008). Education and professional recognition
+Hydrogeol., 42, 397–441. of engineering geologists and geological engineers in
+Fookes, P.G. (1997). Geology for engineers: the geological Canada and the United States. Proc. 1st Int. Cong. on
+model, prediction and performance. Ql. Jl. of Eng. Education and Training in Geo-Engineering Sciences.
+Geol. and Hydrogeol., 30, 293–424. Manoliu & Radulescu Eds., CRC Press, Taylor & Francis
+IGME (1987). Impacto económico y social de los riesgos Group, London, 111–118.
+geológicos en España. Instituto Geológico y Minero
+dddeee EEEssspppaaañññaaa (((GGGeeeooolllooogggiiicccaaalll SSSuuurrrvvveeeyyy ooofff SSSpppaaaiiinnn))),,, MMMaaadddrrriiiddd...
+CC
+oo
+pp
+yy
+rr
+ii
+gg
+hh
+tt
+ee
+dd
+M
+a
+t
+e
+r
+i
+a
+l
+-
+T
+a
+y
+l
+o
+r
+&
+F
+r
+a
+n
+c
+i
+s
+7007TS-GONZALEZ-1003-01_CH01.indd 18 11/24/2010 10:35:01 PM

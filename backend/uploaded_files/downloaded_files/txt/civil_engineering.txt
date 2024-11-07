@@ -1,0 +1,615 @@
+Department of Civil and Environmental Engineering
+
+Mackenzie Building 277
+Telephone: 788-5784
+Fax: 788-3951
+
+The Department
+    Chair of the Department: J.L. Humar
+    Departmental Supervisor of Graduate Studies: K.T. Law
+
+The Department of Civil and Environmental Engineering offers programs of
+study and research leading to the Master of Engineering and Ph.D. degrees
+in Civil and Environmental Engineering. These degrees are offered through
+the Ottawa-Carleton Institute for Civil Engineering which is jointly
+administered by the Department of Civil and Environmental Engineering at
+Carleton University, and the Department of Civil Engineering at the
+University of Ottawa. For further information, including admission and
+program requirements, see page 111.
+
+    The Department conducts research and has developed graduate programs
+    in the following areas:
+
+    *   Geotechnical Engineering
+
+        The graduate program in geotechnical engineering places an
+        emphasis on both theoretical and applied problems related to
+        soil and rock mechanics and foundation engineering. These
+        generally include the study of mechanical properties of soil and
+        rock materials, stability of natural slopes and earth
+        embankments, soil-foundation-structure interaction, and problems
+        in foundation design and geomechanics. Broader programs in
+        geotechnical engineering may be arranged by making use of
+        courses offered in the Department of Geography at Carleton
+        University and in the Department of Civil Engineering at the
+        University of Ottawa.
+
+        Graduate research in geotechnical engineering is primarily
+        directed towards the following areas:
+
+        - Soil-Foundation Interaction
+
+          Elastic and consolidation effects of soil-foundation
+          interaction; soil-frame interaction; contact stress
+          measurement; performance of rigid and flexible foundations;
+          buried pipelines.
+
+        - Earth Retaining Structures
+
+          Experimental and analytical studies of anchored and braced
+          excavations, flexible and rigid retaining walls, soil
+          reinforcement, tunnels and conduits, field behaviour.
+
+        - Bearing Capacity and Settlement
+
+          Problems related to design of bridge abutments and footings
+          located on sloped granular fill, experimental and field
+          studies.
+
+        - In-Situ Testing of Soils
+
+          The use of devices such as the pressuremeter, the screw plate
+          test, the borehole shear device, and borehole dilatometer in
+          the assessment of geotechnical properties of soils.
+
+        - Mechanical Behaviour
+
+          Development of constitutive relations for soils and rock
+          masses with yield and creep characteristics; applications to
+          foundation engineering.
+
+        - Mechanics of Geological Structures
+
+          Large strain phenomena; buckling of strata; applications to
+          underground storage structures; hydraulic fracture of oil- and
+          gas-bearing geological media.
+
+        - Performance of Anchors
+
+          Theoretical and experimental analysis of deep and shallow
+          anchors in soil, rock and concrete; group action; creep
+          effects; prestress loss.
+
+        - Nuclear Waste Disposal
+
+          Theoretical modelling of rockmass-buffer-canister interaction
+          during moisture migration; non-homogeneous swelling of buffer
+          materials; swelling pressures in buffer systems; coupled heat
+          and moisture flow in materials.
+
+    *   Structural Engineering
+
+        The graduate program in structural engineering embodies a broad
+        spectrum of topics involving material behaviour, structural
+        mechanics and analysis, and the behaviour and design of
+        buildings and bridges. These topics are in the following fields:
+        computer applications in structural analysis; structural
+        dynamics, seismic analysis, earthquake engineering; finite
+        element analysis; structural systems and design optimization;
+        behaviour and design of steel, concrete, composite, timber and
+        masonry structures; integrated treatment of structural,
+        mechanical and electrical building requirements; construction
+        economics; project planning; and bridge engineering. Graduate
+        research in structural engineering is primarily directed towards
+        the following areas:
+
+    *   Computer Applications in Structural Design
+
+        Development of knowledge-based systems for the analysis, design,
+        detailing, fabrication and erection of buildings and bridges.
+        Includes graphic interfaces, pre- and post-processing of frame
+        analysis, load determination and finite element analysis
+        packages.
+
+    *   Seismic Analysis and Design
+
+        Seismic response of set-back and other irregular buildings;
+        computer analyses of linear and non-linear structural response;
+        design of buildings for seismic forces; seismic behaviour of
+        liquid storage tanks; fluid structure interaction problems.
+
+    *   Continuum Mechanics
+
+        Linear and non-linear problems in elasticity; analysis of
+        contact problems in elasticity, plasticity, and viscoelasticity;
+        mechanics of composite materials; fracture processes in
+        geological materials; finite deformations of rubber-like
+        materials; poro-elasticity and micromechanics.
+
+    *   Numerical Modelling of Buildings and Bridges
+
+        Advanced analytical modelling of reinforced and prestressed
+        concrete, steel, and composite concrete-steel buildings and
+        bridges. Material and geometric non-linearities, bond-slip, the
+        advent and propagation of cracks, tension-stiffening and
+        shear-connectors behaviour are modelled to predict the full
+        response of structures up to failure.
+
+    *   Behaviour and Design of Steel, Concrete and Composite Structures
+
+        Analytical and experimental studies of structural members,
+        substructures and connections for buildings, bridges and
+        offshore structures. Development of the corresponding limit
+        states design format design rules.
+
+    *   Masonry Behaviour and Design
+
+        Study of strength and serviceability issues by means of
+        theoretical approaches, testing and field work.
+
+    *   Timber Structures
+
+        Analysis, design and performance evaluation of wood-structured
+        systems and components; structural reliability.
+
+    *   Transportation Planning and Technology
+
+        The graduate program in transportation planning and technology
+        deals with problems of policy, planning, economics, design, and
+        operations in all modes of transportation. In the area of
+        transportation planning, the focus is on the design of transport
+        systems, including terminals, modelling and simulation, urban
+        and regional studies, traffic engineering, and geometric design.
+        In the transportation technology area, programs deal with
+        technology of vehicles and facilities, acoustics and noise,
+        materials and pavement design. Graduate research in
+        transportation is currently focused on the following areas:
+
+    *   Transport Policy
+
+        Assessment and impact analysis of national, regional, and urban
+        transportation policies.
+
+    *   Planning and Design Methodology
+
+        Development and application of models for optimization of
+        transport supply, transportation system management.
+
+    *   Travel and Traffic Analysis
+
+        Behavioural theories of passenger travel, goods movement,
+        empirical traffic studies.
+
+    *   Transportation Terminals
+
+        Airport planning, air terminal design; bus, rail, subway
+        terminal design, layout methods, pedestrian traffic.
+
+    *   Transportation Technology Development and Assessment
+
+        Modernization of passenger and freight rail services; soil
+        properties; pavement design, multi-layered systems, low
+        temperature cracking of pavements, thermo-mechanical modelling
+        of fracture processes in pavements, highway design, energy.
+
+Departmental Facilities
+
+    The structures laboratory facility includes an 11 m x 27 m strong
+    floor with a clear height of 11 m; a strong pit, measuring 3 m x 3.7
+    m x 6.6 m for geotechnical and highway material testing; a 400,000
+    lb. universal testing machine with auxiliary equipment for load and
+    displacement control; numerous hydraulic actuators; test frames;
+    specialized equipment for torsion and impact studies; and a wide
+    selection of measurement devices (strain gauges, LVDTs, pressure
+    transducers, load cells, thermocouples) and several data acquisition
+    systems for testing structural materials and components. The concrete
+    laboratory has facilities for the casting, curing, and testing of
+    reinforced concrete members. Laboratory facilities in geotechnical
+    engineering include both large scale and conventional tri-axial
+    testing, consolidation testing, pore water pressure measurements, and
+    model studies of contact stress measurements. The soil dynamics and
+    highway materials laboratories provide facilities for studies of the
+    physical properties of soil, stabilized soil, aggregate and
+    bituminous mixtures.
+
+    Computer-related equipment with the department comprises an HP9000,
+    several Apollo and SUN workstations, a network of microcomputers and
+    related peripherals. The computing centre of the University provides
+    access to a Honeywell Level 66 computer and SUN4 workstation. A
+    library of computer programs in structural, geotechnical and
+    transportation engineering provides a significant resource for
+    advanced study and research.
+
+Graduate Courses
+
+All courses listed are one term courses and may be offered in either fall
+or winter with the exception of projects and theses. Please consult the
+current course listing at the beginning of the fall and winter terms.
+
+*   Engineering 82.511 (CVG7120)
+    Introductory Elasticity
+    Stresses and strains in a continuum; transformations, invariants;
+    equations of motion; constitutive relations, generalized Hooke's Law,
+    bounds for elastic constants: strain energy, superposition,
+    uniqueness; formulation of plane stress and plane strain problems in
+    rectangular Cartesian and curvilinear coordinates, Airy-Mitchell
+    stress functions and Fourier solutions, application of classical
+    solutions to problems of engineering interest.
+
+*   Engineering 82.512 (CVG7121)
+    Advanced Elasticity
+    Continuation of topics introduced in Engineering 82.511. Complex
+    variable solutions: torsional and thermal stresses; axially symmetric
+    three-dimensional problems, Love's strain potential,
+    Boussinesq-Galerkin stress functions; problems related to infinite
+    and semi-infinite domains. Introduction to numerical methods of
+    stress analysis, comparison of solutions.
+    Prerequisite: Engineering 82.511 or permission of the Department.
+
+*   Engineering 82.513 (CVG7122)
+    Finite Element Methods in Stress Analysis
+    Stress-strain and strain-displacement relationships from elasticity.
+    Plane stress and plane strain finite elements. Lagrange interpolation
+    and Lagrange based element families. Introduction to the theory of
+    thin plates; overview at plate bending elements. General formulation
+    of the finite element method.
+
+*   Engineering 82.514 (CVG7123)
+    Earthquake Engineering and Analysis
+    Advanced topics in earthquake engineering: description of earthquake
+    motions, seismological background; analysis of earthquake response,
+    response spectrum approach, multiple input excitation, extended Ritz
+    coordinates, complex eigenproblem analysis; response analysis via
+    frequency domain; design considerations and code requirements,
+    earthquake forces in building codes; dynamic soil-structure
+    interaction, direct method, substructure method, fundamentals of wave
+    propagation, half-space modelling of soil; dynamic fluid-structure
+    interaction, incompressible and compressible fluid elements,
+    substructure method with liquid continuum; special topics of current
+    interests.
+    Prerequisite: Engineering 82.516 or permission of the Department.
+
+*   Engineering 82.515 (CVG7124)
+    Advanced Finite Element Analysis in Structural Mechanics
+    Fundamentals of calculus of variations; variational and Galerkin
+    formulations: assumed displacement, assumed stress and hybrid
+    elements; isoparametric elements and numerical integration; plate
+    bending: convergence, completeness and conformity, patch test,
+    Kirchhoff and Mindlin plate theories, nonlinear elasticity and
+    plasticity; cracking and non-linearities in reinforced concrete
+    structures; incremental and iterative schemes, geometric
+    non-linearity: small strainþlarge displacement, large strainþlarge
+    displacement, Eulerian and Lagrangian formulations; finite elements
+    in dynamics; finite element programing.
+    Prerequisite: Engineering 82.513 or permission of the Department.
+
+*   Engineering 82.516 (CVG7137)
+    Dynamics of Structures
+    Structural dynamics, single and multi-degree-of-freedom systems,
+    formulation of equations of motion, methods of analytical mechanics,
+    free and forced vibrations, normal mode analysis, numerical methods
+    for the response analyses of single and multiple-degree-of-freedom
+    systems.
+
+*   Engineering 82.520 (CVG7138)
+    Engineered Masonry Behaviour and Design
+    Properties of masonry materials and assemblages. Behaviour and design
+    of walls, columns and lintels. Treatment of specialized design and
+    construction topics. Design of lowrise and highrise structures.
+    Discussion of masonry problems. Emphasis throughout the course is
+    placed on a practice-oriented approach.
+
+*   Engineering 82.522 (CVG7139)
+    Behaviour and Design of Steel Structures
+    Brittle fracture and fatigue; behaviour of plate girders; composite
+    beams, girders and columns; stub girders; plastic design principles;
+    frame behaviour; structural stability; bracing of members and frames.
+    Prerequisite: Engineering 82.524 or permission of the Department.
+
+*   Engineering 82.523 (CVG7125)
+    Theory of Structural Stability
+    Elastic and inelastic behaviour of beam-columns; elastic and
+    inelastic buckling of frames; application of energy methods to
+    buckling problems; lateral-torsional buckling of columns and beams;
+    buckling of plates; local buckling of columns and beams.
+    Prerequisite: Engineering 82.525 or equivalent.
+
+*   Engineering 82.524 (CVG7126)
+    Behaviour and Design of Structural Steel Members
+    Limit states design philosophy; material behaviour; tension members;
+    plate buckling; torsion; lateral torsional buckling; beams, axially
+    loaded columns and beam-column behaviour; bolted and welded
+    connections; applications in design.
+
+*   Engineering 82.525 (CVG7127)
+    Analysis of Elastic Structures
+    Application of matrices to structural analysis; force and
+    displacement method of analysis for framed elastic planar and space
+    structures; symmetric and anti-symmetric structures.
+
+*   Engineering 82.526 (CVG7128)
+    Prestressed Concrete
+    Prestressed concrete materials; working stress design for flexure;
+    ultimate strength design for flexure, shear, and torsion; prestress
+    losses; deflection and camber; slabs; indeterminate beams and frames;
+    introduction to prestressed bridges and circular tanks.
+
+*   Engineering 82.527 (CVG7129)
+    Advanced Structural Design
+    A number of topics, such as the evolution of a structure, structural
+    form, aesthetics, progressive collapse, and design in various
+    structural materials, are treated by members of the Department and
+    outside experts.
+
+*   Engineering 82.528 (CVG7130)
+    Advanced Reinforced Concrete
+    The research background, development, and limitations in current
+    building code provisions for reinforced concrete; yield line theory
+    of slabs; safety and limit state design; computer design of concrete
+    structures.
+
+*   Engineering 82.529 (CVG7100)
+    Case Studies in Geotechnical Engineering
+    The critical study of case histories relating to current procedures
+    of design and construction in geotechnical engineering. The
+    importance of instrumentation and monitoring field behaviour will be
+    stressed. In-situ testing.
+
+*   Engineering 82.530 (CVG7101)
+    Advanced Soil Mechanics I
+    Effective stress, pore pressure parameters, saturated and partially
+    saturated soils; seepage; permeability tensor, solutions of the
+    Laplace equation; elastic equilibrium; anisotropy, non-homogeneity,
+    consolidation theories; shear strength of cohesive and cohesionless
+    soils.
+
+*   Engineering 82.531 (CVG7102)
+    Advanced Soil Mechanics II
+    Plasticity in soil mechanics; failure and yield criteria, plastic
+    equilibrium, upper and lower bound solutions, uniqueness theorems;
+    statically and kinematically admissible states; stability analysis
+    of cohesive and cohesionless soils.
+
+*   Engineering 82.533 (CVG7160)
+    Pavements and Materials
+    An analysis of the interaction of materials, traffic, and climate in
+    the planning, design construction, evaluation, maintenance, and
+    rehabilitation of highway and airport pavements.
+
+*   Engineering 82.534 (CVG7150)
+    Intercity Transportation, Planning and Management
+    Current modal and intermodal issues, including energy. Framework and
+    process of intercity transport planning and management. Recent trends
+    and system development. Passenger and freight demand and service
+    characteristics. Future prospects and possibilities.
+
+*   Engineering 82.535 (CVG7151)
+    Traffic Engineering
+    Introduction to principles of traffic engineering. Basic
+    characteristics of drivers, vehicles, and traffic. Volume, speed, and
+    delay studies. Traffic stream characteristics and queuing theory.
+    Capacity analysis of roads and intersections. Safety.
+
+*   Engineering 82.536 (CVG7152)
+    Highway Materials
+    Materials characterization and strength evaluation of soils,
+    stabilized soils, aggregates, and asphalt concrete. Effects of low
+    temperatures and frost on materials behaviour.
+
+*   Engineering 82.537 (CVG7153)
+    Urban Transportation Planning and Management
+    Urban transportation systems planning and management. Urban
+    development models þ an introduction. Urban transportation policy.
+
+*   Engineering 82.538 (CVG7154)
+    Geometric Design
+    Basic highway geometric design concepts. Vertical and horizontal
+    alignment. Cross-sections. Interchange forms and design. Adaptability
+    and spacing of interchanges. Design of operational flexibility;
+    operational uniformity, and route continuity on freeways.
+
+*   Engineering 82.539 (CVG7155)
+    Transportation Supply
+    Advanced treatment of transportation planning and management concepts
+    and techniques: transport supply issues, capacity and costs,
+    evaluation of system improvements and extensions, transportation and
+    development, policy impact analysis.
+
+*   Engineering 82.541 (CVG7156)
+    Transportation Economics and Policy
+    Transportation, economic analysis framework. Transport industry
+    output. Carrier operations. Issue of resource utilization,
+    measurement, economics, supply of infrastructure, pricing; subsidies,
+    externalities. Transport policy in Canada.
+
+*   Engineering 82.542 (CVG7159)
+    Transportation Terminals
+    Framework for passenger terminal planning and design. Theory: the
+    transfer function and network modelling; pedestrian flow
+    characteristics; capacity of corridors, stairs, escalators, and
+    elevators; layout planning. Practical applications: air, rail, metro,
+    bus, ferry, and multi-modal terminals.
+
+*   Engineering 82.543 (CVG7158)
+    Airport Planning
+    Framework for airport planning and design. Aircraft characteristics;
+    demand forecasting; airport site selection; noise, airside capacity;
+    geometric design; the passenger terminal complex; cargo area; general
+    aviation; ground transportation; land use planning.
+
+*   Engineering 82.550 (CVG7104)
+    Earth Retaining Structures
+    Approaches to the theoretical and semi-empirical analysis of earth
+    retaining structures. Review of the earth pressure theories. Analysis
+    and design methods for rigid and flexible retaining walls, braced
+    excavations, and tunnels. Instrumentation and performance studies.
+
+*   Engineering 82.551 (CVG7105)
+    Foundation Engineering
+    Review of methods of estimating compression and shear strength of
+    soils. Bearing capacity of shallow and deep foundations. Foundations
+    in slopes. Pile groups. Use of in-situ testing for design purposes.
+
+*   Engineering 82.552 (CVG7106)
+    In-Situ Methods in Geomechanics
+    Scope of a subsurface exploration program. Techniques of soil and
+    rock sampling. Geo-physical methods. Mechanical and hydraulic
+    properties of soil and rock. In-situ determination of strength,
+    deformability and permeability of soils and rocks. Critical
+    evaluation of vane, pressuremeter, screw plate, flat dilatometer,
+    borehole shear and plate load tests. Pumping, recharge and packer
+    tests. Permeability of jointed rocks. Rock testing techniques,
+    borehole dilatometer, flat jack, cable jacking tests. Properties of
+    rock joints. In-situ stress measurements.
+
+*   Engineering 82.553 (CVG7107)
+    Numerical Methods in Geomechanics
+    Critical review of advanced theories of soil and rock behaviour.
+    Linear elasticity, non-homogeneity and anisotropy. Plasticity models.
+    Generalized Mohr-Coulomb and Rucker-Prager failure criteria. Critical
+    state and cap models. Dilatancy effects. Associative and
+    non-associative flow rules. Hardening rules, hypo-elasticity. Soil
+    consolidation, visco-elasticity and creep behaviour of rock masses.
+    Rock joints. Finite element formulation of nonlinear problems.
+    Iterative schemes; tangent stiffness, initial stress and initial
+    strain techniques, mixed methods. Time marching schemes. Solution of
+    typical boundary value problems in geomechanics with the aid of
+    existing research class finite element codes.
+    Prerequisite:  Engineering 82.511, 82.513, or permission of the
+    Department.
+
+*   Engineering 82.554 (CVG7108)
+    Seepage and Waterflow through Soils
+    Surface-subsurface water relations. Steady flow. Flownet techniques.
+    Numerical techniques. Seepage analogy models. Anisotropic and layered
+    soils. Water retaining structures. Safety against erosion and piping.
+    Filter design. Steady and non-steady flow towards wells. Multiple
+    well systems. Subsidence due to ground water pumping.
+
+*   Engineering 82.560 (CVG7131)
+    Project Management
+    Introduction to managing the development, design, and construction
+    of buildings. Examination of project management for the total
+    development process, including interrelationships among owners,
+    developers, financing sources, designers, contractors, and users;
+    role and tasks of the project manager; setting of project objectives;
+    feasibility analyses; budgets and financing; government regulations;
+    environmental and social constraints, control of cost, time, and
+    content quality and process; human factors.
+
+*   Engineering 82.561 (CVG7140)
+    Statistics, Probabilities and Decision-Making Applications in Civil
+    Engineering
+    Review of basic concepts in statistics and the Theory of
+    Probabilities. Bayes' Theorem. Probability distributions. Moments.
+    Parameter Estimation. Goodness-of-fit. Regression and correlation.
+    OC curves. Monte Carlo simulation. Probability-based design criteria.
+    Systems reliability. Limit States Design. Selected applications in
+    transportation, geomechanics and structures. Emphasis will be given
+    to problem solving. Use of existing computer software.
+
+*   Engineering 82.562 (CVG7141)
+    Advanced Methods in Computer-Aided Design
+    Representation and processing of design constraints (such as building
+    codes and other design rules); decision tables; constraint
+    satisfaction. Automatic integrity and consistency maintenance of
+    design databases; integrated CAD systems. Introduction to geometric
+    modelling. Introduction to artificial intelligence.
+
+*   Engineering 82.563 (CVG7132)
+    Computer-Aided Design of Building Structures
+    Relevant aspects of computer systems, information handling, auxiliary
+    storage; design methods, computerized design systems, computer
+    graphics; application of structural theory; examination of a selected
+    series of structural engineering programs and programming systems.
+
+*   Engineering 82.564 (CVG7142)
+    Engineering Management
+    Engineering management principles, including program and project
+    organization, personnel management, major management systems, project
+    management, legal aspects of management, communication problems,
+    politics and management, management of the engineering competition
+    and union-management problems.
+
+*   Engineering 82.565 (CVG7143)
+    Design of Steel Bridges
+    Basic features of steel bridges, design of slab-on-girder, box girder
+    and truss bridges. Composite and non-composite design. Introduction
+    to long span suspension and cable-stayed bridges. Discussion of
+    relevant codes and specifications.
+
+*   Engineering 82.566 (CVG7144)
+    Design of Concrete Bridges
+    Concrete and reinforcing steel properties, basic features of concrete
+    bridges, design of superstructure in reinforced concrete slab,
+    slab-on-girder and box girder bridges, an introduction to prestressed
+    concrete bridges, design of bridge piers and abutments. In all cases
+    the relevant provisions of Canadian bridge codes are discussed.
+
+*   Engineering 82.575-82.579 (CVG7300-7304)
+    Special Topics in Structural Engineering
+    Courses in special topics related to building design and
+    construction, not covered by other graduate courses; details will be
+    available some months prior to registration.
+
+*   Engineering 82.580-82.584 (CVG7305-7309)
+    Special Topics in Geotechnical Engineering
+    Courses in special topics in geotechnical engineering, not covered
+    by other graduate courses; details will be available some months
+    prior to registration.
+
+*   Engineering 82.580 (CVG7305)
+    Analysis of Embankments and Slopes
+    Stability of embankments of soft clays; stress-strain analysis;
+    anisotropy; strain rate effect; short and long-term settlement;
+    methods of slope stability analysis; progressive failure; use of
+    stability charts; slope analysis for residual and unsaturated soils.
+
+*   Engineering 82.585-82.589 (CVG7310-7314)
+    Special Topics in Transportation Planning and Technology
+    Courses in special topics in transportation engineering, not covered
+    by other graduate courses; details will be available some months
+    prior to registration.
+
+*   Engineering 82.590
+    Civil Engineering Project
+    Students enrolled in the M.Eng. program by course work will conduct
+    an engineering study, analysis, or design project under the general
+    supervision of a member of the Department.
+
+*   Engineering 82.596 and 82.597
+    Directed Studies
+
+*   Engineering 82.599
+    M.Eng. Thesis
+
+*   Engineering 82.699
+    Ph.D. Thesis
+
+Other Courses of Particular Interest
+
+Mechanical and Aerospace Engineering
+    88.514     Ground Transportation Systems and Vehicles
+    88.517     Experimental Stress Analysis
+    88.521     Methods of Energy Conversion
+    88.550     Advanced Vibration Analysis
+    88.561     Creative Problem Solving and Design
+    88.562     Failure Prevention
+    88.568     Advanced Engineering Materials
+
+Systems and Computer Engineering
+    94.501     Simulation and Modelling
+
+Geography
+    45.415E    Slope Development: Forms, Processes and Stability
+    45.417     Glacial Geomorphology
+    45.532     Soil Thermal and Hydrologic Properties
+    45.533     Periglacial Geomorphology
+    45.534     Aspects of Clay Mineralogy and Soil Chemistry
+    45.579     Research and Development in Outdoor Recreational
+               Geography
+
+Public Administration
+    50.510     Management Accounting
+    50.511     Financial Management
+

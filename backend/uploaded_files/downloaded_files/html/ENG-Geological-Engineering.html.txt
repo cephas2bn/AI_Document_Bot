@@ -1,0 +1,298 @@
+
+
+
+
+
+
+
+	Undergraduate Studies Calendar | University of Waterloo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023-2024
+
+
+
+ The Undergraduate Calendar 
+
+ 
+ 
+The Undergraduate Studies CalendarGeneral InformationCalendar of Events and Academic DeadlinesAdmissionsFeesAwards and Financial AidCo-operative Education & Career ActionUniversity Policies, Guidelines, and Academic RegulationsFaculty of ArtsFaculty of EngineeringEngineering & ArchitectureBachelor of Applied Science and Bachelor of Software Engineering Specific Degree RequirementsOverviewAdmissionExaminations and PromotionsChallenge for CreditWork TermsComplementary Studies Course Lists for EngineeringOptions, Specializations and Electives for Engineering StudentsArchitectural EngineeringBiomedical EngineeringChemical EngineeringCivil EngineeringComputer EngineeringElectrical EngineeringEnvironmental EngineeringGeological EngineeringManagement EngineeringMechanical EngineeringMechatronics EngineeringNanotechnology EngineeringSoftware EngineeringSystems Design EngineeringSchool of Architecture: Honours Bachelor of Architectural StudiesCourses - Faculty of EngineeringCourses - UndergraduateFaculty of EnvironmentFaculty of HealthFaculty of MathematicsFaculty of ScienceSocial WorkMinors, Options, Diplomas, CertificatesUndergraduate Course DescriptionsAmendments 
+                          
+
+
+
+
+
+
+
+Faculty of Engineering
+Bachelor of Applied Science and Bachelor of Software Engineering Specific Degree Requirements
+
+
+
+
+
+
+Geological Engineering
+
+
+
+
+
+
+
+The Geological Engineering Academic Curriculum 
+The Geological Engineering academic curriculum is detailed in the following sections. A total of nine approved electives must be completed:
+
+Three Complementary Studies Electives
+Six Technical Electives
+
+The term-by-term academic component of the curriculum is as follows:
+Term 1A (Fall) 
+
+CHE 102 Chemistry for Engineers
+CIVE 104 Mechanics 1
+COMMST 191/ENGL 191 Communication in the Engineering Profession 
+GEOE 100/ENVE 100 Environmental and Geological Engineering Concepts
+GEOE 115/CIVE 115/ENVE 115 Linear Algebra
+MATH 116 Calculus 1 for Engineering
+
+
+Term 1B (Spring)
+
+CIVE 105 Mechanics 2
+GEOE 121/CIVE 121/ENVE 121 Computational Methods
+GEOE 123/AE 123/CIVE 123/ENVE 123 Electrical Circuits and Instrumentation
+GEOE 153/CIVE 153/ENVE 153 Earth Engineering
+MATH 118 Calculus 2 for Engineering 
+
+
+Term 2A (Winter) 
+
+EARTH 238 Introductory Structural Geology
+GEOE 223/ENVE 223 Differential Equations and Balance Laws
+GEOE 224/ENVE 224 Probability and Statistics
+GEOE 280/ENVE 280 Fluid Mechanics
+GEOE 298 Seminar 
+Approved elective
+
+
+Term 2B (Fall) 
+
+CIVE 204 Solid Mechanics 1
+EARTH 231 Mineralogy
+EARTH 235 Stratigraphic Approaches to Understanding Earth's History
+EARTH 260 Introductory Applied Geophysics 
+GEOE 221/CIVE 221 Advanced Calculus
+GEOE 299 Seminar
+WKRPT 200 Work-term Report 
+Approved elective
+
+
+Term 3A (Spring) 
+
+EARTH 232 Introductory Petrography
+EARTH 458 Physical Hydrogeology
+EARTH 458L Field Methods in Hydrogeology
+GEOE 353/CIVE 353 Geotechnical Engineering 1
+GEOE 392/CIVE 392/ENVE 392 Economics and Life Cycle Cost Analysis 
+GEOE 398 Seminar
+WKRPT 300 Work-term Report
+Approved elective
+
+
+Term 3B (Winter)
+
+EARTH 333 Introductory Sedimentology
+EARTH 390 Methods in Geological Mapping (see Note)
+EARTH 437 Rock Mechanics
+EARTH 438 Engineering Geology
+ENVE 382 Hydrology and Open Channel Flow
+GEOE 399 Seminar 
+Approved elective
+
+Note: EARTH 390 is offered after winter term exams are finished in April. It is two weeks long, finishing before the spring term begins. Additional field trip fees will apply.
+
+Term 4A (Fall) 
+
+GEOE 354/CIVE 354 Geotechnical Engineering 2
+GEOE 400 Geological Engineering Design Project 1
+GEOE 498 Seminar
+WKRPT 400 Work-term Report
+Three approved electives
+
+
+Term 4B (Winter)
+
+GEOE 391/ENVE 391 Law and Ethics for Environmental and Geological Engineers 
+GEOE 401 Geological Engineering Design Project 2
+GEOE 499 Seminar
+GEOE 554/CIVE 554 Geotechnical Engineering 3
+Two approved electives
+
+
+Electives
+Students are responsible for selecting their own combination of electives, in keeping with their ultimate career objectives after graduation. The combination must satisfy the requirements of the Department of Civil and Environmental Engineering (CEE). This includes having to meet minimum requirements in mathematics, natural sciences, engineering sciences, engineering design, and complementary studies.
+Exceptions to the electives and requirements listed in the following sections (and links) require approval of the Geological Engineering director, or Civil and Environmental Engineering associate chair, undergraduate studies. Some courses of interest may require prerequisite knowledge that is not part of the core curriculum in Geological Engineering. Students may require extra courses or may need to seek enrolment approval from the course instructor if the prerequisites have not been satisfied.
+Complementary Studies Electives
+Students are required to complete three Complementary Studies Electives (CSEs) from the Complementary Studies Course Lists for Engineering:
+
+One course from List A
+One course from List C 
+One course from List A, C, or D
+
+Technical Electives
+Students are required to complete six technical electives (TEs) by choosing from the lists provided below. Note that the offering of these courses is contingent upon sufficient demand and/or available teaching resources. There may be courses added and changes made to the content. Special Topics Courses (GEOE 495 and GEOE 497) are offered as resources and faculty availability permit. Further information is available from the CEE Undergraduate Office or CEE website.
+
+CHE 514 Fundamentals of Petroleum Production
+CIVE 205 Solid Mechanics 2
+CIVE 303 Structural Analysis
+CIVE 306 Solid Mechanics 3
+CIVE 310 Introduction to Structural Design
+CIVE 332 Civil Systems and Project Management
+CIVE 375 Environmental Engineering Principles
+CIVE 422 Finite Element Analysis
+CIVE 460/ME 574 Engineering Biomechanics
+CIVE 507 Building Science and Technology
+CIVE 542 Pavement Structural Design
+EARTH 221 Introductory Geochemistry
+EARTH 331 Volcanology and Igneous Petrology
+EARTH 332 Metamorphic Petrology
+EARTH 342 Geomorphology and GIS Application
+EARTH 421 Advanced Geochemistry
+EARTH 435 Advanced Structural Geology
+EARTH 439 Flow and Transport Through Fractured Rocks
+EARTH 440 Quaternary Geology
+EARTH 444/BIOL 462 Applied Wetland Science
+EARTH 456 Numerical Methods in Hydrogeology
+EARTH 459 Chemical Hydrogeology
+EARTH 460 Geophysical Data Analysis
+EARTH 461 Near-Surface Geophysics
+EARTH 471 Mineral Deposits
+ENVE 383 Advanced Hydrology and Hydraulics
+ENVE 573 Contaminant Transport
+ENVE 577 Engineering for Solid Waste Management
+ENVE 583/CIVE 583 Design of Urban Water Systems
+GEOE 495 Design Intensive Special Topics in Geological Engineering
+GEOE 497 Special Topics in Geological Engineering
+ME 559 Finite Element Methods
+
+Specializations
+The Faculty of Engineering recognizes three specializations with the Geological Engineering BASc degree. Students who satisfy the specialization requirements (courses and grades) will have the specialization designation shown on their transcript and diploma. Specializations are intended to recognize success in a concentration of electives within the Geological Engineering degree specification. In other words, specializations focus the selection of electives required for the base degree and do not require extra courses.
+Each specialization requires students to select TEs with a common theme. Students are responsible for meeting the TE requirements of the Geological Engineering degree when pursuing a specialization. Each specialization requires the successful completion of a minimum number of TEs specified by the specialization with a minimum average of 60%. Students must declare a specialization for it to be recognized as part of their degree and appear on the transcript and diploma.
+The specialization course requirements are provided below. 
+Geology Specialization
+The Geology Specialization requires:
+
+EARTH 221 Introductory Geochemistry
+EARTH 471 Mineral Deposits 
+Minimum of two TEs from the list below
+    
+EARTH 331 Volcanology and Igneous Petrology 
+EARTH 332 Metamorphic Petrology 
+EARTH 342 Geomorphology and GIS Application 
+EARTH 421 Advanced Geochemistry
+        
+EARTH 435 Advanced Structural Geology
+        
+
+
+
+Hydrogeology Specialization
+The Hydrogeology Specialization requires:
+
+EARTH 221 Introductory Geochemistry 
+A minimum of three TEs from the list below
+    
+EARTH 342 Geomorphology and GIS Applications
+EARTH 421 Advanced Geochemistry
+EARTH 439 Flow and Transport Through Fractured Rocks
+EARTH 440 Quaternary Geology
+EARTH 444/BIOL 462 Applied Wetland Science
+EARTH 456 Numerical Methods in Hydrogeology
+EARTH 459 Chemical Hydrogeology
+EARTH 460 Geophysical Data Analysis
+EARTH 461 Near-Surface Geophysics
+ENVE 383 Advanced Hydrology and Hydraulics
+
+
+
+Soil, Rock and Structures Specialization
+The Soil, Rock and Structures Specialization requires:
+
+CIVE 205 Solid Mechanics 2 
+A minimum of three TEs from the list below
+    
+CIVE 303 Structural Analysis
+CIVE 306 Solid Mechanics 3
+CIVE 310 Introduction to Structural Design
+CIVE 422 Finite Element Analysis or ME 559 Finite Element Methods
+CIVE 542 Pavement Structural Design
+EARTH 435 Advanced Structural Geology
+ENVE 383 Advanced Hydrology and Hydraulics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Registrar
+University of Waterloo
+Ira G. Needles Hall
+200 University Avenue West
+Waterloo, Ontario, Canada N2L 3G1 
+519-888-4567
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

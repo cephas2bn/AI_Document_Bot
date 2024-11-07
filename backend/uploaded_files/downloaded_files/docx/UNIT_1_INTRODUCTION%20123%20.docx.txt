@@ -1,0 +1,479 @@
+UNIT: 1    INTRODUCTION
+
+GEOLOGY (in Greek, Geo means Earth, Logos means Science) is a branch of science dealing with the study of the Earth.  It is also known as earth science.  The study of the  earth as a whole, its  origin, structure, composition and the  nature of the processes  which have  given rise    to its  present position is called as geology.    Geology  comprises  the  following  branches: 
+
+1.  Crystallography
+2.  Mineralogy
+3.  Petrology
+4.  Geophysics
+5.  Geochemistry
+6.  Structural Geology
+7.  Stratigraphy
+8.  Physical Geology
+9.  Geomorphology
+10. Paleontology
+11. Hydrogeology
+12. Engineering Geology
+13. Photo Geology
+14. Economic Geology
+15. Mining Geology
+
+
+Crystallography:   The study of the characters of   crystals is known as crystallography.  Crystals are bodies bounded by  flat faces ( surfaces), arranged  on a definite plane due to  internal  arrangements of atoms. 
+Mineralogy:   The study of the characters of   minerals  ( eg:  quartz, pyroxene, amphibole, mica, chlorite, garnet) is  known as  Mineralogy.    A mineral is a naturally occurring homogeneous substance, inorganically formed  with a definite chemical  composition, with a certain physical properties and crystalline  structures. 
+Note:  Coal, oil etc  are  considered as minerals THOUGH they arises by organic matter under  exceptional  conditions . 
+Petrology:  The study of  rocks in all their  aspects  including  their  mineralogies,  textures,  structures (systematic  description  of  rocks  in hand specimen and thin  sections);   origin  and their  relationships  to other  rocks. 
+Geophysics:    The section of the earth  which include the structure, physical conditions and evolutionary history of the earth as a whole. 
+Geochemistry:  The study of  chemical composition of  minerals and rocks of the earth. 
+Structural Geology  is the study of  rock structures such as folds that  have resulted from movements and deformation of the  earth’s  crust.  
+Stratigraphy: The study  of the  stratified rocks  especially  their sequence in  time,   the character of the rocks and correlation of beds at  different  localities. 
+Physical  Geology: It  deals  with the geological  processes which bring about changes in the crust and upon the surface of  the  earth.  It also  deals with the  surface  features of the  earth       ( land forms )  or  its  topography
+Geomorphology:  The  description  and interpretation of  land  forms.
+Palaeontology  is  the study of ancient  life,  determination  of environment, evolution of organisms  etc..
+Hydrogeology--  the  study  of  the geological  factors relating to earth’s water.
+Mining  Geology deals with  the method of mining of rocks  and mineral deposits on earth’s surface and subsurface.
+
+ENGINEERING  GEOLOGY:   the   principles and methods of  geology is adopted for the purpose of  civil engineering operations. Broadly speaking,  engg  geology has two divisions: 
+The  study of  raw materials
+The study of  the  geological  characteristics  of the  area  where  engineering operations  are to be  carried out such as Groundwater  characteristics; the load bearing  capacity of  rocks; the stability of  slopes; excavation; rock mechanics  etc for  civil  engineer.
+SCOPE OF GEOLOGY:  In Civil Engineering  
+
+Geology provides necessary information about the construction materials at the site  used in the construction of buildings, dams, tunnels, tanks, reservoirs, highways and bridges. 
+
+Geological information is most important in planning stage, design phase and construction phase of an engineering project.
+
+Geology is useful to know the method of mining of rock and mineral deposits on earth’s surface and subsurface.
+
+Geology is useful  for supply, storage and  filling up of reservoirs with  water.
+IMPORTANCE OF  GEOLOGY  FROM CIVIL  ENGINEERING POINT OF   VIEW
+Before constructing roads, bridges, tunnels, tanks, reservoirs and buildings, selection of  site is important from the point of stability of foundation. 
+
+Geology provides a systematic knowledge of construction materials and  their properties.
+
+The knowledge about the nature of the rocks  in tunneling and  construction of  roads. 
+
+The foundation problems of dams, bridges and buildings are directly related with geology of the area where they are to be built.
+The knowledge of ground water is necessary in connection with excavation works, water supply, irrigation and many other purposes
+The knowledge of Erosion, Transportation and Deposition (ETD) by surface water helps in soil conservation, river control.
+
+Geological maps and sections help considerably in planning many engineering projects.
+
+If the geological features like faults, joints, beds, folds  are found, they  have to be suitably treated. Hence, the stability of the rock structures  is  important.
+
+Pre-geological survey of the area concerned reduces the cost of planning  work.
+Minerals,  Rocks and  soils  constitute earth materials.    They play a vital role in the site evaluation and operations in civil  engineering  practice. 
+Whether  it is  tunneling,  hydro-electric  projects,  ground water development,  foundation for  structures,  study of slope stability  etc..  a  basic understanding of the earth materials  is  essential.
+Thus,   study of  minerals,  rocks and soils forms the first  step in civil engg point of view.   Hence, a civil engineer should know the introduction of  Geology and its  branches and  importance of a few  branches  such as  Physical  Geology, Petrology; Structural  Geology  and  so on ……
+IMPORTANCE OF  PHYSICAL GEOLOGY, PETROLOGY & STRUCTURAL GEOLOGY
+
+IMPORTANCE OF PHYSICAL  GEOLOGY: It  deals  with the geological  processes which bring about changes in the crust and upon the surface of  the  earth.  It also  deals with the  surface  features of the  earth       ( land forms )  or  its  topography.  The  earth  is  concentrically  divided into a number  of  spheres  viz.,                                                        (1) Atmosphere  ; (2)  Hydrosphere  and  (3)  Lithosphere .
+
+The  outermost sphere is  Atmosphere  which consists of  several gases  and  vapours and envelopes the  earth.  Atmosphere is essentially a mixture of N2  and  O2  with smaller quantities  of  vapour,  CO2  etc… Geologically   atmosphere  is important as  the medium of climate and  weather.  Hydrosphere  includes  the natural  waters of the  earth  ie.,  oceans,  seas, lakes,  rivers,  streams and underground  water.  Lithosphere is the outer part of the earth’s crust  consisting of  rocks and minerals.
+
+The  geological processes  include Denudation,  Deposition,  Earth movements, Igneous activity and  metamorphism. 
+Denudation:   The sum of the processes which result in the general lowering  of the land surfaces or when erosion takes place, fresh country rock surfaces will be exposed and this process is called  DENUDATION.  Denudation consists of  weathering,  transportation and  erosion.
+Weathering is the process by which rocks are broken down and decomposed by the action of external  agencies such as  wind, rain, temperature  changes.  Weathering is the initial stage in the  process of  denudation. 
+Transportation is the main agency by which materials are moved by means of  Gravity, running water  ( rivers,  streams );  Ice  (  glaciers );  Wind  etc..
+Erosion:    Mechanical disintegration or  chemical decomposition of rocks and  their  subsequent displacement is called  as  erosion  or  erosion   is the destructive  process due to the effect of the transporting agents.  The chief agents  of  erosion are running  water, wind    etc.. 
+Deposition :  The  material  is transported mechanically  and deposit  (eg:  sand ).  
+Earth movements  include the  uplift  and  depressions  of  land  areas &  sea  floors.
+Igneous activity  includes emission of lavas,  gases,  other volcanic products etc
+Metamorphism:    The  process by which changes  are brought about  in  rocks within  the  earth’s  crust  by the  agencies  of  Heat, Pressure  and  Chemical  fluids.
+Thermal  metamorphism		:  heat   alone acts 
+Dynamic metamorphism		:  involves stress to break up the rocks
+Regional/Dynamothermal metamorphism:   Both  heat & pressure  involves 
+Retrograde  metamorphism    : produces  lower grade metamorphic  rocks 
+Auto  Metamorphism              : chemical adjustment in newly solidified igneous rocks, brought about by a decrease in temperature .
+
+Geological works of Rivers
+
+A river is one of the major   geological agent  which carries out  its work.   The work is mainly divided into three stages, namely
+River Erosion
+River Transportation
+River Deposition
+River Erosion: Erosion means mechanical disintegration   or chemical  decomposition of rocks  are transported from  the  site with  the  help of  natural  agencies  like  wind  and running  water  (or)  subsequent displacement.   River is a powerful eroding agent and carries out its work in different ways such as hydraulic  action, solution and abrasion / attrition etc.
+Hydraulic action:  The physical breakdown of rocks take place naturally and greater the movement greater will  be the erosion. In the initial and youth stages, the rivers acquire more considerable kinetic energy.  When such water dashes against rock forcefully, it will break and this will be more effective if
+
+The rocks are already weathered.
+They are porous and are not well cemented.
+Those posses fractures, cracks etc.
+
+Solution:  This  process,   is a  part of  hydraulic action which  involves  only chemical  decay of  rocks.  This is an  invisible  process and very  effective  under  favourable  conditions.  
+
+Attrition:  This is  a mechanical weathering process.  When the rock fragments hit the rocks which are already exposed,   abrasion take place. Thus the rock fragments during abrasion undergo wear and  tear which is called attrition.
+During transportation, heavier and larger materials move slowly while finer and lighter material move fast..  When attrition take place the angular edges disappear and spherical,   ellipsoidal stones etc are formed after a long journey.  
+
+River  Transportation:   A  river  transports  its  material  physically  as well as in a solution form.  The transport  system is divided  into three  groups. 
+ Bed  load    comprises  heavier  particles of sand,  pebbles,  gravels etc..  which  are  transported  mainly  by their  rolling,  skipping,   along the  bottom of stream.   
+
+ Suspended load   consists  of  silt,  fine  sands,  clay  etc.. and such   load  is  carried by river  in its  body of  water  in  suspension.  As the  river  is  moved,  the  load  is also  carried  along with  it.  Thus  load is  transported  continuously   without  break  till conditions  are  favourable.    This type of  natural  suspension and separation  of  sediments  account  to  their size is called  Sorting. 
+
+ Dissolved  load:  Material  is  transported  in a  solution condition.  The  ability  to  transport  the sediments is influenced  by  river  velocity,   density etc.. 
+River  Deposition  is the  last  phase of  geological work of  a  river.  Among the  different  kinds of  river  deposits, a few  are listed below:  
+Alluvial  cones  and  fans:    River  sediment  is  known as  alluvium.    If  the  deposit  is  spread   over  a small  area  but  has  a  relatively  steep  slope,  it is  called  an  alluvial  cone.   On the other  hand,  if the  deposit   is  spread    over a  large  area  and  has  a  gentle  slope,  it is  called  an  alluvial  fan. 
+Placer deposits: The  placer  deposits  are  characteristically  composed  of  heavier  metals  such  as  Gold,  Platinum,  Chromite,  magnetite,  Rutile,  Ilmenite,  Monazite  etc. which  are     commonly  economic  minerals. 
+Eg: Rand placer  deposit of South Africa is famous for gold.    
+
+Delta  deposits:    Most of the  rivers  reach  this stage  just  before they  merge  with the sea.   Rivers  Ganga and  Brahmaputra  have  built up  the best  deltaic  regions  of the  world.  Deltas  are  very  fertile and valuable for  agriculture.   
+Natural  levees.      During the time of  floods,   the  river  carries  a  very  large  scale of  river dumps   along  its  course  on either side  which are known as   natural  levees.   Eg  silt,  clay .
+
+
+MEANDER  DEVELOPMENT
+A meander in general is a bend in a  (moving with smooth twists & turns) water coarse. A  meander  bend  is  formed  when  the  moving  water in  a  stream  erodes  the  out  banks  and  widens  its  valley.  If the river encounters any  obstacle, it shall not have the capacity to uproot it and therefore it takes a diversion and continues its downward coarse.. This is responsible for the formation of deposits known as placer deposits. 
+By virtue of its relatively weak condition the river compulsorily undergoes a number of curves or bends which makes its path zig-zag. These bends are called meanders and the phenomenon is known as Meandering.  Meandering is therefore a characteristic feature of the mature stage. 
+In due course of time these bends become more and more acute due to deposition of sediments along the inner curve and erosion along the outer curve. Ultimately under favourable conditions such as floods, these loops are cut off from the main course of the river. Such cut off bodies of water which are curved in plan  are called cut off lakes or horse shoe lakes or ox bow lakes. 
+Delta:   A delta is a landform that is formed   at the mouth of a river where  the  river  flows into an  ocean, or  sea.  Deltas are formed from the deposition of the sediment carried by the river as the flow leaves the mouth of the river. Over long periods of time, this deposition builds the characteristic geographic pattern of river delta.
+Development of delta: The favourable conditions for the formation of delta are:  
+The river should have large amount of load.
+The river should have totally exhausted its energy at the time of its merger with the sea.
+The oceans at the mouth of the river should not be turbulent otherwise as & when loose sediments are deposited they are washed away by the waves and currents of the sea.
+During delta formation the prevailing conditions will be such that the river will be shallow and will change its direction and velocity frequently. Under such conditions deltas develop a typical structure known as cross bedding. 
+
+The delta will have gently incline bottom layers of fine sediments known as bottom set beds. These are overlain by steeply inclined middle layers of coarse sediments known as forest beds. Above these again gently dipping layers of the mixture of finer and coarser sediments occur. They are known as top set beds. Though all these three sets of beds are inclined towards the sea, they differ in the amount of inclination and hence they are not parallel. Such a peculiar bedding phenomenon is known as cross bedding.  
+
+
+
+
+
+
+
+VALLEY DEVELOPMENT
+
+VALLEYS:  In geology, a valley  is a depression with predominant extent in one direction. A very deep river valley may be called a canyon or gorge.  The terms U-shaped and V-shaped are descriptive terms of geography to characterize the form of valley. Most valleys belong to one of these two main types or a mixture of them, at least with respect of the cross section of the slopes or hills. 
+
+FORMATION AND DEVELOPMENT:  A valley is an extended depression in the Earth's surface that is usually bounded by hills or mountains and is normally occupied by a river or stream. 
+Valleys are one of the most common landforms on the Earth and they are formed through erosion or the gradual wearing down of the land by wind and water. In river valleys for example, the river acts as an erosional agent by grinding down the rock or soil and creating a valley. The shape of valleys varies but they are typically steep-sided canyons or broad plains, however their form depends on what is eroding it, the slope of the land, the type of rock or soil and the amount of time the land has been eroded.
+There are three common types of valleys which include V-shaped valleys, U-shaped valleys and flat floored valleys.
+V-SHAPED VALLEYS/ RIVER VALLEYS:  A  V-shaped valley, sometimes called a river valley, is a narrow valley with steeply sloped sides that appear similar to the letter "V" from a cross-section. They are formed by strong streams, which over time have cut down into the rock through a process called down cutting. These valleys form in mountainous and/or highland areas with streams in their "youthful" stage. At this stage, streams flow rapidly down.
+An example of a V-shaped valley is the Grand Canyon in the Southwestern United States. After millions of years of erosion, the Colorado River cut through rock of the Colorado Plateau and formed a steep sided canyon V-shaped canyon known today as the Grand Canyon.
+The original natural  large river valleys of the world such as Nile, Ganges, Amazon, Mississippi etc.																				
+
+U-SHAPED VALLEYS/ GLACIAL VALLEYS:  A U-shaped valley is a valley with a profile similar to the letter "U." They are characterized by steep sides that curve in at the base of the valley wall. They also have broad, flat valley floors. U-shaped valleys are formed by glacial erosion.  U-shaped valleys are found in areas with high elevation and in high latitudes, where the most glaciation has occurred. Large glaciers that have formed in high latitudes are called continental glaciers or ice sheets, while those forming in mountain ranges are called alpine or mountain glaciers.
+Due to their large size and weight, glaciers are able to completely alter topography. This is because they flowed down pre-existing river or V-shaped valleys during the last glaciations and caused the bottom of the "V" to level out into a "U" shape as the ice erode  the valley walls, resulting in a wider, deeper valley. For this reason, U-shaped valleys are sometimes referred to as glacial troughs.
+One of the world's most famous U-shaped valleys is Yosemite Valley in California. It has a broad plain that now consists of the Merced River along with granite walls that were eroded by glaciers during the last glaciations.
+
+
+FLAT FLOORED VALLEYS:  The third type of valley is called a flat-floored valley and are formed by streams, but they are no longer in their youthful stage, and are instead considered mature.  The valley floor gets wider, because of  the stream gradient             (moderate or low),  the river begins to erode the bank of its channel instead of valley walls.  
+
+Over time, the stream continues to meander and erode the valley's soil, widening it further. With flood events, the material that is eroded and carried in the stream is deposited which builds up the floodplain of  the valley. During this process, the shape of the valley changes from a V or U shaped valley into one with a broad flat valley floor. An example of a flat-floored valley is the Nile River Valley. 
+`
+
+
+
+IMPORTANCE OF PETROLOGY:  Rocks   are divided  according to their  origin into 3 groups viz., IGNEOUS, SEDIMENTARY  and METAMORPHIC.  The study of  rocks in all their  aspects  including  their  mineralogies,  textures,  structures;  origin  and their  relationships  to other  rocks plays a  major role in civil engineering operations.  
+Igneous  Rocks  are  formed  when hot molten rock material  called  magma solidifies  (or) igneous  rocks form  through  cooling and crystallization of molten  rock  material.  If the molten material is  below  the  Earth’s  surface,  it is called  magma or else it comes out  about  the  surface , it is known as  lava.
+The molten material of rock is semi-solid in nature and consists of  liquid , gas and earlier formed  crystals.  The volatiles  ( elements and compounds  which are  dissolved in a silicate melt )  are  dominantly  water vapour,  CO2  and elements like  O2,  Si,  Al, Ca,  Na,  K,  Fe and Mg.
+Sedimentary  Rocks  are  formed due to weathering  and  erosion of the pre-existing rocks.  Sedimentary  rocks are classified on the basis of  the character of the material and process which leads to its  deposition.  In addition, the depositional  environment plays a major  role in the formation of sedimentary  rocks  ie.  deposited  the material  by wind action  or  water  action.  
+
+
+Arkoses  are indicative of  erosion under  arid  conditions  and  rapid  burial  conditions whereas  Greywacks  are  a  common  rock  type of  geosynclines
+Metamorphic  Rocks  are  formed   through  the  transformation of  the  pre-existing rocks under increased temperature  and  pressure  conditions.  This  process of  transformation  is known  as  metamorphism. Formation of metamorphic  rock  from a pre – existing  ( igneous  or  sedimentary ) rock is controlled by the following  parameters:
+		Composition of the  rock ;  	Temperature  ;  Pressure ; 
+		Chemically active  fluids   ( common fluid  is  water  )
+		Foliation  ( under  differential stress  conditions ) 
+		Non-foliation  ( under  hydrostatic  stress ) 
+Examples  for  metamorphic  rocks  are: 
+
+Among the igneous  and metamorphic rocks;  Granites;  Quartzites;  Gneisses  and  Basalts  are  suitable for construction of a dam.  Pure sandstones have  good compressive strength  but presence of  inter layers of shales  decrease  its  strength.
+Limestones usually contains cavities in them.  Adequate treatment in terms of grout – filling of the cavities  is to be taken in such  cases.  
+
+Schists,  Phyllites,  Shales,  Siltstones and clay stones  are  relatively  incompetent and need proper  attention.  Clay , if  present  is totally excavated since  clay is incompetent as it swells on saturation with water. Contacts  of  igneous intrusive        (dyke) and the host  rocks often are fractured and  jointed  and hence such site is studied with proper  care. 
+Eg:  Nagarjuna sagar dam:.   Contact  of   a dolerite dyke with the host rock ( granite gneisses ),  a weak zone was identified along the contact.  Excavation followed by  back – filling with grout was  adopted. 
+The goal is to give:
+
+1) A meaningful sampling of the approaches and philosophy behind petrologic studies for stability of civil engineering constructions;
+2) An appreciation for the diversity, complexity and geological significance of the rocks that  comprise the earth for long durable constructions;
+3) A basis for understanding the importance of petrology in the civil engg. constructions  and 
+4) To provide  an opportunity to further development for particular construction.
+
+IMPORTANCE OF STRUCTURAL GEOLOGY:  Geological structures  are the  evidences  of  crustal  deformation. Depending on the process involved,  the following various types  of structures develop in the  geological  formations. 
+FOLDS:  Folds  are  best  displayed by stratified  formations   such as  sedimentary  or  volcanic  rocks  or  their  metamorphosed equivalents.  Folds can be seen in Gabbro,  Granite  gneiss,  iron formations etc..
+FAULTS:  When formations subjected to  stress deform resulting in the development of fractures  or  a  fracture in rock along which  there has been an observable amount of  displacement can be seen. 
+JOINTS:  Joints  are  fractures or  openings in the rock  formations.  These   differ  from the faults  in that  there is no displacement along them. 
+UNCONFIRMITIES:  An unconformity represents a long interval  of  non – deposition  during which  erosion takes  place.   
+The earth’s crust is broken into 13 major plates which are in constant movement            ( 1 to 2 cm per year )  due to the convection currents in the interior of the  earth. The  movements  of  tectonic plates  in the earth crust  affect the  solid  rocks  which cause  folds; faults, joints  etc…  study of  these  aspects  are very important to a civil engineer in construction projects.  Strike  and  dip of  beds  or formations             ( layers )  or  joints  also important for site location. 
+Importance of  geological  structures in Civil engineering  operations:
+The formations at the dam site should be dipping towards upstream or horizontal.  This  will counter the seepage compared the situation where the  formations  dip in the downstream direction. 
+Foundations  will have greater stability as the load is normal to the horizontal formations  or  formations with low  dips. 
+Presence  of  faults in the formations  is not suitable for a dam site.
+Extensive joints in the rocks also threatens the safety of the structure
+Presence of folds ( anticlinal or  synclinal structures ) in the foundation material contributes to the seepage problem.  
+
+A dam is a barrier across flowing water that obstructs, directs or slows down the flow, often creating a reservoir, lake or impoundments. Most dams have a section called a spillway or weir over which  water flows, either intermittently or continuously. 
+Dam failures are comparatively rare, but can cause immense damage and loss of life when they occur.  Common causes of dam failure include:
+Spillway design error (South Fork Dam)
+Geological instability caused by changes to water levels during filling or poor surveying (Malpasset).
+Sliding of a mountain into the dam lake; in the case of Vajont Dam, filling the reservoir caused geological failure in valley wall (Lawn Lake Dam, Val di Stava )
+Extreme rainfall (Shakidor Dam)
+Human, computer or design error (Dale Dike Reservoir,)
+Internal erosion, especially in earthen dams.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAUSES FOR FAILURE OF  DAMS  ------    CASE  STUDIES
+
+The most common causes of dam failures includes  the following considerations:
+
+1. Failure due to earthquake
+2. Failure due to landslide
+3. Failure due to chemical weathering of foundation rocks ( Alkali-Silica Reaction ,
+    Sulfate & Chloride on concrete)
+4. Failure due to physical weathering (temperature variations, or by heavy rain, or by
+    physical breaking).
+5.Failure due to increase of fractures in geological structures (fault, folds &     unconformities).
+
+
+Huge concrete block from the west abutment of the dam . The block is approximately 63 feet long, 30 feet high, and 54 feet wide
+
+
+Hales Bar Dam in 1949, after various improvements
+
+
+
+3. Kaila Dam, Gujarat, India:  The Kaila Dam in Kachch, Gujarat, India was constructed during 1952 - 55 as an earth fill dam with a height of 23.08 m above the river bed and a crest length of 213.36 m. The storage of full reservoir level was 13.98 million cubic mts. The foundation was made of shale. The spillway was of ogee shaped and ungated. The depth of cutoff was 3.21 m below the river bed. Inspite of a freeboard allowance of 1.83 m at the normal reservoir level and 3.96 m at the maximum reservoir level the energy dissipation devices first failed and later the embankment collapsed due to the weak foundation bed in 1959.
+
+
+4 . Kodaganar Dam, Tamil Nadu, India: This dam  was constructed in 1977 on   Cauvery River as an earthen dam with regulators.   The dam was 15.75 m high above the deepest foundation, having a 11.45 m of height above the river bed. The storage at full reservoir level was 12.3 million cubic mts.   The dam failed due to overtopping by flood waters which flowed over the downstream slopes. There was an earthquake registered during the period of failure although the foundation was strong. Water gushed over the rear slopes, as a cascade of water was eroding the slopes. Breaches of length 20 m to 200 m were observed. It appeared as if the entire dam was overtopped and breached.
+
+
+
+5. Tigra Dam ( Madhya Pradesh, India, 1917 ):  This was a  masonry  gravity dam of 24 m height, constructed for the purpose of water supply. A depth of 0.85 m of water overtopped the dam over a length of 400 m. This was equivalent to an overflow of 850 m3s-1(estimated). Two major blocks were bodily pushed away. The failure was due to sliding. The dam was reconstructed in 1929.
+
+List of major dam failures
+
+WEATHERING OF ROCKS -    IT’S EFFECT & IMPORTANCE     w r t 
+DAMS, RESERVOIRS, TUNNELS
+
+The process by which rocks are broken down and decomposed by the action of  external agencies such as wind, rain, temperature changes etc is called  as  weathering..  (or)  weathering  is  a  process  involving disintegration and  decomposition of  rocks.  The  disintegrated  and  the altered  materials stay  at  the  site of  formation.  If  these  materials  are  transported  from  the  site  with  the  help  of  natural agencies such  as  wind, running water etc,  the  process  is  called as erosion.   Weathering  is  categorized as  a  mechanical, chemical, biological.. 
+Mechanical  weathering:   In mechanical weathering,  the  process  involves  only  fragmentation or  break down  of  the  rock  into  smaller  fragments / pieces.  In  nature,  the  physical  breaking  of  rocks  are  caused  by  several  processes.  Waterfalls,  landslides  during their fall  cause  extensive  breakdown of  rocks.  Thus  gravity  contributes  to  mechanical disintegration  of  rocks.  However, all  the  processes  involve widening  of  the  fractures, resulting in  the  detachment  of  blocks  surrounded  by  the  weak  planes.  The  different   types  of  processes in mechanical  weathering  are:
+Frost wedging:  The presence  of  water in  the  cracks of  the  rocks freezes  during  the  night  time  and  melts  during the  day time.  Freezing  of  water  involves  an  increase  in  the  volume because of  which  the  walls  of  cracks  are  wedged  ultimately  resulting  in  the  detachment  blocks  surrounded  by  the  weak  planes. 
+Expansion  and  contraction  process:  Solar  radiation  causes  heating, which  results in  thermal  expansion  during  day  time and drop  in  the  temperature  during  the  night  time  causes  contraction.  The  expansion  and  contraction  are  confined  only  to  the  surface  layers  of  the  rock and results  often in  the  fracturing  and  detachment  of top  layers  of the  rocks. 
+Fracturing  through  pressure  releases:  Rocks at  depth  are  confined  under  high  pressures.  However,  if  the  rock  material  is  uplifted   due  to  tectonic  processes   to  relatively  lesser  depths,  it  is  subjected  to   lesser  pressure  conditions.  So,  the  release  of  pressure  leads  to  the  deformation  of  rock  and  generates the  fractures.
+Effect  of  vegetation:  During  the  growth  of  vegetation  in  rocky  terrains,  the  roots penetrate into  the  existing  weak planes and  gradually the  cracks are  widened  leading  to  physical  breakdown  of  rock masses.   
+Mechanical or physical weathering involves the breakdown of rocks  through direct
+contact with atmospheric conditions, such as heat, water, ice and pressure.
+
+Chemical  weathering:   Chemical  weathering  involves  chemical  reactions  resulting  in  the  alteration  of  the  rock leading  to  the  formation  of  new alteration products.  Water is the best fluid that  directly  affects  rocks by  way  of  Dissolution;    Leaching  (making porous); Hydration;  Oxidation,   Hydrolysis  etc  
+
+Dissolution / Carbonation:  In  case  of   carbonate  rocks  such as  limestone,  dolomite,  marble  when  the  river  water  traverses in these  rocks;  carbonates  are  dissolved,  resulting  in the    reduction  of  their  sizes.  
+Surface  water  contain O2   and  its  combination  with  water  results  in  the  formation  of  carbonic  acid.  Production  of  carbonic  acid  lowers  the  pH, resulting in  the  attack some  of the minerals  which  are  present  in  the  rocks. 
+Leaching:    means  removable  of  soluble  content  from the  rocks  by  water.   Water  is the  powerful  leaching  agent  which  affects  leaching for the most of the    materials  when come in contact  with  water.    Eg:  laterite  is  a  porous  rock  and  very  weak  when compared to its fresh  parent  rock. 
+Hydration  is  the  process  where in   hydroxyl  molecules  are injected into the molecular  structures  of  minerals thereby  bringing about  the  decomposition of  minerals. 
+K2 Al2O3 6 SiO2   +    H2O + CO2                        K2CO3 + Al2O3 2 SiO2 2H2O + 4 SiO2 
+ (K – feldspars)           (Hydration)                                           (Kaoline)              (silica)    
+
+Due  to hydration process, anhydrous  pyroxenes  are  changed  over to  amphiboles while  Amphiboles  may  be  altered to  Biotite.  Biotite  change  over  to  Chlorite  whereas Anhydrite ( CaSO4 ) alters to  Gypsum ( CaSO4 2H2O) ) during hydration.  
+
+Oxidation:  The  decomposition  of  minerals  in  a  rock  during  chemical  weathering  is  brought  about  by O2  in  water.  For eg  pyroxene changes into  limonite because  of  oxidation through  the  following  reaction.
+4FeSiO3      +   O2 +   2H2O                             4 FeO (OH) +    4 SiO2
+(pyroxene)                                                         (limonite)          (silica)
+Pyrite ( FeS2) converts into Haematite  ( Fe2O3) during oxidation process 
+Hydrolysis:   In  case  of  decomposition of  minerals,  instead   of  water  molecule,  only  hydrogen  of  water  enters  into the  mineral  structure.  This is  called  hydrolysis.  
+                K  AlSi3 O8                 +       H+                         	        H AlSi3O8        +         K+                     
+          Orthoclase feldspars                 ion                           Silicic  acid              ion 
+In addition,   CO2; O2;  N2  of  atmospheric  gases  which  take  part in the  weathering of  rocks.
+Chemical weathering, involves the direct effect of atmospheric chemicals in the breakdown of rocks, minerals...
+Biological weathering  involves breakdown of rocks by living organisms  (Bacteria & fungi ).  Living organisms  release organic acids viz.,  Oxalic acid; Phenolic acid; Folic acid, Acetic  Acid,  Humic  acid  etc..  which cause  decomposition of  rocks.  Some  of  the  microorganisms   penetrate  into  mineral  crystals and  remove  specific  ions  from  the  inter  layers.  Eg:  removal of  K+   from mica layers by fungi is an example of this type.  
+Man  is also  responsible  for  unnatural  weathering of  rocks  for  construction of  buildings,  dams,  bridges  etc…
+
+Weathering effect over the properties of rocks:   
+
+Weathered  minerals  exhibit  change  in color intensity or different  colors.
+They will  be  less  compact, and hence their  specific  gravity will  be  less.
+Their  hardness  will  decrease so that the minerals  become softer and  weak.
+They  become  less  transparent  or tend  to  become  opaque.
+The  minerals loss  their  original  shine  and  exhibit  a  dull  luster. 
+Weathered minerals loose their internal cohesion & become easily powdered.
+Weathered rocks usually appear as brown,red & yellow colors on the  surface.  
+
+The  degree of  weathering is controlled by several  parameters.  These are: 
+
+Rock mass  characteristics:   The ultrabasic and basic  igneous rocks                    ( Peridotite, Dunite, Gabbro ) decompose  rapidly to acidic igneous  rocks  (Granite).
+Similarly,  carbonate  rocks weather  rapidly due to  chemical solvents.  Among the metamorphic  rocks,  quartzite is most stable  whereas  weathering of  schists  and phyllite  is  relatively  faster.  Rocks with folding and faulting undergo rapid weathering.  The  weak zones facilitate  mechanical and chemical weathering by natural  agencies.
+
+Climate:   It includes  temperature and rainfall.  In general, weathering is faster in regions with high  temperature and high  rainfall
+
+As  the temperature  increases the vibration of  atoms  and ions in the rock mineral structures are more ultimately leading to the development of  cracks. Rate of  chemical  weathering doubles with an increase  of  temp by 10o C. 
+Rainfall contributes to the  growth  of  organisms ( bacteria )  which produces CO2.           
+Relief:  If the topography is undulating and the slopes are  steep, the weathered  material erode continuously from the  site.  Consequently fresh surface of the rocks expose.  
+
+Time:  If the weathering has continued over a long period of time,  thick zone of  alteration develops. eg: Bauxite deposits results from  the  decay and  weathering of  aluminum bearing  rocks  often  igneous rocks. 
+
+
+
+
+IMPORTANCE OF WEATHERING 
+
+Weathering transports smaller  fragments, pieces etc after the process of weathering. Weathering initiates the erosion of rock, causing alterations in  minerals as well  as  in the surface layers.  Weathering is a process that applies major role of engineering mechanics, e.g. kinematics (study of bodies which are in  motion), dynamics  and fluid mechanics   to predict the mechanical behavior of erosion.  Together, soil and rock mechanics are the basis for solving many engineering geologic problems with references to dams,  reservoirs  and tunnels.
+
+Advantages of weathering from civil engineering point of view: 
+Weathering  produces  soil  which  is  vital  for  agriculture  and  for  the  production  of  agricultural crops.
+Weathering  makes rocks into porous and  permeable which  allow  the  movement  of  groundwater  in  case  of  hard  rocks  like  granites.
+Economic minerals  like  bauxite  deposits are  also  form  due  to  weathering.
+Oxidation of  chemical  weathering is  important  in  the  formation  of  some  ore  deposits particularly  sulphides. 
+
+Disadvantages  of  weathering from civil  engineering  point  of  view:
+Weathering  is  not  a  welcome  process,  because  it  reduces  the  strength,  durability and  good  appearance  of  rocks.
+Therefore, the  weathered  rocks  are  unfit  to  be  at  the  site  of  foundation in  case  of  civil  structures  like  dams  and  bridges. 
+Since weathered  rocks  are  characterized  by loose  characters ie  strength, durability etc, they  become  unfit  for  the  formation  of  road  metal or  as a  building  stone. 
+Weathered  rocks  are  being  weak,  therefore  unsuitable  for  tunneling.
+Occurrence  of  weathered  zone in  the  upstream  side  creates  silting  problem in  case  of  reservoirs  as  the  accumulation  of  rapid  silt  reduces  the  reservoir  capacity.
+Loose  boulders  due  to  weathering  along steep  slopes  may  turn  out  landslides  which  is  civil  engineering  hazard.  
+Engineering  classification of  weathered  rock  masses:  The  engineering  classification of  weathered rock masses  can be  categorized into  Qualitative and  Quantitative approached.
+Qualitative  approach is very useful  for the preparation of  weathering  maps for project sites in  civil  engineering practice. 
+The degree of  weathering in a rock mass is  arrived on the basis of  change in its  strength, alteration on its surface and  the development of  fractures.  The rock mass is categorized into 6 grades.  Table shows the grades of  weathering  in a  rock  masses :
+
+
+
+
+Quantitative approaches also reveals  the weathering  status, geodurability etc.. of rock masses.
+Based on ultrasonic velocities, Lliev (1967) classified the weathered rock masses as : C  =  (VF – VW / VF )   where  C  =  coefficient of  weathering
+	VF = velocity in  fresh rock  &  VW =  velocity in weathered  rock.
+
+This classification was proposed by Oliver by incorporating UNIAXIAL COMPRESSIVE STRENGTH ( UCS ) & SWELLING INDEX  (means the change in length on swelling to the original length of  sample ) for rock masses. 
+VLS=Very Low Strength; LS=Low Strength; MS=Medium strength; HS=High strength         
+
+                0.1            VLS                  LS     MS   HS          VHS 
+Swelling index     Very poor
+                               poor
+           0.001                                            good                                
+                             Mod poor
+         0.0001                        fair                 Excellent 
+                          1             10                          100  Uniaxial Compressive Strength ( MPa) 
+This method is essentially  meant for  assessing the weathered status of the rock mass for  TUNNELLING  OPERATIONS. 
+
+Effect  of  weathering  of  a common rock  GRANITE: 
+Among  different    rocks,  Granite ( an acidic  rock  )  is  one of the    most  abundant  rock  on  the   earth’s  surface.   Therefore,  it  will be  appropriate  to  analyse  the  process  of  weathering in  granite. 
+Granite  consists  of  quartz, feldspars ( orthoclase, plagioclase ),  and accessory minerals ( amphiboles, pyroxenes;  biotite / muscovite, magnetite / haematite, rutile, zircon, apatite, garnet..)
+During  the oxidation,  feldspars in granite converts into sericite and then to kaolinite thereby silica removed  from the  reaction  by  ground water.
+Feldspars                      sericite  ( mica )                            kaolinite ( clay )
+Quartz minerals remain unchanged whereas  muscovite or   biotite becomes  chlorite on decomposition.  Pyroxenes  ( augite / diopside ) decompose  and pass into hornblende or breakdown into chlorite. 
+The above changes due to weathering causes failure of civil construction projects and hence  the study of  weathering of  rocks  is important for any civil  project.
+Finally,  Geological considerations such as  Topography and geomorphology of the site, impact of  geological  structures;  Lithology of  the  formations ;  Identification of  weak zones  in addition to weathering of rocks  plays an important role in civil engineering constructions. 
+
+Effect  of   weathering   on  other  rocks: On the  other  hand,  the  decomposition   of  basic  rocks   (basalt, gabbro)  which  contain ferro magnesium  silicates  produce  soluble  materials  (clay);  iron-oxides;  less silica.   
+Disintegration  (mechanical  weathering) produce rough  angular    materials  which  may    from  form  on the  mountain  top   or  accumulate  at the   foot  hills.   These  loose  accumulations  are  called  TALUS  or  SCREE.
+The finest  particles  are  usually  removed  from  a  scree  by  percolating  water and  the fine angular  fragments    get  cemented.  So,  a  cemented  scree is known  as  BRECCIA.  CHERT  and  FLINT   also  may  occur  in residue  when  limestones  undergo  weathering.  
+
+
+
+
+
+
+
+
+
+
+
+MULTIPLE  CHOICE  QUESTIONS  FROM  UNIT – 1
+
+1. Hydrogeology is a branch of geology deals with ground water 		[C ] 
+A) Occurrence B) Movement C) A and B D) None 
+
+2. Which one of the following is not an endogenous geological aspect 	[B ] 
+           A) Volcanoes B) Rivers C) Earthquakes D) Ground Water 
+
+3. During youth stage of river formation, it is capable of causing 		[D ] 
+           A) Erosion B) Local deposition C) Deltas D) Waterfalls 
+
+4. Hardness of Quartz is 								[C ] 
+A) 2 B) 5 C) 7 D) 8 
+
+5. Feldspars may be described as aluminum silicates of 			[D ] 
+A) Sodium B) Calcium C) Potassium D) All of the above 
+
+6. The crust of the earth is called 							[C ] 
+A) Atmosphere B) Stratosphere C) Lithosphere D) Pyrosphere 
+
+7.   Grain size of clay sediment is 							[A ] 
+           A) <0.01m B) 1 to 2 mm C) >200mm D) 1 to 2.2 mm 
+
+8.  coal  is  considered  as  							[B]
+	A)   Rock 	B]  mineral 	   C] both a & b	D)  None 
+
+9.  Physical  breaking  of  rocks  is  called  as  					[C]
+	A)  Erosion	B)  Transportation	C)  Disintegration	D) Decomposition
+
+10.  Chemical decay of  rocks is called  as 					[D]
+	A)  Erosion	B)  Transportation	C)  Disintegration	D) Decomposition
+
+11. The  presence  of  water in  the  cracks of  the rocks freezes  during  the  night time  and  melts  during  the  day  is  called  as 				[C]
+	A)  chemical weathering     B)  Decomposition    C) Frost Wedging   (D) None
+
+12.  Removable of soluble content from the rocks  by  water  is  called as    [B]
+	A)  Hydration		B)  Leaching		C)  Oxidation		D)  Hydrolysis
+
+13.  Hydroxyl molecules  are  injected into  the  molecular  structures  of  minerals  thereby bringing  about  the  decomposition  of  minerals  is  called as 	[A]
+	A)  Hydration		B)  Leaching		C)  Oxidation		D)  Hydrolysis
+
+14.  Production  of  carbonic  acid  lower  the  value  of  			[D]
+	A)  EC			B)  TDS 		C)  both A & B	D)  pH
+
+FILL  IN  THE  BLANKS
+
+1. When erosion takes place, fresh country rock surfaces will be exposed and this process is called  DENUDATION.  
+
+2. Rock fragments during abrasion undergo wear & tear which is called as ATTRITION 
+
+3. Cut off water bodies  from meanders  during  floods are called  OX-BOW LAKES  
+
+4. The color of mineral powder is called the  STREAK  of mineral. 
+
+5. The angle between cleavage sets can be measured by GONIOMETER  
+
+6. The rock fragments thrown out at the time of volcanic eruption are called PYROCLASTS.. 
+
+7. Mineralogically, shales are mainly made up of Montmorillonite . 
+
+8. The term is applied to chemical adjustment in newly solidified igneous rocks, brought about by a decrease in temperature  AUTO METAMORPHISM. 
+
+9.  GEOMORPHOLOGY deals  with  the description & interpretation  of  land forms
+
+10.  The  principles  and  methods  of  geology  is  adopted  for  the  purpose  of civil engineering  operations  is  called  as   ENGINEERING  GEOLOGY.
+
+11. The  knowledge  of  EROSION, TRANSPORTATION & DEPOSITION  by surface water  helps in  soil  conservation,  river  control. 
+
+12. CANYON  is  a  deep  valley.
+
+13.  Material is transported in a solution condition  is called  as  DISSOLVED LOAD
+
+14.  River  sediment  is  known  as  ALLUVIUM.
+
+15.  If  the  river  sediment / deposit  is  spread  over  a  small  area but  has  a  relatively  steep  slope,  it  is  called  as  ALLUVIAL  CONE.
+
+16.  If  the  river  sediment / deposit  is  spread  over  a  large   area and   has  a  gentle  slope,  it  is  called  as  ALLUVIAL  FAN
+
+17.  During the time of  floods,   the  river  carries  a  very  large  scale of  river dumps   along  its  course  on either side  which are known as   NATURAL LEVEES
+
+18. Silt  and  clay  are  examples  for  NATURAL  LEVEES.
+
+19.   A DELTA  is  a  land  form  that  is  formed  at  the  mouth  of  a  river. 
+
+20.  GRAND  CANYON is  the  example  for V-shaped  valley. 
+WORDS  and  their  MEANINGS
+
+
+

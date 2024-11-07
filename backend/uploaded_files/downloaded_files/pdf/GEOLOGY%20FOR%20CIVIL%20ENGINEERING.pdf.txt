@@ -1,0 +1,2353 @@
+GEOLOGY FOR CIVIL
+ENGINEERING
+Dr. Ayfer ÖZDEMİR
+ayferozdemir@ormansu.gov.tr
+ozdemir.ayfer@gmail.com
+Today: Course Overview
+ A few ground rules…
+ Stuff about me.
+ Why are we here?
+ Course exams & grading.
+ Prelude: What is Geology?
+ Read the textbook
+Ketin İ., Genel Jeoloji Yerbilimlerine Giriş, İTÜ Vakfı Yayınları, 2016.
+Önalp A., Sert S., Geoteknik Bilgisi, Birsen Yayınevi, 2016.
+S
+E
+Tarbuck, EJ and Lutgens, FK, Earth Science, Prentice Hall, 2011.
+L
+Cazeau C.J. and Hatchar R.D., Physical Geology: Principles, processes, and problems, New
+U
+York: Harper & Row, 1976.
+R
+Alan E. Kehew, Geology for Engineers and Environmental Scientists, Prentice Hall, 3rd ed.,
+2006
+D
+N
+ Attend lectures
+U
+- Hear topical overviews & ask questions
+O
+- Do in-class assignments & turn in & pick up HW
+R
+- Exams, quizzes & extra credit opportunities
+G
+In-class exercises and homework assignments (depend on your
+status!!!)
+- Exercises weekly & homework every other week
+Required by all students:
+S While in lecture, please DO NOT:
+E
+L  Forget to turn off cell phones
+U
+R  read different documents instead of course notes
+D
+ Talk and have conversations
+N
+U
+ Sleep uncontrollably, endangering yourself and others
+O
+R
+G
+Required by all students:
+S
+E
+While in the lecture, please DO
+:
+L
+U
+ Ask questions when anything is not clear
+R
+ Engage in the discussions
+D
+N
+ Fully participate in in-class exercises
+U
+O
+ Geology is great! Have fun with it!
+R
+G
+E
+R
+E
+H Since you will be Civil Engineer, you should learn basics of
+geology
+E
+R
+You need a science credit to graduate
+A
+Just curious, it seemed like it might be cool
+U
+O
+You have absolutely no idea
+Y
+Y
+H
+W
+ Graduate from Department of Geological Engineering (2003)
+ Research assistant (2006-2011)
+E
+ Geological Engineer (2011-2012) DSI
+M
+ Geological Engineer (2012-…)The Ministry of Forestry and Water
+Affairs
+T
+ Phd and section manager of Modelling department
+U
+ Research Areas
+O
+Geology
+B
+Petroleum reservoir geology
+A
+GIS and remote sensing
+Hydrology
+Groundwater
+Water resources modelling
+G
+N
+Geology Exams:
+I
+D
+A 1. There will be two Exams.
+R -In class, 1-hour, 100 points each
+-One midterm, one final
+G
+2. Review outline
+&
+-Will be handed out before exams
+-Will provide a list of topics that will be covered
+S
+M 3. Final Exam
+-Covers last section of course, but all exams
+A
+may call on basic concepts presented earlier.
+X
+E
+G
+N
+I
+D MAKE-UP EXAMS
+A
+There are none! Exceptions include a health problem.
+R
+G
+TERM PAPER OPTION
+&
+ It is optional, not decided yet
+S
+M
+A
+X
+E
+Course catalog says:
+S
+L
+Basic principles of geology, geochemistry, and
+A
+O geophysics. Rocks, minerals, weathering, earthquakes,
+G mountain building, volcanoes, water, and glaciers.
+But also, we have these goals:
+
+To develop critical thinking skills & a basic
+
+understanding of how the science works
+S
+L
+A Become familiar with some of the observational
+
+methods, reasoning processes and analytical tools used
+O
+by geologists to understand the Earth and its history
+G
+Learn the basic scientific concepts and principles of
+
+Earth sciences.
+You will be learning a new language!
+S
+L
+A Geology is a broad, interdisciplinary science with a rich vocabulary. The
+O terminology we will use throughout this course will require that you learn
+a new language.
+G
+Geology: The study of the Earth and its systems
+You are here!
+A Prelude:
+ Geology; Physics, chemistry, mathematics, zoology, botany, construction,
+mining and other engineering.
+ Geology «The history of the earth, its combination of rock, soil and water,
+and the science of studying evolution»
+ Geological Engineering: Provides the use of geological data for practical
+engineering purposes.
+And just what is Geology?
+The relationship between Geological Engineering and
+other engineering sciences
+ Civil Engineering (safe and economical
+construction of buildings)
+ Mining Engineering (safety and economical factors
+in mining deposition operating and development)
+ Petroleum Engineering (Economic design for
+extracting petroleum and obtaining petroleum
+products)
+ Geophysical Engineering (earth physical
+propersties and its engineering applications)
+ Architecture (project designing)
+ City and Regional Planners
+Geology Branches
+ General geology  Ore deposits-Geochemistry
+ Mineral deposits
+ Structural geology
+ Geochemistry
+ Sedimantology-Sedimentary petrography
+ Petroleum Geology
+ Stratigraphy
+ Applied Geology
+ Mineralogy-Petrography
+ Engineering Geology
+ Mineralogy
+ Hidrogeology
+ Petrography
+ Mathematical Geology
+The world's origin and geological processes
+Mineral types, rocks and rock formations, distribution and characteristics
+internal and external geological processes that affect the properties of earth materials
+Geological structures
+Surface and groundwater movements and related properties
+Deformation types and structural properties, geological time concept
+Use of topographical-geological maps
+The basic concepts of engineering geology
+How old is the world and how did it?
+Layers of the earth
+How continents are formed?
+How the mountains are formed and eroded?
+Geology and Civil Engineering Relationship
+Civil engineering works are carried out either on site or within the site.
+For this reason, erosional and geological process which cause the stability of the rocks
+and ground and their changes are important for civil engineering
+Geology and Civil Engineering Relationship
+Geology and Civil Engineering Relationship
+ Where is a geologically safe and economical engineering structure built?
+ How to choose the communication and transport infrastructure route where geological
+conditions are convenient?
+ How are the building bases constructed safely and economically in terms of geological and
+geotechnical aspects?
+ How to create a slope both safely and economically?
+ How is a safe tunnel and underground facility excavation done?
+ How is location geological materials required for construction of dams and road construction
+determined?
+ What are the measurements and application methods for improvements of ground conditions
+and controlling instability, infiltration etc.?
+ What are required geological and geotechnical conditions store urban, toxic and radioactive
+waste?
+ How are to identify, prevent or reduce geological hazards identified, prevented anf reduced?
+Time…
+Geology deals with complex historical systems
+that have evolved and changed over time.
+Time is thus a fundamental variable in geology.
+Coupled processes, operating over time produce
+all that we see.
+Various Projects
+Various Projects
+2. Week
+Nature of scientific inquiry
+Basic Concepts:
+
+Scientific method
+
+Observation
+
+Hypothesis
+
+Test
+
+Scientific “certainty”
+
+Paradigms and the nature of scientific revolutions
+
+Theory
+Nature of scientific inquiry
+Science is based on:
+ assumption that the natural world behaves in a consistent & predictable
+manner
+Goals of science:
+ understand underlying patterns in nature (from careful
+observations/measurements form hypotheses that lead to predictions
+Nature of scientific inquiry
+Four basic steps:
+1) collect the facts (observation/measurement)
+2) develop hypothesis (one or more)
+3) test hypothesis
+4) accept/modify/reject
+Nature of scientific inquiry
+Process begins with Observation!
+Formulation of Hypotheses:
+Construction of a tentative (untested) explanation for something observed
+Value of multiple working hypotheses
+Testing hypotheses
+Evaluate explanatory power.
+Certainty in science and the nature of scientific proof
+Science has been described as the orderly accumulation of rejected
+hypotheses.
+Nature of scientific inquiry
+Theory
+ well-tested/widely accepted hypothesis that “acceptably” predicts
+observed facts.
+ also: explains additional observations not used originally to form
+theory
+• predictive power
+• still testable and subject to disproof!
+Geology: The study of the Earth and its systems
+You are here!
+Layers of EARTH
+Prelude: Earth Systems
+
+Atmosphere
+
+Hydrosphere
+
+Cryosphere
+
+Solid Earth
+
+Biosphere
+Atmosphere
+Blanket of gases surrounding the Earth
+ Protection from Sun’s heat & UV rays
+ Weather: due to exchange of energy
+ between Earth’s surface & atmospher
+ between atmosph. & outer space
+ Strongly interacts water/ surface
+Hydrosphere
+Water portion of Earth
+ Oceans (most prominent)
+71% of surface of Earth
+ Streams, lakes, glaciers, underground water
+ Atmosphere
+Cryosphere
+Icy portion of Earth’s crust
+ Glaciers
+ Permafrost and ground ice
+ Polar ice caps
+ Frozen polar seas
+Biosphere
+Earth’s Ecosystems
+ Earth’s surface and subsurface to depths of a few
+kilometers
+ Life occupies an extreme range of environments
+ Life strongly interacts with the atmosphere, the
+hydrosphere and the solid earth (these interactions
+are called ecology!)
+Prelude: Earth’s internal structure
+3 distinct divisions:
+crust
+Oceanic 0-6 km (“young”, < 180 m.y.)
+Continental 0-34 km (older, up to 3.8 b.y.)
+mantle Upper 34-670 km
+Lower 670-2900 km
+Outer – Liquid
+core
+Inner – Solid
+Earth’s internal structure
+Continental crust – Underlies the
+continents.
+ Avg. rock density about 2.7 g/cm3.
+ Avg. thickness 35-40 km.
+ Felsic composition. Avg. rock type = Granite
+Oceanic crust – Underlies the ocean
+basins.
+ Density about 3.0 g/cm3.
+ Avg. thickness 7-10 km.
+ Mafic composition
+ Avg. rock type =Basalt/Gabbro
+Crust ve Earth’s internal structure
+Plate tectonics
+• Plate tectonics, theory dealing with the dynamics of Earth’s outer shell, the lithosphere,
+that revolutionized Earth sciences by providing a uniform context for understanding
+mountain-building processes, volcanoes, and earthquakes, as well as understanding the
+evolution of Earth’s surface and reconstructing its past continental and oceanic
+configurations.
+• Describing in detail the processes that make up the Earth's fundamental surface
+features, «The definition of lithospheric separation of rigid plates moving on the
+asthenosphere» (Alfred Wegener 1915) forms the basis of the plate tectonics theory.
+Plate tectonics
+Plate tectonics
+Plate tectonics
+Data indicates that Plates seperate from each other
+• Coastal forms and continents match each other
+• Similarity of sediment deposits; The continuation of the vegetation
+and geological structure of Africa, India, Australia, Madagascar, South
+America which make up Gondwana,
+• Similarity of mountain ranges; When the continents are brought side
+by side, the mountain lines form a single continuous mountain line in
+the same age and deformation style.
+• The glaciation that began in Gondwana was also experienced at the
+same time (carboniferous) by parts seperated from Gondwana
+• The remains of the reptile family which is impossible to swim the
+ocean were found only in South West Africa and Brazil
+• Palaeomagnetism
+• Propagation of the sea floor
+Plate tectonics
+Plate tectonics
+Plate tectonics
+Plate tectonics
+Convergent plate boundaries
+ Subduction event occurs
+ Colliding with Oceanic/oceanic or oceanic/continental plate
+generated a deep ocean trenches
+ Crust melting and magma genaration occur
+ Volcanism and volcanic island arcs occur, volcanic island arcs
+arranged like a barrier can form inner seas between
+continents and the oceans
+ Events of metamorphism occur
+ Two continental or continental and an oceanic plate collides
+to form a curved mountain line
+Plate tectonics
+Plate tectonics
+Plate tectonics
+Events happening in places where plates are moving away
+from each other :
+ Mid-ocean ridge (2500 m high ridge in the Atlantic Ocean)
+ Volcanic islands
+ New crust formation
+ Basaltic lavas are solidified and added to the continental
+margins, The ocean floor expands and the continents
+move away from each other
+ Magma is emerged from the fractures genarated by
+divergent event and volcanic events ocur
+ Best example of that is Atlas Ocean
+Plate tectonics
+• Transform Plate Boundaries are locations where two plates
+slide past one another.
+• The fracture zone that forms a transform plate boundary is
+known as a transform fault.
+• Most transform faults are found in the ocean basin and
+connect offsets in the mid-ocean ridges.
+• A smaller number connect mid-ocean ridges and
+subduction zones.
+• The most famous example of this is the San Andreas Fault
+Zone of western North America.
+• Another example of a transform boundary on land is the
+Alpine Fault of New Zealand.
+Plate tectonics
+The most common areas of tectonic earthquakes in
+the world are:
+• Great Oceanic boulders (Pacific waters): Kamchatka
+in the east of Asia, Japan, the Philippines,
+Indonesia, the Aleut Islands in the west of America,
+California, Mexico, Chile, Peru.
+• Mediterranean Himalayan Belts: Spain, Italy, North
+Africa, Yugoslavia, Greece, Turkey, Iran, India,
+Pakistan, Afghanistan, East Indian islands.
+• Central part of Atlantic Ocean: Asor Islands and
+Iceland Island
+Plate tectonics
+• The least common areas of tectonic earthquakes in the world are:
+The Western of Australian,
+The Eastern of USA and Canada
+Iceland of N.West European-Grönland, İskandinav peninsula,
+Eastern Europe • Northern of Asia
+Sourthern and Middlest of Africa
+Geologic Time…
+Millions years
+A few seconds.
+Geologic Time…
+Washington May 17, 1980 September 10, 1980
+3. WEEK
+MINERALS AND ROCKS GROUPS WHICH GENERATES
+EARTH CRUST
+EARTH CRUST
+ Average depth of the earth crust thickness is
+8-10 km.
+ There are two different rocks which have
+different chemical and biological content.
+ Sial; average density: 2.7 gr/cm2
+(granite, sandstone and limestone)
+ Sima; 2,8-3 gr/cm3
+(bazalt type rocks)
+ The sial layer in the ocean floor is almost
+absent.
+ Sima reaches 8-10 km thickness.
+MATERIALS WHICH GENERATES THE CRUST
+• Eight of the 108 elements found on the Earth's Oxygen %46.6
+surface are very common.
+Silisium %27.72
+• The 8 most common elements in the crust form
+98.59% by weight of the ground shell. Aluminum %8.13
+• The remaining 98 elements constitute 1.4% by Iron %5
+weight of the earth's crust.
+Calcium %3.63
+Sodium %2.83
+Potassium %2.59
+Magnesium %2.09
+MINERALS
+More than 2000 minerals on Earth generates rocks, rocks
+constitutes the crust.
+It is found naturally
+Has chemical composition(element or compound form).
+It can be expressed by a specific crystal system.
+It is mostly solid, liquid (mercury and water)
+Generally inorganic, at least organic compounds.
+The Importance of Minerals
+• Minerals and mines are part of the legacy that remains to us from the geological past. These are the basic
+building blocks of the solid part of the earth and are very important for construction geology;
+• The minerals and rocks are the main sources for the production of automobiles, computers and many other
+things we use,
+• Minerals and rocks play an important role in many earth processes such as landslides, coastal erosion and
+volcanic activity,
+• Studies on minerals and rocks provide important information on earth history,
+• Knowing process properties of the minerals and rocks provides to how the mechanisms in the earth and to
+understand how we can best manage the our earth resources
+CRYSTAL SHAPES OF MINERALS
+CRYSTAL SHAPES OF MINERALS
+PHYSICAL PROPERTIES OF MINERALS
+The main physical properties of minerals;
+ Tenacity,
+ Hardness,
+ Fracture,
+ Cleavage,
+ Streak,
+ Luster,
+ Density
+Tenacity
+• The property of tenacity describes the behavior of a mineral under deformation. It describes the
+physical reaction of a mineral to externally applied stresses such as crushing, cutting, bending, and
+striking forces. Adjectives used to characterize various types of mineral tenacity include 'brittle,'
+'flexible,' 'elastic,' 'malleable,' 'ductile,' and 'sectile'
+Mica (turns back to its original state when twisted), Chlorite (remains twisted)
+• When the hammer hit some minerals can become extended or plate.
+Gold, silver, copper.
+Tenacity
+• Brittle - Breaks or powders easily.
+• Malleable - can be hammered into thin sheets.
+• Sectile - can be cut into thin shavings with a knife.
+• Ductile - bends easily and does not return to its original shape.
+• Flexible - bends somewhat and does not return to its original shape.
+• Elastic - bends but does return to its original shape.
+Tenacity
+Most mineral species are brittle, and will crumble or fracture under pressure or upon
+the application of a blow. Such materials break or powder easily.
+Antimony and quartz etc.
+Hardness
+Hardness has traditionally been defined as the level of difficulty with
+which a smooth surface of a mineral specimen may be scratched.
+The hardness of a mineral species is dependent upon the strength of the
+bonds which compose its crystal structure.
+Hardness is a property characteristic to each mineral species and can be
+very useful in identification.
+Hardness
+• Hardness minerals are resistance to scratching.
+• It is the result of the cohesion between these molecules.
+• It is determined with the aid Mohs hardness scale formed by mineral
+hardness.
+Hardness
+Cleavaga
+• A cleavage plane is a plane of structural weakness
+along which a mineral is likely to split smoothly.
+• Cleavage thus refers to the splitting of a crystal
+between two parallel atomic planes.
+• Despite the fact that every mineral belongs to a
+specified crystal system, not every mineral exhibits
+cleavage.
+• Cleavage planes, if they exist, are always parallel to a
+potential crystal face. However, such planes are not
+necessarily parallel to the faces which the crystal
+actually displays. Fluorite, for example, has
+octahedral cleavage yet forms cubic crystals.
+• Nonetheless, the property of cleavage, if it is
+present, can offer important information about the
+symmetry and inner structure of a crystal.
+Fracture
+If the mineral contains no planes of weakness, it will break along random
+directions called fracture. Several different kinds of fracture patterns are
+observed.
+• Conchoidal fracture - breaks along smooth curved surfaces.
+• Fibrous and splintery - similar to the way wood breaks.
+• Hackly - jagged fractures with sharp edges.
+• Uneven or Irregular - rough irregular surfaces
+Colour
+• Color is sometimes an extremely diagnostic property of a mineral, for
+example olivine and epidote are almost always green in color.
+• But, for some minerals it is not at all diagnostic because minerals can take
+on a variety of colors. These minerals are said to be allochromatic. For
+example quartz can be clear, white, black, pink, blue, or purple.
+Streak
+Streak is the color produced by a fine powder of the mineral when scratched
+on a streak plate. Often it is different than the color of the mineral in non-
+powdered form
+Hematite: red; Limonite: brown; Magnetite: dark gray; Chromite: brown;
+Magnetite: dark gray; Chromite: brown
+Luster
+Luster refers to the general appearance of a mineral surface to reflected light. Two general
+types of luster are designated as follows:
+• Metallic - looks shiny like a metal. Usually opaque and gives black or dark colored streak.
+• Non-metallic - Non metallic lusters are referred to as
+vitreous - looks glassy - examples: clear quartz, tourmaline
+resinous - looks resinous - examples: sphalerite, sulfur.
+pearly - iridescent pearl-like - example: apophyllite.
+greasy - appears to be covered with a thin layer of oil - example: nepheline.
+silky - looks fibrous. - examples - some gypsum, serpentine, malachite.
+adamantine - brilliant luster like diamond.
+Structure
+Kidney, chordal, chordal radial, concussion, lump and concentric.
+•Kidney : Chalcedon, hematite
+•Chordal: Asbestos, gypsum, calcite,
+•Radial: Antimuan,
+•Chordal radial: Pyrite, barite
+•Concussion: Calcite, agate, pyrite, agate,
+•Lump: Flintstone
+•Concentric: Agat, Calcedon
+Specific Gravity
+• Density refers to the mass per unit volume.
+• Specific Gravity is the relative density, (weight of substance divided
+by the weight of an equal volume of water).
+• In cgs units density is grams per cm3, and since water has a density of
+1 g/cm3, specific gravity would have the same numerical value has
+density, but no units (units would cancel).
+• Specific gravity is often a very diagnostic property for those minerals
+that have high specific gravities.
+• In general, if a mineral has higher atomic number cations it has a
+higher specific gravity.
+Specific Gravity
+Atomic # of
+Mineral Composition Specific Gravity
+Cation
+Aragonite CaCO 40.08 2.94
+3
+Strontianite SrCO 87.82 3.78
+3
+Witherite BaCO 137.34 4.31
+3
+Cerussite PbCO 207.19 6.58
+3
+Specific Gravity
+Mineral Composition Specific Gravity
+Graphite C 2.23
+Specific gravity can usually be
+Quartz SiO 2.65
+qualitatively measured by the heft of a 2
+Feldspars (K,Na)AlSi O 2.6 - 2.75
+mineral, in other words those with high 3 8
+Fluorite CaF 3.18
+specific gravities usually feel heavier. 2
+Topaz Al SiO (F,OH) 3.53
+2 4 2
+Corundum Al O 4.02
+Most common silicate minerals have a 2 3
+Barite BaSO 4.45
+specific gravity between about 2.5 and 4
+Pyrite FeS 5.02
+3.0. These would feel light compared to 2
+Galena PbS 7.5
+minerals with high specific gravities
+Cinnabar HgS 8.1
+Copper Cu 8.9
+Silver Ag 10.5
+Radioactivity
+The radioactivity in the minerals comes from the uranium (U) and
+thorium (Th) found in them. Some elements such as potassium (K) and
+rubidium (Rb) also have a small amount of radioactivity.
+It is aimed to determine the geological age by making use of the
+radioactivity feature in minerals.
+Chemical properties of the minerals
+• Minerals have a special composition
+• It is determined by qualitative and quantitative analyzes and indicated by
+related formulas.
+• The same chemical composition, a different crystal system polymorphism
+(multidimensionality) is used.
+• Calcite with aragonite and diamond with graphite are polymorph minerals.
+• If minerals have the same shape but they have different chemical
+composition, isomorphism (coordination) is used.
+• Calcite (CaCO3) dolomite (CaCO3.MgCO3) and siderite (FeCO3) are isomorphic
+minerals.
+Optical properties of the minerals
+• The light-related properties of the minerals make up the optical properties of minerals. Optical propeties of
+the minerals provides colours, fracture properties, single and double breaking properties, and the shapes
+they show under a polarizing microscope.
+• Apart from these properties of minerals, some minerals have their own unique characteristics. Some
+minerals are magnetic, some minerals are radioactive, some minerals are good conductors, and some
+minerals are poor conductors. Some minerals have piozoelectric properteis. Industy benefits from these
+properties of the minerals.
+THE IMPORTANCE OF MINERALS FOR CIVIL
+ENGINEERING
+• Many minerals are used as building materials in the construction industry.
+• The concrete is generally obtained with a mixture of gravel, sand, cement and
+water
+• Aggregate (aggregate): sand, gravel, crushed stone (blasted rock), slag (slag) as
+concrete (concrete) course used for the construction or artificial or both types
+often broken in various sizes up to 10cm or broken granular material stack (sand +
+gravel + natural rock material consisting of crushed stone).
+• Gypsum (gypsum); (CaSO4.2H2O-Mohs hardness 2); colorless or white color is
+converted into plaster losing some of the water at 120 ° C. Plaster is used in
+indoor and outdoor applications.
+• Various clay minerals have been used in mud bricks, bricks, tiles since ancient
+times.
+THE IMPORTANCE OF MINERALS FOR CIVIL
+ENGINEERING
+• Pale limestone which is white or black without include silisium and clay is
+used for making lime
+• Lime is used as a binder in mortar and also in stabilization of roads.
+• Limes which are found various colour and pattern and well polished are used as
+coating materials in the buildings
+• Apart from this, the mechanical behavior of the clays directly reflects on
+the structures and causes the forces to deform the structures.
+THE IMPORTANCE OF MINERALS FOR CIVIL
+ENGINEERING
+• Feldspar and feldspathoids, which are found in the composition of many
+masses, can be very dangerous for engineering because they are
+decomposed by environmental factors.
+• The behaviors of fully matured clay minerals vary with increasing water uptake rate
+and progressive dissociation time.
+• Therefore, if feldspars are encountered in the basement, applications are carried
+out, ranging from project changes to new measures to extend the construction time.
+• In such cases, a series of precautions are taken, such as removal of the dissimilar
+part, placement of the foundation in a firm-to-undeformed section, selection of the
+concrete quality with the appropriate foundation system and construction of a good
+drainage network.
+THE IMPORTANCE OF MINERALS FOR CIVIL
+ENGINEERING
+•The concrete is generally obtained with a mixture of gravel, sand, cement and water depending on the
+importance and size of the engineering structure to be built, the chemistry of each of these components
+forming concrete may be primary importance.
+•Especially aggregate (sand-gravel) which is added to concrete and constitutes 75-85% by weight of concrete
+is either naturally extracted from the earth's crust or artificially broken by rock masses.
+•If quartz sand and pebbles are to be used as aggregates in a dam body concrete, they must be well studied.
+•The high alkaline cement in the concrete is affected by the hydration caused by the hardening of the
+concrete and the alkali such as sodium-potassium in the cement are released.
+•Quartz, opal, chalcedony, agate, tridimite sand and gravel composed of siliceous minerals and silicates
+interact with the alkalis released in the concrete, cause expansion, cracking and fracturing of the concrete.
+•This results in concrete can be easily damaged by being non-resistant against external influences. The volume
+percentages of the silica minerals constituting the aggregate component in the concrete are as follows; Opal
+0,20%; Calcinedon 5%; Acid volcanic mass% 3
+The main minerals found in the rocks
+The rocks are mineral assemblages; either by the combination of various
+minerals or pieces of stone, or by the accumulation of a large number of single
+minerals.
+Main minerals: Mass forming and called minerals play a role in their
+nomenclature. A number of them are 20 to 30.
+Quartz, feldspar, nepheline, olivine etc. They play a role in the name of
+this rock minerals.
+Accessory minerals: tourmaline, magnetite, zircon, etc. There are also minerals
+that rarely enter into the masses and have no effect on their naming.
+Secondary minerals: New minerals that have formed as a result of various
+environmental factors of the existing main minerals, mostly due to the effects of
+decomposition, metamorphism and melt, and their composition.
+Kaolin, serpentine, chlorite, zeolite etc.
+The main minerals found in the rocks
+Main minerals in Magmatic rocks;
+• Quartz
+• Feldspar: Orthoclase, Plagioclase
+• Feldspathoid: leucite, nepheline; Sodalite
+• Pyroxene: Bronzeite, Enstatite, Hipersten,
+Augite, Diyalage, Deiodopsite
+• Amphibole: Hornblend
+• Mica: Biotite, Muscovite
+• Perido: Olivin
+Main minerals in sedimentary rocks
+• Magmatic rock fragments (especially quartz and feldspar)
+• Clay minerals
+• Calcite, Dolomite
+• Siderite
+• Limonite
+Main minerals in metamorphic rocks
+• Quartz
+• Feldspar
+• Biotite, Muscovite
+• Hornblend
+• Epidote
+• Garnet
+• Silimanite
+• Andalusite
+• Calcite
+• Serpentine
+• Talc
+• Chlorite
+Secondary minerals
+• The most important ones are Tourmaline, Magnetite, Ilmenite, Rutil,
+Apatite, Zircon and Topaz.
+Quartz Group
+• It is found in Magmatic, metamorphic and sedimentary masses.
+• Crystal system Hexagonal,
+• Density is 2.65 and hardness is 7.
+• Usually colorless and transparent.
+• Other elements that come into crystal structure can offer different colors. In this case, it gets
+different names. Some contain liquid or gaseous inclusions.
+• Quartz has not cleavage.
+• It offers its own unique twinning.
+• The face of the fracture is concoidal, glassy and oily.
+• It is not affected from acids apart from florur.
+• Quartz which is pure and clean is used in optical and chemical industry and ceramic industry
+• Bright and colorful varieties (Necefaşı, Amethist, Sitrin, Agat, etc.) are used in making ornaments.
+Quartz Group
+• There are many types of quartz. The most important ones are;
+Chalcedony; chrysoprase; Heliotrop; Agate; Flintstone; Jasper; Silicified
+Tree; Opal;
+• If quartz sand and gravel are to be used as building material, it is necessary to
+carry out the analyzes thoroughly.
+• When the quartz and its species used as aggregates in cement start to harden
+with high alkali cement, hydro treatment occurs and Na, K etc. The alkalies are
+released.
+• All silicates, especially opal, chalcedony and agate, and siliceous minerals act
+with alkalis, causing the concrete material to expand, crack, break down and
+eventually reduce its strength.
+• Therefore, cement-aggregate reactions become important according to the size
+and importance of the structure to be constructed.
+Quartz Group
+Feldspars
+• They form 40-50% of the earth's crust, their composition is potassium-
+sodium-calcium aluminum silicate.
+• The crystal system is Monoclinal or Triclinal.
+• There are cleavages in two directions and by the angle between the
+cleavage planes;
+1. orthoclases
+2. Plagioclase
+Feldspars
+Ortoklas Group; Cleavage angles are 90 feldspar. They are crystallized in
+the monoclinal system. Orthotic mineral is important in this group.
+Plajioklas Group; the angles of cleavage of feldspar is 86,80.
+This group of minerals;
+Albite and Anorthite consist of a mixture of different proportions.
+They are crystallized in the triclinal system. Colors are variable. The
+fracture faces are glassy.
+• Their hardness is 6-6,5 and their specific weights are 2,60-2,76. They
+are found in different proportions in the composition of Magmatic
+stones and play an important role in naming these rocks.
+• It is also found in metamorphic and sedimentary rocks.
+Feldspars
+• Nomenclature is based on the percentage of Na and Ca in the
+compositions. The main minerals of this group are;
+1. Albite (NaOAl2O3), (90-100% Albite + 0-10% Anorthite)
+Oligoclas
+3. Andesine (50% Albite + 50% Anorthite)
+4. Labrador
+5. Bitovnit
+6. Anorthite (CaOAl2O32SiO2), (90-100 Anorthite + 0-10% Albite)
+Decomposition of feldspar;
+ As a result of the decomposition events, quartz occurs with clay minerals that are soluble in water.
+ Factors affecting decomposition; Climate, temperature, humidity, the effect of superficial acid waters and
+fumerols or hydrothermal processes which are deeply magic.
+ The shape and depth of the variable increase in volume is the result of decomposition of 5-30%.
+ The carrying capacity of the decomposition mass and pressure resistance are reduced. When building on
+such masses, it is necessary to pay attention to disintegration events.
+Kaolenization-argillisation
+4. WEEK
+Rock forming minerals
+Oxygen %46.6
+• Rocks is assemblies of minerals, it is Silisium %27.72
+formed by various minerals or rock
+fragments come together or consists of Aluminum %8.13
+a large number of accumulations of a
+Iron %5
+single mineral.
+Calcium %3.63
+• It is found in the majority of 8 element
+minerals as rock builder, representing Sodium %2.83
+more than 98% of the weight of the
+Potassium %2.59
+continental crust.
+Magnesium %2.09
+The rocks that make up the Earth's crust are the
+various minerals or single minerals, rock fragments,
+or both mineral and rock fragments.
+For example, Magmatic rocks such as granite,
+gabbro, syenite are formed by minerals; marble,
+quartzite is formed by a single mineral; various
+types of sandstones and conglomerates are formed
+by rocks and minerals.
+The rocks are studied according to their formation
+conditions and their origins;
+•Magmatic rocks;
+•Sedimentary rocks;
+•Metamorphic rocks;
+Rock forming minerals
+Rock Cycle
+Magmatic Rocks
+• If the hot and fluid melt "magma" found in the depths of the earth is
+cooled or crystallized, it is called as "Magmatic rocks"
+• Magma contains O, Si, Al, Fe, Ca, Mg, Na, K together with water, other
+rare earth elements as well as CO2, SO2 in vapor form.
+Magmatic Rock Forming Minerals
+• Main minerals; Quartz, feldspar (orthoclase, plagioclase), nepheline,
+sodalite, leucite, mica, muscovite, biotite, pyroxene, amphibole
+olivine.
+• Accessory minerals; Zircon, sifen, magnetite, ilmenite, hematite,
+apatite, pyrite, rutile, corundum, garnet.
+Acidic (felsic) if it contains 65% silica and a large amount of aluminum, sodium, potassium
+and a small amount of calcium, iron and magnesium;
+Neutral (intermediate) if it contains 52-65% silica;
+It is possible to call it basic (mafic) component magma if it contains more than 45-52% of
+silica, calcium, iron and magnesium.
+• The basic magma often reflects the composition of the mantle source area.
+• The oceanic crust is a basic compound and richer in Fe and Mg elements.
+Therefore oceanic crust is more intense than the continental crust and the
+asthenosphere directly owned properties hosting site.
+• The continental crust, on the other hand, consists of minerals rich in silicon
+and aluminum. While the magma that passes through the continental
+crust, it takes the material from the crust in its place. As a result of this, its
+composition returns from basic to neutral and acidic composition.
+Therefore, magmatic rock in the continental crust is richer and less
+intensive in terms of SiO2 mineral.
+Magmatic rocks
+The change in the amount of SiO2 in the bodies of magmatic rocks
+causes significant changes in the color of the rocks.
+The minerals and rocks rich in basic iron and nickel elements are darker,
+while minerals and rock which is acidic in nature and the richer in
+SiO2 are lighter.
+Magmatic rocks
+• The composition of the magmatic rock
+develops depending on the composition of the
+last melt crystallized the rock.
+• If the melt is poorly silicic, the rocks consist poorly
+siliceous and richly dark ferromagnesite minerals,
+they are formed by dark colored rocks in the melt.
+For example, Gabro
+• If the ratio of silica is high, quartz crystals are
+formed because the rocks are rich in silica and they
+have so less dark colored minerals
+• All of the magmatic rocks such as peridotite can be
+composed of ferromagnesian (dark colored)
+minerals. The composition of these rocks is not the
+same as the composition of the melt.
+Magmatic rocks
+• The magma, which is hot and fluid, moves in different depths under
+different composition and pressure.
+• Plutonic rocks are formed underground. They involve the "intrusion"
+or insertion of magma between other rocks, which then cools below
+the surface.
+• Volcanic rocks are formed above ground. They involve the
+"extrusion" or eruption of magma, which then is called "lava." The
+lava cools upon or very close to the surface. Volcanic rocks can also
+form from "ash", which is simply pulverized rock blown into the air
+(not like the "ash" that results from burning wood) -- larger rocks are
+"bombs.
+Magmatik kayaçlar
+Magmatic rocks
+• Intrusive rocks;
+• They are sturdy and durable (because they are made of crystal only)
+Granite, syenite
+• Extrusive rocks;
+• It is semi-crystalline and the crystals are floating in a dough
+Andesite, rhyolite, basalt
+• Semi-deep rocks;
+• They form a transition between the depth rocks and the surface rocks.
+• The slurry is not glassy, and other rocks are composed of small crystals
+in cracks and crevices are located.
+Granitporphyr, quartosporphyr, syenitporphyr
+Magmatic rocks
+• Plutonic rocks; crystallize below Earth's surface, and the slow cooling
+that occurs there allows large crystals to form. Examples of intrusive
+igneous rocks are diorite, gabbro, granite, pegmatite, and peridotite.
+• After occurring solidifies dozens or even hundreds over the years up
+to millions continental uplift as a result of erosion of sediments that
+can reach several kilometers thick on them as a result of wear of such
+rocks are seen today on the ground surface in the current topography.
+• Çavuşbaşı granodiorite pluton on the Anatolian side of Istanbul and granite
+pluton of Gebze-Sancaktepe.
+Magmatic rocks
+• Semi-deep rocks; Magmatic rocks are called semi-deep rocks as the
+magmatic rocks which eventually solidify on the earth in the course of
+upward movement following the discontinuities such as cracks and
+cracks in the upper part of the lithosphere.
+• Intrusive rocks consist of coarse, very coarse grains of crystals that
+develop due to slow cooling and less pressure in spaces and cracks at
+depths near the earth. Granite pegmatite, gabbro pegmatite, etc.
+named.
+Magmatic rocks
+Commonly observed forms of intrusive
+rocks observed in the field are: dykes, sills,
+laccoliths, bysmaliths, phacoliths, lopolith,
+volcanic necks, batholiths and chonoliths.
+Magmatic rocks
+DYKES: Dykes and sills are the most common forms of the intrusive
+Magmatic bodies.
+• They are discordant
+• Cut across the bedding of the rocks in which they intrude
+• Vertical to steeply inclined and sheet like body (extensive in
+lateral dimension)
+• Thickness vary widely from an inch up to hundred of feet
+• Injected through fractures, joints, and weak planes
+• Quartz-Dolerite dykes of Midland valley of Scotland are about 50-60 km long and up to
+30m thick. Few places some dykes are very short up to few meters and as thin as few
+cm.
+Mafic
+dyke
+SILLS: Sills are relatively thin tabular sheet like body that penetrates parallel to the
+bedding planes.
+• Laterally it may extends for 100s of km and up to 10 km in width.
+• Lateral extend mainly depends on the hydrostatic force, temperature, degree of
+fluidity or viscosity, weight of overlying sediment column.
+• Since basic magma are more fluid then acidic magma- mostly sills are made up of
+gabros, dolorites and basalts
+Spreads parallel to the bedding
+limeston
+planes of the rocks, hence
+e
+concordant in nature.
+sandston
+e
+mudston
+e
+LACCOLITHS: It is a concordant body, with flat bottom and convex upward. It is dome
+shaped.
+When viscous magma is injected rapidly
+along the bedding, as it cannot spreads it
+pushes up the overlying layers and keep
+on piling up.
+It causes folding of the overlying rock
+layers.
+BATHOLITHS: are the largest kind of plutons, irregular in shape and occupies large area.
+• Their side sloping away from each other which makes them larger and large downwards extending
+to greater depth
+• Their occurrence is commonly associated with the mountain-building process
+• These are either granites or granodiorites in composition
+Stocks:
+Are smaller irregular
+bodies with 10 km in maximum
+dimension, and are associated
+with batholiths.
+PHACOLITHS: These are concordant bodies that occurs along the crests and troughs of
+the folded sedimentary strata.
+LOPOLITHS: These are basin or saucer-shaped concordant bodies with top nearly flat and
+convex bottom.
+They are very huge body with diameter up to 150 miles (app. 240 km)
+Lopolith
+Magmatic rocks
+• Extrusive Magmatic rocks are rocks formed by cooling magma lavas
+near a surface with a chimney or by moving to the surface. The
+crystals are small because they cool quickly. They usually form a small
+crystalline matrix (porphyric texture) surrounding large crystals. In
+general, except for special conditions, the crystals are coarse grained
+rocks and the differences are fine-grained or glassy. For example
+when granite rocks from the depths to the surface through cracks
+reaches, rhyolites, diorites: andesite-dacite; Syenite: trachyte;
+Gabbro: basalt; Peridotite is called picrite. When the lavas cool very
+rapidly on the surface, there is no crystallization and the resulting
+texture is glassy.
+Magmatic rocks
+• Melt state magma can rise to the surface of the earth's crust cracks
+and crevices. Volcanic rocks form from magma emerging from the
+earth. The magma, which is fluid when it reaches the earth, solidifies
+after a while. Solidified magma is called "lava". Because the lava
+suddenly cool down, they show glassy texture. The volcanic material
+can sometimes rise to the earth as a solid. The grain size of the solid
+material changes. Classification according to grain size;
+• Block or volcano bomb larger than 32 mm,
+• lapilli those between 4-32 mm,
+• volcano ash in between 0.25-4 mm
+• Those larger than 0.25 mm are also called dust.
+Magmatik kayaçlar
+Structure and texture of igneous rocks
+• Structure: The natural architectural features of a rock mass seen on
+the ground in large scale. Here, the physical appearance of the rock
+mass determines character of the rock-forming mineral assemblages
+and plays an important role in shaping the rock mass structure. Faults
+are taken into account in the concept of platoon structure in joints,
+folds, flow or sedimentary rocks.
+Structure and texture of igneous rocks
+• Texture; The geometry and appearance of the minerals of the rocks, including
+the appearance, size, shape and arrangement of the rocks forming the rock,
+including their size, shape and sequence under a hand sample or microscope.
+• The texture of Magmatic rocks depends on the conditions of the environment,
+such as magma or lava cooling rate, pressure and temperature, and slow
+cooling usually causes deep crystals to form at depths of the earth, and this
+texture is called fanaritic texture. The texture of minerals is visible in all
+plutonic rocks. In surface rocks, very fine grained texture, which is formed by
+rapid cooling on the surface and near the surface, can be seen only by
+magnification. Large grain crystals and the texture formed by the small
+crystals surrounding them are also called porphyric texture.
+Structure and texture of igneous rocks
+• In Magmatic rocks, they are classified according to their crystallization
+grades (whole or semi-crystalline, all glass), crystal sizes (phaneretic,
+afanatic), grain sizes in relation to each other (granular and porphyric
+texture) and their relations with each other (panidiomorphic and
+hidiomorphic).
+• The textures of Magmatic rocks play a major role in determining the
+physical and mechanical properties of Magmatic rocks, mineral
+species, mineral sizes, dissociation states. These qualities play an
+important role in the use of Magmatic rocks as construction or
+building materials.
+• Textures by crystallization degree
+• Holocristalline (all crystalline) texture
+• Hypocrystalline texture (semicrystalline)
+• Holohyalin (crystalline / vitreous) texture
+• Textures according to the crystal size
+• Afaneritic(<1 mm)
+• Faneritic (distinguishable by 5mm-1mm)
+• Pegmatitic (very coarse> 5 mm)
+• Porfiric (two-phase)
+• Textures according to the crystal forms
+• Diamorph (self-shaping)
+• Hypidiomorph (partially self-shaped)
+• Csnomorph (self-formed)
+Textures by crystallization degree
+Holocristalline (all crystalline) texture
+Hypocrystalline tissue (semicrystalline)
+Holohyalin (crystalline / vitreous) tissue
+Textures according to the crystal size
+Afanitic (The particles are invisible <1 mm)
+Faneritic (distinguishable by 5mm-1mm)
+Pegmatitic (very coarse> 5 mm)
+Porifric (two-phase)
+FaneriticGranodiorite
+Textures according to the crystal forms
+diamorph (self-shaping)
+Hypidiomorph (partially self-shaped)
+Csnomorph (self-formed)
+Magmatik Kayaçların yapı ve dokuları
+The Importance of Magmatic Rocks in Engineering
+• Plutonic rocks often become resistant to breakage and pressure when
+they are fresh and although the rock is fractured. Therefore they
+show high resistance.
+• They can be used in material engineering services when their
+resistance is between 1500-2000 kg / cm2.
+The Importance of Magmatic Rocks in Engineering
+• The resistance of the rock depends on weathering and hence
+degradation degree will vary inversely with the degree of weathering.
+• Since the volcanic masses have different physical properties, it is
+necessary to thoroughly inspect them before construction starts.
+• Some lavas, agglomerates and volcanic rocks protect their freshness,
+so their resistance may be as high as deep rocks such as basalt. But
+volcanic tuffs and breccias are hollow and decayed, so they show a
+drossy structure. At the same time they lose credibility because they
+show clay mineralization.
+Metamorphic Rocks
+Any rock (igneous, sedimentary, or metamorphic) can become a
+
+metamorphic rock. If rocks are buried deep in the Earth at high
+temperatures and pressures, they form new minerals and textures all
+without melting. If melting occurs, magma is formed, starting the rock
+cycle all over again.
+Rocks that form when a pre-existing rock (protolith) changes due to
+temperature or pressure, and/or as a result of squashing or shearing.
+Metamorphism doesn’t include weathering, diagenesis, and melting. It is
+a solid-state process.
+Metamorphic Rocks
+• Metamorphism progresses incrementally from low grade to high-grade
+• During metamorphism (transformation) the rock remains essentially solid
+• Metamorphism characterized by
+• Growth of new minerals from pre-existing minerals through recrystallization
+• Deformation of existing minerals
+• Change in shape
+• Change in orientation
+• Metamorphic settings
+Metamorphic Rocks
+• Metamorphic rocks occur because of changes that are caused by high
+temperatures (above 600 C) and high pressures (500 Mpa) (20 km
+deep).
+• Metamorphic rock type is depended on parent rocks (pre-existing
+rocks), the process through which a rock’s structure is changed by heat
+and pressure
+• Parent rocks can be Igneous, sedimentary, or other metamorphic rocks.
+• Most of the metamorphic changes begin at depths of a few miles of the
+earth, continuing up to the upper mantle depths with rising
+temperature and pressure.
+metamorphic rocks: controlling factors
+• parent rock composition (also called protolith)
+• temperature and pressure during metamorphism
+• tectonic forces
+• fluids
+parent rock composition
+no new material is added to rock during metamorphism
+metamorphic rock will have similar composition to parent rock
+if parent material contains only one mineral
+resultant metamorphic rock will only have one mineral
+--mineral will be recrystallized (texture changes)--
+Limestone
+Marble
+if parent material contains many minerals…
+…old minerals will recombine to form new minerals
+clay, quartz, mica, and volcanic fragments in a sandstone
+will combine to form new metamorphic minerals
+example is garnet: which grows during metamorphism
+QuickTime™ and a
+TIFF (Uncompressed) decompressor
+are needed to see this picture.
+garnet growing garnet schist (metamorphic rock)
+temperature during metamorphism
+• heat from Earth’s deep interior
+• all minerals stable over finite temperature range
+• higher temperatures than range cause melting
+(and therefore generates igneous rocks)
+heat is essential
+think about mixing flour, yeast, water, salt….
+….nothing happens until they have a heat source
+and then they make bread
+pressure during metamorphism
+pressure in the Earth acts the same in all directions
+pressure is proportional
+to depth in the Earth
+pressure increases
+increases at ~1 kilobar
+with depth
+per 3.3 km
+volume decreases
+with depth
+look at example with deep water
+consequence on cube is squeezing
+into smaller cube
+--grains pack together--
+high pressure minerals: more compact and dense
+tectonic forces - driven by plate motion!
+lead to forces that are not equal in all directions (differential stress)
+compressive stress (hands squeeze together)
+causes flattening at 90° to stress
+shearing (hands rubbing together)
+causes flattening parallel to stress
+flattened pebbles in metamorphic rock
+fluids
+• hot water (water vapor) most important
+• heat causes unstable minerals to release water
+• water reacts with surrounding rocks
+and transports dissolved material and ions
+time
+• metamorphism may take millions of years
+• longer times allow new minerals to grow larger
+--coarser grained rocks
+types of metamorphism
+• Contact or thermal metamorphism
+Driven by a rise in temperature within the host rock
+• Regional metamorphism
+Occurs during mountain building
+Produces the greatest volume of metamorphic rock
+• Burial metamorphism
+Occurs at bottom of thick sedimentary rock piles
+• Hydrothermal metamorphism
+chemical alterations from hot, ion-rich water
+• Others
+Contact metamorphism
+• Occurs due to a rise in temperature when magma invades a host rock
+• A zone of metamorphism forms in the rock surrounding the magma
+• Most easily recognized when it occurs at the surface, or in a near-surface
+environment
+types of metamorphism
+contact metamorphism • occurs adjacent to magma bodies intruding
+cooler country rock -- “contact”
+• produces non-foliated metamorphic rocks
+• happens in a narrow zone of contact
+(~1 to 100 m wide) known as aureole
+• forms fine-grained (e.g. hornfels) or
+coarse-grained (e.g. marble) rocks
+types of metamorphism
+regional metamorphism
+• occurs over wide region and mostly in
+deformed mountain ranges
+• produces foliated metamorphic rocks
+• happens at high pressures and over a range
+of temperature
+• increases in pressures and temperatures
+forms rocks of higher metamorphic grade
+Burial metamorphism
+• Associated with very thick sedimentary strata
+• Required depth varies from one location to another
+• depending on the prevailing geothermal gradient
+hydrothermal alteration along mid-ocean ridge
+Other types of metamorphism
+• Hydrothermal metamorphism
+Chemical alteration caused when hot, ion-rich
+fluids, called hydrothermal solutions, circulate
+through fissures and cracks that develop in rock
+Most widespread along the axis of the mid-
+ocean ridge system
+cold sea water encounters hot basalt,
+forms steam, alters minerals
+other types of metamorphism (less common)
+partial melting during metamorphism
+• produces migmatites, which have both intrusive
+and metamorphic textures
+shock metamorphism
+• occurs during impact events
+• yields very high pressures
+• forms “shocked” rocks around impact craters
+plate tectonics and metamorphism
+regional metamorphism associated with convergent boundaries
+ pressure increases with depth
+ temperature varies laterally
+ different P, T conditions yield
+different degrees of metamorphism
+temperatures cooler in down-going (subducting) plate
+(dashed purple line is isotherm -- line of equal T)
+Metamorphic rock systematics
+Metamorphic rocks are classified on
+the basis of
+ texture and
+ composition (either mineralogical
+or chemical)
+Scheme for Metamorphic Rock Identification
+Texture Composition Type of Comment Rock Name
+Metamorphism
+Regional Low-Grade
+metamorphism of Slate
+Mica
+SHALE
+T
+D L N Mica, Quartz, Foliation surfaces shiny
+E A E
+Feldspar, from microscopic mica
+R M Phyllite
+T
+E Amphiboles, Garnet crystals
+N
+A N (Heat and
+G
+I I Pressure
+L M I Mica, Quartz,
+L
+increase w/
+O A Feldspar, Platy mica crystals
+depth) Schist
+F Amphiboles, Garnet,
+visible
+Pyroxene
+- Mica, Quartz, Compact, may split
+D
+G
+N N Feldspar, easily Gneiss
+A Amphiboles, Garnet,
+I
+B
+Pyroxene
+Scheme for Metamorphic Rock Identification
+Texture Composition Type of Comment Rock Name
+Metamorphism
+Various rocks changed
+Contact by nearby magma/lava Hornfels
+Variable
+(Heat)
+D
+E Metamorphism of
+T
+Quartz Quartz Sandstone Quartzite
+Regional
+A
+I
+L
+O (Heat Metamorphism of
+F Calcite and/or & Limestone or Marble
+N Dolomite Dolostone
+Pressure)
+O
+N Pebbles may be
+Various minerals in distorted or stretched
+Metaconglomerate
+particles and matrix
+Progression of Metamorphism
+Start with a shale and then hit
+it with heat and pressure!
+Rock Name Rock Type Grade of
+Metamorphism
+More Shale Sedimentary -----
+Heat
+Slate Metamorphic Low
+&
+Pressure Phyllite Metamorphic Low/Intermediate
+Schist Metamorphic Intermediate/High
+Gneiss Metamorphic High
+Molten Rock Cools into -----
+Igneous Rock
+Shale
+(Sedimentary Rock)
+Heat
+Slate
+&
+(Metamorphic Rock)
+Pressure
+Slate
+(Metamorphic Rock)
+Heat
+Phyllite
+&
+Pressure (Metamorphic Rock)
+Phyllite
+(Metamorphic Rock)
+Heat
+Schist
+&
+Pressure (Metamorphic Rock)
+With even more heat & pressure
+(High-Grade Metamorphism)
+… you end up with something
+that is really Gneiss!
+Metamorphic Textures
+Texture refers to the size, shape, and arrangement of
+grains within a rock
+1. Foliated Rock  Bands of minerals in parallel layers
+Foliation – any planar arrangement of mineral grains or structural
+features within a rock
+Parallel alignment of platy and/or elongated minerals
+Foliation can form through:
+ Rotation of platy and/or elongated minerals
+ Recrystallization of minerals in the direction of preferred orientation
+ Changing the shape of equidimensional grains into elongated shapes
+that are aligned
+2. Non-foliated Rock  Without bands
+Metamorphic rocks that lack foliation are referred to as
+nonfoliated
+Develop in environments where stress (deformation) is minimal
+Typically composed of minerals that exhibit equidimensional
+crystals
+Metamorphic Textures
+Foliation: The structure is called as foliation when it is ranged as parallel planes of minerals forming metamorphic rocks
+to each other, collecting in the form of lenses or bands,
+It develops planar structures that occur with both planar and elongated flattened mineral grains, and ıt are
+repeatedly layered and dyed from a rock under high pressure and heat .
+Schistosity: Platy minerals are discernible with the unaided eye and exhibit a planar or layered structure under high
+pressure and heat.
+Lineation: passing there through regardless of their origin rock, repeated, visible linear eye structures of all kinds.
+Gneissic texture : Segregation of minerals leads to distinctive banded appearance
+Metamorphic Textures
+• Cleavage: It is called cleavage of wrinkled planes connected by directional
+pressures, deformed by layering planes, which develops at a certain angle
+and develops in close proximity to each other, in parallel and in more than
+one direction. Cleavage is a secondary texture that allows a rock to
+separate into planes.
+• Mylonite: Rock in the deep portions of faults undergoes dynamic
+metamorphism and creates a fine-grained metamorphic rock called a
+mylonite. Rock in the deep portions of faults undergoes dynamic
+metamorphism and creates a fine-grained metamorphic rock called a
+mylonite. During the deformation occurring in the fault zone, the primary
+grains of the rock are broken and crushed to form the milonitic zone, which
+forms again smaller rocks, smaller than 0.5 mm, forming the milonitis.
+metamorphic rocks: basic classification
+based on rock texture
+foliated (layered)
+type of foliation -- e.g. slaty
+non-foliated (non-layered)
+composition -- e.g. marble
+foliated (layered) metamorphic rocks
+results from differential stress (not equal in all directions)
+foliation
+appearance under microscope
+non-foliated foliated
+Engineering Properties of Metamorphic Rocks
+• Rocks showing foliation should not be preferred as construction materials in
+terms of strength.
+• The strengths of the foliated metamorphic rocks, along with the leavening and
+foliations that develop as a result of the metamorphism, are decreasing along
+the foliage planes due to clay minerals that swell in water like chlorite and
+epidote.
+• Marbles from metamorphic rocks are preferred as a good building material. It
+is the building material that is required in the building coverings.
+• The metamorphic masses provide a solid structure for the foundation of the
+building, if it is not separated. Some slip planes can be used without any
+support if the slip gaps are not full with clays.
+Engineering Properties of Metamorphic Rocks
+• Metamorphics can be exposed to change immediately under favorable climatic conditions. Due to the
+changing construction, volume increases and pressure increases. Such features should be observed in
+tunnels and dam constructions and other constructions.
+• Schist rocks along the schistosity plane cause shifts in the excavations. This is especially the case for the
+dissociated regions where the schistose and cleavage are opened and weakened and the rock resistance is
+greatly reduced.
+• Schists and similar rocks create landslide hazards in road constructions, dam abrasions and reservoir slopes.
+• Massive gneisses provide very good conditions for large underground openings. Facilities for swimming
+pools, theaters, skating rinks, industrial warehouses, production plants and many other activities have been
+created economically and safely in large openings to such rocks.
+• Schistosized and competing gneisses can create stability problems in underground openings. Even in the
+ravaged schist and the small tunnels opened in the phyllite, the ceiling may collapse. As the metamorphic
+rocks are cracked and contested on the surface, excavations cause the rock blocks to move.
+Sedimantary Rocks
+• Materials which are derived by all kinds of rocks (magmatic,
+metamorphic, sedimanter) are subject to physical chemical
+and biological disruption and dispersion under all kinds of
+conditions, then they stay in place or are transported in
+different ways and settled in a certain place. It is called as
+«sedimen»
+• Sedimentary rocks are formed by the accumulation of
+inorganic and organic sediments which undergo compaction
+and cementation to form rock.
+Matrix: Cement:
+is the finer grains dissolved
+or material that
+substance
+surrounds the
+that bounds
+larger clasts. It
+the
+consist of either
+sediments.
+clay, silt and sand.
+1. Calcareous
+2. siliceous
+Fine-gravel/
+Any rock fragment Granule
+(size is > 4 mm=Pebble) (size <4mm)
+Sediment
+loose, solid particles originating from:
+• Weathering and erosion of preexisting rocks
+• Chemical precipitation from solution,
+including secretion by organisms in water
+Sedimantary Rocks
+• There are at least four phases in the generation of sedimantary rocks;
+These phases;
+1. Weathering and erosion
+2. Transportation: Movement of the material coming from the decay of the
+rocks in various ways
+3. Deposition: Storage or sedimentation of transported material in certain
+places,
+4. Lithification: Compaction and consolidation of stored or deposited
+sediments after diagenesis
+Transportation
+• Movement of sediment away from its source, typically by water, wind, or ice
+• Rounding of particles occurs due to abrasion during transport
+• Sorting occurs as sediment is separated according to grain size by transport agents, especially
+running water
+• Sediment size decreases with increased transport distance
+Deposition
+o Settling and coming to rest of transported material
+o Accumulation of chemical or organic sediments, typically in water
+o Environment of deposition is the location in which deposition occurs
+• Deep sea floor
+• Beach
+• Desert dunes
+• River channel
+• Lake bottom
+Preservation
+o Sediment must be preserved, as by burial with additional sediments, in order to
+become a sedimentary rock
+Lithification
+o General term for processes converting loose sediment into sedimentary rock
+o Combination of compaction and cementation
+Sedimantary Rocks
+• Diagenesis is the term used for all of the changes that a sediment
+undergoes after deposition and before the transition to
+metamorphism. The multifarious processes that come under the term
+diagenesis are chemical, physical, and biological.
+Diagenesis
+Compaction Alteration
+Cementing • Limestone - Dolomite
+• Quartz • Plagioclase – Albite
+• Calcite Recrystallization
+• Iron Oxide • Limestone
+• Clay
+• Glauconite
+• Feldspar
+Sedimantary Rocks
+Some of the criteria that distinguish sediman from sedimentary rocks are:
+Sedimans are loose because they do not bond to one another and do not undergo diagenesis.
+In Sedimanter rocks, granules are connected to each other by an intermediate material,
+namely cement. They are also diagenetic and petrified. Contrary to sedimans, they are
+consolidated and hardened.
+Sedimentary rocks show stratification and provide different shapes when stratified (Graded
+stratification, cross stratification, etc.) Sediments are usually found in mass. They do not
+show stratification.
+Sedimentary rocks contain organic residues. Organisms leave behind organic and inorganic
+materials after their deaths. Inorganic wastes become fossilized and organic materials leave
+their places to organic minerals such as petroleum and coal.
+Sedimentary rocks may undergo some changes after their formation. This is called
+deformation. As a result of deformation are folded, bent, broken, or even are displaced.
+IMPORTANCE OF SEDIMENTARY ROCK
+“Present is the key to the past”
+• Helps in knowing depositional environment viz. marine (ocean deposits),
+fluvial (river deposits), aeolian (wind deposits), glacial, estuarine,
+Lacustrine (lake deposits) etc.
+• Helps in knowing the provenance (i.e. source area of the sediments);
+change in climatic conditions i.e. in knowing and understanding old
+climate=paleoclimate.
+TYPES OF SEDIMENTARY ROCKS
+Chemical
+Organic rocks
+Clastic rocks
+Carbonate rocks
+• Sandstones
+Organic rocks
+• Conglomerates Form basically from
+Form due to
+CaCO – both by
+• Breccia
+3
+decomposition of
+chemical leaching and
+• Shale/mudstones organic remains
+by organic source
+under temperature
+(biochemical) eg.
+and pressure eg.
+Limestone; dolomite
+Coal/Lignite etc.
+Evaporitic rocks
+These rocks are formed
+due to evaporation of
+saline water (sea water)
+eg. Gypsum, Halit
+(rock salt)
+Sedimentary Rocks are classified based on their
+components.
+Clastic Chemical
+Organic
+1.) Conglomerate
+1.) Limestone
+1.) Coal
+2.) Sandstone
+3.) Shale
+2.) Fossiliferous Limestone 2.) Salt
+Environments affect the type of sediment.
+Environments change throughout geologic time.
+Where do you think these rocks are from? GRAND CANYON!!!
+Different environments produce different
+sedimentary rocks.
+Different environments produce different
+sedimentary rocks.
+Different environments produce different
+sedimentary rocks.
+Different environments produce different
+sedimentary rocks.
+Sedimantary Rocks
+Clastic Sedimentary Rocks; formed from broken rock fragments
+weathered and eroded by river, glacier, wind and sea waves. These
+clastic sediments are found deposited on floodplains, beaches, in
+desert and on the sea floors.
+These rocks usually form in water environments such as, rivers, lakes,
+oceans, but can also form in deserts.
+Consist of solid particles from weathered rocks. These rock fragments
+include pebbles, sand, silt and clay.
+This figure shows how
+clastic sediment of various
+sizes will, after compaction
+and cementation, form
+different types of detrital
+sedimentary rocks.
+The process of sediment
+turning into rock is called
+lithification.
+sediments
+gravel sand silt clay
+sedimentary
+rocks
+conglomerate sandstone siltstone shale
+Chemical Sedimentary Rocks
+These rocks form as a result of chemical weathering dissolving chemicals and transporting it in
+solution. When conditions are right, these dissolved chemicals change back into a solid through the
+processes of precipitation and evaporation.
+Precipitation: Process where chemicals dissolved on solution, fall out of solution and forms a solid
+material. Most common in shallow water environments.
+Evaporation: Process where there is a change in state from a liquid to a gas. Chemicals dissolved in
+the liquid (water) are left behind as a solid material.
+Chemical Sedimentary Rocks
+These rocks usually form in water environments such as lakes and shallow seas or oceans.
+Some examples of chemical sedimentary rocks include;
+1)Limestone (Calcite) - (form by precipitation)
+2)Rock Gypsum - (form by precipitation and evaporation)
+3)Rock salt (Halite) – (from by evaporation)
+4)Coquina - (form by biochemical processes)
+Organic Sedimentary Rocks
+These rocks form as a result of once living material accumulating to form solid rock.
+The most common organic rock is coal, which forms when plant material in water saturated
+environments (swamps) die and accumulate to form peat. As peat is buried it compresses and eventually
+changes to form coal.
+Textures of Sedimentary Rocks
+• Most sedimentary rocks are derived by processes of weathering, transportation, deposition, and diagenesis.
+The final texture (grain size, shape, sorting, mineralogy, etc.) in a sediment or sedimentary rocks is dependent
+on process that occur during each stage. The points below summarize the basic factors affecting rock texture.
+– The nature of the source rocks (the rocks that were eroded to create the sediments). This determines the original
+shape of the grains and the mineralogical composition of the original sediment.
+– The strength of the wind or water currents that carry and deposit the sediment. This determines whether or not grains
+are transported or deposited. The deposition process also controls structures (see sedimentary structures below) that
+could be preserved in the sediment and thus give clues to the environment of deposition.
+– The distance transported or time in the transportation process. The longer grains are in the transportation process the
+more likely they are to change shape and become sorted on the basis of size and mineralogy. This also controls extent
+to which they break down to stable minerals during the transportation process.
+– Biological activity with the sediment prior to diagenesis. Burrowing organisms can redistribute sediment after it has
+been deposited, thus erasing some of the clues to the original environment of deposition.
+– The chemical environment under which diagenesis occurs. During diagenesis grains are compacted, new minerals
+precipitate in the pore spaces, some minerals continue to react to produce new minerals, and some minerals
+recrystallize. What happens depends on the composition of fluids moving through the rock, the composition of the
+mineral grains, and the pressure and temperature conditions attained during diagenesis.
+Textures of Sedimentary Rocks
+Grain sorting: Sorting refers to the uniformity of grain size in a sediment or sedimentary rock.
+Rounding: During the transportation process, grains may be reduced in size due to abrasion. Random
+abrasion results in the eventual rounding off of the sharp corners and edges of grains. Thus, the degree
+of rounding of grains gives us clues to the amount of time a sediment has been in the transportation cycle.
+Textures of Sedimentary Rocks
+• Sphericity is controlled by the original shape of the grain.
+The longer the sediment is transported, the more time is
+available for grains to lose their rough edges and corners by
+abrasion
+Layering (bedding)
+One of the most obvious features of sedimentary rocks and sediment is the layered structure which they exhibit.
+The layers are evident because of differences in mineralogy, clast size, degree of sorting, or color of the different
+layers. In rocks, these differences may be made more prominent by the differences in resistance to weathering or
+color changes brought out by weathering.
+Cross Bedding
+Consists of sets of beds that are inclined relative to one another. The beds are inclined in the direction that the wind
+or water was moving at the time of deposition. Boundaries between sets of cross beds usually represent an
+erosional surface. Cross bedding is very common in beach deposits, sand dunes, and river deposited sediment.
+Individual beds within cross-bedded strata are useful indicators of current direction and tops and bottoms. Note
+how the beds become asymptotic to the lower boundary on which they were deposited
+Graded Bedding
+As current velocity decreases, the larger or more dense particles are deposited first, followed by smaller
+particles. This results in bedding showing a decrease in grain size from the bottom of the bed to the top of the
+bed. This gives us a method for determining tops and bottoms of beds, since reverse grading will not be expected
+unless deposition occurs under unusual circumstances. Note that reverse graded bedding cannot occur as current
+velocity increases, because each layer will simply be removed as the current achieves a velocity high enough to
+carry sediment of a particular size.
+Engineering Properties of Sedimentary Rocks
+Physical and especially mechanical properties of the existing rocks should be determined by
+laboratory tests and tests. The results should be numbered and used in basic and static
+calculations.
+The rocks have a certain carrying power. Rocks that are overloaded by forces change structure
+and shape, so the upper structures can be damaged.
+The ground that is overloaded on the surface shows different physical and chemical properties.
+The factors affecting the cost and safety of the construction which are known as the
+engineering properties of the rocks are the specific gravity, porosity, water absorption, unit
+volume weight, resistance corresponding to the press, resistance to atmosphere effect,
+wear, fragmentation,
+Engineering Properties of Sedimentary Rocks
+With laboratory experiments;
+It should be determined whether they are essential or not according to various rock
+and soil conditions. Stability and resistance to depression should be determined.
+The properties of storage (S) or permeability (K) and transmissibility T of groundwater
+of various rocks and soils should be determined.
+Whether or not the rocks are suitable for building materials should be determined.
+Engineering Properties of Sedimentary Rocks
+• The resistance of the sedimentary rocks to breakage and pressures varies depending on the hardness grades and the
+susceptibility of the minerals to water. For example; Clay, marl, gypsum and limestone cemented sandstones and
+conglomerates show little resistance to water pressures. Silica cemented ones are more resistant, like granite and basalt.
+Good cemented rocks have high porosity and permeability ratings, so their water storage capacities are high, while their
+resistance is low.
+• Sedimantary rocks containing clay minerals such as clay and shale contain water in a small or large amount depending on
+the type of minerals they contain. Their indentations loosen or degrade according to the water content. As a result,
+resistance and handling power are reduced.
+• Limestones are used as building material for producing lime, aggregate, gravel and building stone. The resistance of the
+limestones to be used in this area must be at least 200 kg / cm2 with respect to water absorption, less abrasion, and pore
+and porosity
+• The resistance of the limestones is low and high, so the stratification of the limestones is effective.
+• Cracking systems and melting gaps should be avoided or minimized in limestones if they are used in foundation and dam
+construction.
+• Limestones must be cracked and melting space at groundwater investigations. Limestones which have high porosity and
+cracked provides to generate high disharges karstic springs.
+Flatirons, Boulder, Colorado
+Garden of the Gods, Colorado
+Fig. 2.9
+MAGMA
+IGNEOUS
+Solidification
+MAGMA
+IGNEOUS
+Plutonic
+Solidification
+MAGMA
+Volcanic
+IGNEOUS
+Plutonic
+Solidification
+MAGMA
+Weathering &
+Erosion
+Uplift
+Volcanic
+IGNEOUS
+Plutonic
+Solidification
+MAGMA
+SSEEDDIIMMEENNTT
+Weathering &
+Erosion
+Volcanic
+IGNEOUS
+Plutonic
+Solidification
+MAGMA
+Erosion
+SEDIMENT
+Weathering &
+Erosion
+Transport
+Deposition
+Volcanic
+SEDIMENTARY
+IGNEOUS
+Plutonic
+Solidification
+MAGMA
+Deposition
+SEDIMENT
+Weathering &
+Erosion
+Burial/Compaction
+Cementation
+Volcanic
+SEDIMENTARY
+IGNEOUS
+Plutonic
+Solidification
+MAGMA
+Deposition
+SEDIMENT
+Weathering &
+Erosion
+Burial/Compaction
+Cementation
+Volcanic
+SEDIMENTARY
+IGNEOUS
+Plutonic Increased P&T
+METAMORPHIC
+Solidification
+MAGMA
+Deposition
+SEDIMENT
+Weathering &
+Erosion
+Burial/Compaction
+Cementation
+Volcanic Can you see
+SEDIMENTARY
+IGNEOUS any shortcuts?
+Plutonic Increased P&T
+METAMORPHIC
+Solidification
+Melting
+MAGMA
+Deposition
+SEDIMENT
+Weathering &
+Erosion
+Burial/Compaction
+Cementation
+Volcanic
+SEDIMENTARY
+IGNEOUS
+Plutonic Increased P&T
+METAMORPHIC
+Solidification
+Melting
+MAGMA
+Deposition
+SEDIMENT
+Weathering &
+Erosion
+Burial/Compaction
+Cementation
+Volcanic
+SEDIMENTARY
+IGNEOUS
+Plutonic Increased P&T
+METAMORPHIC
+Solidification
+Melting
+MAGMA
+Weathering
+A. Mechanical Weathering
+B. Chemical Weathering
+C. Soil
+Weathering
+Mechanical Weathering
+
+Physical disintegration of rock
+
+(with no chemical alteration)
+Chemical Weathering
+
+Chemical alteration of minerals
+
+within the rock
+Usually softening or dissolving
+
+the minerals
+Forming clays, oxides and
+
+solutes
+AGENTS OF PHYSICAL WEATHERING
+1. Frost Action-The freezing and thawing causes alternate
+expansion and contraction of rocks eventually breaking them
+apart.
+Dominate in mountain or
+polar regions.
+More likely to occur in
+winter
+The result of
+Mechanical weathering
+Rock falls and slides
+Crushing and abrasion (more mechanical
+weathering)
+Rock Avalanches
+Slopes of rock fragments may let go and careen
+downhill as a very fast flow
+Talus Slopes
+The result of
+
+Mechanical weathering
+
+Rock falls and slides
+
+Crushing and abrasion (more
+
+mechanical weathering)
+Rock Avalanches
+
+Slopes of rock fragments may let
+
+go and careen downhill as a very
+fast flow
+MECHANICAL WEATHERING
+Ice
+Salt crystal growth
+As salt crystals gradually
+grow larger, they weaken
+the rock by pushing apart
+surrounding grains or
+enlarging tiny cracks
+Unloading
+Pressure release forms
+sheet joints and exfoliation
+Sheeting is caused by the
+expansion of crystalline rock
+as erosion removes the
+overying material, a process
+termed unloading
+Mechanical
+Weathering
+An exfoliation
+
+dome in
+Yosemite, CA
+(Half Dome)
+2. Biological Action - With plant growth the root system will increase in volume
+and cause cracks in the rock to expand.
+Lichens are primary soil producers
+creating conditions for larger plant growth.
+Chemical Weathering - when agents of weathering chemically change the
+composition of a rock.
+II. AGENTS OF CHEMICAL WEATHERING
+1. Oxidation– Oxygen combines with minerals to form oxides.
+(iron + oxygen = Rust)
+Oxidation weakens the bedrock making it softer.
+Chemical Weathering
+
+Dissolving  Dissolved ions
+
+Oxidation  Iron in Ferromag. Minerals  Iron
+
+Oxides (e.g., Hematite)
+Formation of Clays from silicates (e.g., Feldspar)
+
+2. Hydration- minerals absorb water and chemically change the composition of
+the material
+Ex. granite contains mica.
+Mica has a weak chemical
+composition and absorb water.
+Turns into clay
+3. Carbonation– When pollutants like Carbon Dioxide, Nitrogen & Sulfuric
+Oxides mix with rain water creating acid rain, which can dissolve limestone
+and harm the living environment.
+ Coal Burning For Electricity
+ Fossil Fuel Consumption for Cars
+4. Water- Is unique and dissolves most minerals and metals in our environment.
+(universal solvent).
+Chemical weathering:
+ion exchange and the chemical breakdown of feldspar
+Chemical Weathering
+Hydrolysis
+Oxidation:
+4FeSiO + O + H O  FeO(OH) + 4SiO
+3 2 2 2
+Hydration:
+CaSO + 2H O  CaSO ·2H O
+4 2 4 2
+Factors affecting weathering
+ Climate
+ Different climates and temperatures
+produce more favorable forms of
+weathering.
+Chemical weathering is more prevalent in
+
+warm, wet tropical climates
+Humid Climates are moist and the rate of
+
+weathering is fairly fast.
+Mechanical weathering less important here
+
+Mechanical weathering is more prevalent in
+
+cold, relatively dry regions
+Arid Climates are very dry and the rate of
+
+weathering is slow
+Chemical weathering occurs slowly here
+
+ Usually in the presence of heat weathering
+rates will also increase.
+Factors affecting weathering:
+color dots on map match colors on chart
+Cold and Humid-Physical weathering is dominate at high latitudes
+altitudes, or in the winter.
+-Frost Action and Glacial Abrasion
+Hot and Humid - Chemical weathering is dominate near the equator and in the
+summer.
+-Oxidation, Hydration
+Humid climates also favor
+chemical weathering and
+increase the rate in which
+water will dissolve minerals.
+Hot & humid climates can also
+increase the rate of physical
+weathering by biological action.
+In the mountains and at the
+poles physical weathering like
+frost action and abrasion are
+more likely.
+2.Particle Size and Shape as particle size decreases the weathering rate
+increases
+- When the surface area increase, more sides are
+able to react with the elements
+Angular Sediments have more surface area.
+-weather at a faster rate.
+Round sediments have less surface area
+-weathering rate decreases.
+3. Mineral Composition - some rocks are resistant to weathering because of
+their composition
+More Resistant
+Hard Rocks have Strong
+Chemical Compositions
+Less Resistant
+Soft Rocks have Weak
+chemical compositions
+Rocks will weather at different rates due to their chemical compositions.
+Granite w/ strong chemical Limestone w/ weak chemical
+composition (hard rock) composition (soft rock)
+Rock composition
+
+Minerals weather at
+
+different rates
+Calcite weathers quickly
+
+through dissolution
+Quartz is very resistant to
+
+chemical and mechanical
+weathering
+Mafic rocks with
+
+ferromagnesian minerals
+weather more easily
+Rock structure
+
+Distribution of joints
+
+influence rate of
+weathering
+Relatively close joints
+
+weather faster
+Topography
+
+Weathering occurs
+
+faster on steeper
+slopes
+Rockslides
+
+Vegetation
+
+Contribute to mechanical
+
+and chemical weathering
+Promotes weathering due
+
+to increased water retention
+Vegetation removal
+
+increases soil loss
+Vegetation can both hold water
+And increase weathering. If removed
+Rocks may also be vulnerable to abrasion
+Silicate
+Structure Mineral
+Rates of Weathering
+Isolated
+Olivine
+Silicate
+y
+Structure b
+Stable at High s
+ Single Chain n
+Pyroxene
+o
+Structure
+Temperatures Group i
+d
+n
+a
+Quickly Weathered
+
+,
+s
+e g
+Double Chain Amphibole d n
+Structure Group i i
+x r
+o e
+h
+, t
+y
+a
+Mica a e
+l w
+Group c
+Sheet
+o l
+Structure t a
+Clay c
+d
+i
+Group e m
+t
+r e
+ Slowly Weathered e h
+Feldspar v c
+Framework n
+Group
+o
+Stable at Atmos.
+ Structure
+C
+Temperatures Quartz
+Mech. Weath.
+IV. Products of Weathering - sediments and soils
+1. Sediment Types
+a. Solids – Are clastic sediments
+such as pebbles, sand, silt, or clay
+b. Colloids– Are suspended clay size particles
+c. Ionic Solutions– Are dissolved compounds in water
+Products of Weathering
+Clay
+
+Tiny mineral particles of any kind that have physical properties like
+
+those of the clay minerals
+Clays are hydrous alumino-silicate minerals
+
+Products of Weathering
+Sand
+
+A sediment made of relatively coarse
+
+mineral grains
+Soil
+
+Mixture of minerals with different
+
+grain sizes, along with some materials
+of biologic origin
+Humus
+
+Partially decayed organic matter in soil
+
+2. Soil Types
+a. Residual– Soils formed from the weathering of the local
+bedrock and have the same mineral composition.
+b. Transported- Soil that has been moved & the sediments
+are not of the same composition as the local rock
+Soil Horizons
+A. Top layer rich in organics & minerals from
+biologic activity.
+B. Sediments with minerals dissolved from
+above are found here.
+C. Mostly un-weathered bedrock.
+Soil development from local bedrock.
+Stage 1 Mostly un-weathered bedrock
+Stage 2 Development of top soil by biologic activity
+Stage 3 Mature thick and well developed soil horizons
+Soil is non-renewable resource
+1 inch is made for every 100 years in New York
+Different climates produce different soil types
+Form at different rates.
+Differential Weathering
+John Ford Point Monument, Arizona.
+Ship Rock, New Mexico
+Volcanic Neck
+ENGINEERING PROPERTIES OF ROCKS
+Engineering properties of rock determines geologic, chemical, mechanical, deformation and
+technological properties of rocks
+1. Geological properties
+a) Generation time of rocks
+b) Generation environment of rocks
+c) Lithological properties of rocks
+d) Structural properties of rocks
+e) Hydrological properties of rocks
+ENGINEERING PROPERTIES OF ROCKS
+2. Chemical properties; include behavior of melting, weathering and against water with respect the
+compositon of rocks. It directly influences various engineering works and their projects.
+3. Physical Properties; Unit volume weight, density, natural water content, porosity and void ratio,
+degree of saturation, permeability, weight water absorption and volumetric water absorption are
+physical properties of rocks.
+4. Mechanical Properties; Are characteristics that determine the behavior of rocks under various
+stresses
+a) Compression strength (Uniaxial compressive strength, Schmidt Attractor Test, Point load
+resistance, Disc Shear Index Test)
+b) Tensile strength (Direct pull, Indirect pull (Brazilian test))
+c) Shear Strength (Triaxial compression test, Direct shear test)
+d) Buckling Strength
+e) Bending Strength
+5. Deformation Properties; Elastic modulus and Poisson ratio, Rigidity module etc.
+6.Technological Properties; Pierceable, breakable, excavable, interceptable, polishable,
+machinable, usable, tunnelable ...
+Rock Material, Discontinuity, Rock Mass
+Intact rock material: Rock mass is a matrix consisting of rock
+material and rock discontinuities. As discussed early, rock
+discontinuity that distributed extensively in a rock mass is
+predominantly joints. Faults, bedding planes and dyke intrusions
+are localised features and therefore are dealt individually.
+Properties of rock mass therefore are governed by the parameters
+of rock joints and rock material, as well as boundary conditions
+Discontinuity: A discontinuity is a plane or surface that marks a
+change in physical or chemical characteristics in a soil or rock
+mass. A discontinuity can be in the form of a bedding plane,
+schistosity, foliation, joint, cleavage, fracture, fissure, crack, or
+fault plane. This discontinuity controls the type of failure which
+may occur in a rock slope. The properties of discontinuities such
+as orientation, persistence, roughness and infilling are play
+important role in the stability of jointed rock slope. Discontinuities
+may occur multiple times with broadly the same mechanical
+characteristics in a discontinuity set, or may be a single
+discontinuity. It makes a soil or rock mass anisotropic.
+Rock Material, Discontinuity, Rock Mass
+In various engineering works and excavations; projects such as dams, tunnels, underground power
+plants, bridges, etc., calculation of the stability of foundation and materials which are used for them,
+the discontinuity properties that affect the engineering properties of the rocks in advance with the
+determined deformations in front of various forces must be well known.
+Massive rock types: This rock types are found below the degradation zones and rock masses which do not
+include foliation such as massive sandstone and granites are in this group. Such masses are considered as
+continuous, homogeneous, isotropic rocks.
+Partially jointed rock mass: rocks which have fewer than three and continous discontunity can be obtained
+as individual blocks when excavated.
+Partially Blocked Rock Mass : It is a rock mass which includes fewer than three discontinutious and whose
+discontiunity are filled by secondary material and which contain closed secondary discontinuity. If one of
+the closed joint sets is opened due to deformation, blockage in the rock mass develops.
+Blocked Rock Mass: It is rock masses that contain well-developed, open or soft fillings, high continuity, and a
+set of discontinuities in excess of 3. It is easy to obtain blocks from such rock masses during excavation.
+Hollow Rock Mass: The soluble limestones in this group are composed of dolomite, gypsum, rock salt and a
+soluble cement
+Very porous rock mass: In such rock masses, significant amounts of pores influence the mechanical
+behavior of the rock.
+Advanced fissured rock mass: Fissured rock substantially brittleness and anisotropy also contain small
+discontinuities frequent cause a deviation with respect to all mechanical properties.
+Jammed and swollen rock mass: Such rock masses, when they come into contact with water, suddenly and
+intermittently crack and change volume and contain active clay minerals. The basic principles of ground
+mechanics can be applied to such rocks.
+Rock Mass Properties And Test Methods
+Rock Mass Behavior (Scale Effect) due to Increase in
+Excavation Dimensions
+Definition of Rock Masses
+Discontunity properties are defined for;
+• Determination of geological structure,
+• Engineering classification of rock mass
+• Determination of rock stability
+The rock masses are not continuous, homogeneous and isotropic
+materials, but are cut by various discontinuities. For this reason, the
+behavior of rock masses, which can be exposed to external loads, can
+not be analyzed as close to reality without taking into account the
+characteristics of the discontinuities they contain.
+Discontunity properties of rock mass
+The properties of discontinuities are determined and / or identified on the surface or in drilling cores by using
+different measurement techniques. Physical parameters of discontinuities;
+Type of discontinuity
+
+Discontinuity interval and frequency
+
+Continuity of discontinuity
+
+Roughness and fluctuation of discontinuity surface
+
+Properties of filling material
+
+The strength of discontinuity surface and
+
+the degree of degradation
+Water condition on discontinuity surface
+
+The number of discontinuity set and
+
+discontinuity orientation
+Block size
+
+Discontinuity Properties / Discontinuity Types
+Group 1: discontinuities as set or appears to be a system, which can be subjected to statistical analysis and surface
+along the layer in which the occurrence of any displacement, such as joint, cleavage (cleavage) Schistosity, foliation
+lamination.
+Group 2: Located alone, not subjected to statistical analysis and a displacement is observed along its surface such as
+fault and shear zone.
+1. Contact: It is boundary between two
+different lithological boundaries, it is
+either conformal or discorformal
+2. Structure: It is developed depending on
+the grain size and orientation, the
+mineralogical composition, the color
+and hardness of the surface during the
+occurunce of sedimentary rocks.
+Discontinuity Properties / Discontinuity Types
+3. Fault surfaces exposed to shear failure where a relative displacement
+from a few centimeters to a kilometer long occurs.
+4. Joint surfaces Fractures where it is not possible to change anywhere
+along the Joint Surface.
+5. Foliation is the metamorphic origin weakness planes which are formed
+by preferential orientation of minerals under high pressure and / or
+temperature.
+6. The veins are fractures filled by a different material from the perimeter
+of the rock. Since the surfaces are not discrete, they are not weak
+discontinuities.
+Discontinuities Properties / discontinuity and
+Frequency Range
+The discontinuity interval (or intermediate distance) is the distance between two discontinuities in a
+discontinuity set consisting of 2 adjacent discontinuities or parallel discontinuities in the rock masses. This
+value can be measured from the discontinuities intersecting the strip meter along the strip meter laid on a
+certain area on the outcrop surface as well as from the drilling cores.
+Discontinuities Properties / Discontinuity Continuity
+The continuity of discontinuities is an important parameter affecting the stability of discontinuities. As the
+continuity increases, the slope durability increases. Continuous and uninterrupted joints out of the slope in
+figures are observed. Continuity is measured directly by the tape measure in the rock outcrop and is
+recorded as a three-dimensional concept.
+Discontinuities Properties / Roughness and ripples
+Roughness and waviness are a measure of the deviation of a discontinuity
+surface from small and large scale planarity, respectively. Ripple
+characterizes a deviation in a large measure from planarity, while deviations
+in a small measure are defined as roughness.
+Discontinuities Properties / Discontinuities Interval
+The clearance is the perpendicular distance between two opposing surfaces of a
+discontinuity, which may be empty or filled with water or any filler material.
+Filling in discontinuities
+Filler material is a material that fills between two opposing surfaces of discontinuity and is generally
+weaker than the parent rock material. The filler material reduces the roughness effect and reduces the
+shear strength of the discontinuities.
+Discontinuities Properties / Degradation and Strength of
+Discontinuity Surfaces
+The rock mass is often degraded in areas close to the surface, the deeper can be altered depending on the
+hydrothermal process. The impairment on the discontinuity surfaces is one of the factors affecting the
+strength of the discontinuities and should be defined by taking into consideration both the rock material
+and the impairment classifications recommended for the rock mass.
+Discontinuities Properties / Degradation and Strength of
+Discontinuity Surfaces
+The strength of the discontinuity surfaces is closely related to the degree of impairment of
+these surfaces and the rock material in the immediate vicinity. For this purpose, ISRM
+(1981) proposed a classification criterion of dislocation which can be used during field
+study. These categorizations lead to subjective evaluations in some cases since they are
+.
+purely observational
+Discontinuities Properties / Degradation and Strength of
+Discontinuity Surfaces
+In order to estimate the compressive strength of the discontinuity surfaces, the
+application is usually determined indirectly by Schmidt attractive experiment, while
+utilizing the simple classification of the land with definitions (ISRM, 1981).
+Discontinuities Properties / Degradation and Strength of
+Discontinuity Surfaces
+Discontinuity Properties / Water Conditions at
+Discontinuities
+The infiltration of water in rock masses occurs through the flow of water through the
+discontinuities associated with each other (secondary permeability). The mechanical
+properties of the rock mass change, especially in the presence of a continuous stream of
+water along discontinuities. The water stress between the surfaces of discontinuity
+reduces normal shear stress.
+Engineering Classification of Rocks
+Classification by discontinuities
+The rocks in the earth are divided into the following classes according to their discontinuities.
+Massive
+Thick layered
+Stratified
+Laminated
+Cracked and microcracked
+Articulated
+Fault
+Schistosite and Foliated
+Curved
+Classification by Mechanical Properties
+Drilling parameters detemined from drilling logs
+Drilling parameters detemined from drilling logs
